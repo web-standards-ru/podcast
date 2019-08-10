@@ -76,7 +76,7 @@
         {%- endfor -%}
         </itunes:author>
         <itunes:explicit>{{ explicit }}</itunes:explicit>
-        <itunes:summary>{{ localeDate }}: {{ episode.data.description | safe }}</itunes:summary>
+        <itunes:summary>{{ localeDate }}: {{ episode.data.description }}</itunes:summary>
         <itunes:image href="{{ paths.cover }}"/>
     </item>
 
