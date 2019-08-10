@@ -25,6 +25,14 @@ module.exports = function(config) {
         );
     });
 
+    config.addTransform('xmlmin', function(content, outputPath) {
+        if(outputPath && outputPath.endsWith('.xml')) {
+            let prettydata = require('pretty-data');
+            return prettydata.pd.xmlmin(content);
+        }
+        return content;
+    });
+
     return {
         dir: {
             input: 'src',
