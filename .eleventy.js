@@ -37,8 +37,8 @@ module.exports = function(config) {
         dir: {
             input: 'src',
             output: 'dist',
-            includes: "includes",
-            layouts: "layouts"
+            includes: 'includes',
+            layouts: 'layouts'
         },
         dataTemplateEngine: 'njk',
         markdownTemplateEngine: 'njk',
