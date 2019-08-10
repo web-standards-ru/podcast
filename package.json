@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "NODE_ICU_DATA=\"$(pwd)/node_modules/full-icu\" eleventy",
+    "deploy": "cd dist && rsync -az --delete --exclude=.DS_Store index.xml web-standards.ru:/var/www/web-standards.ru/html/podcast/feed/"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.1",
+    "full-icu": "^1.3.0",
+    "html-minifier": "^4.0.0"
+  }
+}

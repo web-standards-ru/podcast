@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+
+    <title>{{ title }}</title>
+    <description>{{ description }}</description>
+    <copyright>{{ copyright }}</copyright>
+    <language>{{ language }}</language>
+    <link>{{ paths.feed }}</link>
+
+    <atom:link href="{{ paths.feed }}" rel="self" type="application/rss+xml"/>
+
+    <itunes:subtitle>{{ subtitle }}</itunes:subtitle>
+    <itunes:author>
+    {%- for author in authors -%}
+        {{ author }}{% if not loop.last %}, {% endif %}
+    {%- endfor -%}
+    </itunes:author>
+    <itunes:explicit>{{ explicit }}</itunes:explicit>
+    <itunes:owner>
+        <itunes:name>{{ owner.name }}</itunes:name>
+        <itunes:email>{{ owner.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ paths.cover }}"/>
+    <itunes:category text="{{ category }}">
+        <itunes:category text="{{ subcategory }}"/>
+    </itunes:category>
+
+{%- for episode in collections.episode -%}
+
+    {% if episode.data.language == 'ru' %}
+        {% set localeHosts = 'Ведущие' %}
+        {% set localeTopics = 'Темы' %}
+        {% set localeDate = episode.date | ruDate %}
+    {% else %}
+        {% set localeHosts = 'Hosts' %}
+        {% set localeTopics = 'Topics' %}
+        {% set localeDate = episode.date | enDate %}
+    {% endif %}
+
+    {% set episodeDescription %}
+        <h2>{{ localeHosts }}</h2>
+        <ul>
+            {%- for hosts in episode.data.hosts -%}
+            <li>{{ hosts }}</li>
+            {%- endfor -%}
+        </ul>
+        <h2>{{ localeTopics }}</h2>
+        {% if episode.data.chapters %}
+        <ul>
+            {%- for chapter in episode.data.chapters -%}
+            <li>{{ chapter.time }} {{ chapter.title }}</li>
+            {%- endfor -%}
+        </ul>
+        {% endif %}
+        {% if episode.data.language == 'ru' %}
+            {% include 'links-ru.html' %}
+        {% else %}
+            {% include 'links-en.html' %}
+        {% endif %}
+        {{ episode.data.content | safe }}
+    {% endset %}
+
+    <item>
+        <title>{{ episode.data.title | safe }}</title>
+        <pubDate>{{ episode.date.toUTCString() }}</pubDate>
+        <description><![CDATA[{{ episodeDescription | htmlmin | safe }}]]></description>
+        <guid isPermaLink="true">{{ paths.audio }}{{ episode.fileSlug }}.mp3</guid>
+        <enclosure type="audio/mpeg" url="{{ paths.audio }}{{ episode.fileSlug }}.mp3" length="{{ episode.data.audio.length }}"/>
+
+        <itunes:episode>{{ episode.fileSlug }}</itunes:episode>
+        <itunes:duration>{{ episode.data.audio.duration }}</itunes:duration>
+        <itunes:author>
+        {%- for host in episode.data.hosts -%}
+            {{ host }}{% if not loop.last %}, {% endif %}
+        {%- endfor -%}
+        </itunes:author>
+        <itunes:explicit>{{ explicit }}</itunes:explicit>
+        <itunes:summary>{{ localeDate }}: {{ episode.data.description | safe }}</itunes:summary>
+        <itunes:image href="{{ paths.cover }}"/>
+    </item>
+
+{%- endfor -%}
+
+</channel>
+</rss>
