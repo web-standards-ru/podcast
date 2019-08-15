@@ -32,16 +32,12 @@
         {% set localeHosts = 'Ведущие' %}
         {% set localeTopics = 'Темы' %}
         {% set localeDate = episode.date | ruDate %}
-        {% set localeLinks %}
-            {% include 'links-ru.html' %}
-        {% endset %}
+        {% set localeLinks %}{% include 'links-ru.md' %}{% endset %}
     {% else %}
         {% set localeHosts = 'Hosts' %}
         {% set localeTopics = 'Topics' %}
         {% set localeDate = episode.date | enDate %}
-        {% set localeLinks %}
-            {% include 'links-en.html' %}
-        {% endset %}
+        {% set localeLinks %}{% include 'links-en.md' %}{% endset %}
     {% endif %}
 
     {% set episodeDescription %}
@@ -59,7 +55,7 @@
             {%- endfor -%}
         </ul>
         {% endif %}
-        {{ localeLinks | safe }}
+        {{ localeLinks | markdown | safe }}
         {{ episode.data.content | safe }}
     {% endset %}
 

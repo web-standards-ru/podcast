@@ -25,6 +25,13 @@ module.exports = function(config) {
         );
     });
 
+    config.addFilter('markdown', function(value) {
+        let markdown = require('markdown-it')({
+            html: true
+        });
+        return markdown.render(value);
+    });
+
     config.addTransform('xmlmin', function(content, outputPath) {
         if(outputPath && outputPath.endsWith('.xml')) {
             let prettydata = require('pretty-data');
