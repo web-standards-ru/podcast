@@ -2,7 +2,9 @@
   "private": true,
   "scripts": {
     "build": "NODE_ICU_DATA=$(pwd)/node_modules/full-icu eleventy",
-    "deploy": "cd dist && rsync -az --delete index.xml web-standards.ru:/var/www/web-standards.ru/html/podcast/feed/"
+    "mp3": "cd mp3 && rsync -az --delete . web-standards.ru:/var/www/web-standards.ru/html/podcast/episodes/",
+    "feed": "cd dist && rsync -az --delete index.xml web-standards.ru:/var/www/web-standards.ru/html/podcast/feed/",
+    "deploy": "npm run mp3 && npm run feed"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
