@@ -1,4 +1,37 @@
 module.exports = function(config) {
+    config.addFilter('length', function(path) {
+        const fs = require('fs');
+        const stats = fs.statSync(path);
+        return stats.size;
+    });
+
+    function getDuration(path) {
+        const music = require('music-metadata');
+
+        return music.parseFile(path)
+            .then(metadata => {
+                const duration = parseFloat(metadata.format.duration);
+                const date = new Date(null).setSeconds(Math.ceil(duration));
+
+                return new Intl.DateTimeFormat('en-US', {
+                    hour: 'numeric',
+                    minute: 'numeric',
+                    second: 'numeric',
+                    hour12: false,
+                    timeZone: 'UTC',
+                }).format(date);
+            })
+            .catch(error => {
+                console.log(error);
+            });
+    }
+
+    config.addNunjucksAsyncFilter('duration', async function (path, callback) {
+        const duration = await getDuration(path);
+
+        callback(null, duration);
+    });
+
     config.addFilter('ruDate', function(value) {
         return value.toLocaleString('ru', {
             year: 'numeric',

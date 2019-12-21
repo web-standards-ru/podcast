@@ -19,6 +19,7 @@ paths:
   cover: https://web-standards.ru/podcast/cover.png
   feed: https://web-standards.ru/podcast/feed/
   audio: https://web-standards.ru/podcast/episodes/
+  file: mp3/
 permalink: index.xml
 layout: feed.njk
 ---

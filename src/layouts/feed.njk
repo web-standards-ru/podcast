@@ -59,15 +59,22 @@
         {{ episode.data.content | safe }}
     {% endset %}
 
+    {% set fileUrl %}
+        {{ paths.audio }}{{ episode.fileSlug }}.mp3
+    {% endset %}
+    {% set filePath %}
+        {{ paths.file }}{{ episode.fileSlug }}.mp3
+    {% endset %}
+
     <item>
         <title>{{ episode.data.title | safe }}</title>
         <pubDate>{{ episode.date.toUTCString() }}</pubDate>
         <description><![CDATA[{{ episodeDescription | htmlmin | safe }}]]></description>
-        <guid isPermaLink="true">{{ paths.audio }}{{ episode.fileSlug }}.mp3</guid>
-        <enclosure type="audio/mpeg" url="{{ paths.audio }}{{ episode.fileSlug }}.mp3" length="{{ episode.data.audio.length }}"/>
+        <guid isPermaLink="true">{{ fileUrl | trim }}</guid>
+        <enclosure type="audio/mpeg" url="{{ fileUrl | trim }}" length="{{ filePath | trim | length }}"/>
 
         <itunes:episode>{{ episode.fileSlug }}</itunes:episode>
-        <itunes:duration>{{ episode.data.audio.duration }}</itunes:duration>
+        <itunes:duration>{{ filePath | trim | duration }}</itunes:duration>
         <itunes:author>
         {%- for host in episode.data.hosts -%}
             {{ host }}{% if not loop.last %}, {% endif %}
