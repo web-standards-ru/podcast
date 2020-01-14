@@ -1,4 +1,6 @@
 # Подкаст «Веб-стандарты»
+![](https://github.com/htmlacademy/barbershop-htmlcss-1/workflows/EditorConfig/badge.svg)
+![](https://github.com/htmlacademy/barbershop-htmlcss-1/workflows/YaSpeller/badge.svg)
 
 Новости фронтенда за неделю.
 
