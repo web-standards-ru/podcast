@@ -43,8 +43,8 @@
     {% set episodeDescription %}
         <h2>{{ localeHosts }}</h2>
         <ul>
-            {%- for hosts in episode.data.hosts -%}
-            <li>{{ hosts }}</li>
+            {%- for host in episode.data.hosts -%}
+            <li>{{ host }}</li>
             {%- endfor -%}
         </ul>
         <h2>{{ localeTopics }}</h2>
@@ -57,6 +57,13 @@
         {% endif %}
         {{ localeLinks | markdown | safe }}
         {{ episode.data.content | safe }}
+    {% endset %}
+
+    {% set episodeSummary %}
+        {{ localeDate }}: {{ episode.data.title }}
+        {%- for host in episode.data.hosts -%}
+            {% if loop.first %}. {% endif %}{{ host }}{% if not loop.last %}, {% endif %}
+        {%- endfor -%}.
     {% endset %}
 
     {% set fileUrl %}
@@ -81,7 +88,7 @@
         {%- endfor -%}
         </itunes:author>
         <itunes:explicit>{{ explicit }}</itunes:explicit>
-        <itunes:summary>{{ localeDate }}: {{ episode.data.description }}</itunes:summary>
+        <itunes:summary>{{ episodeSummary | trim }}</itunes:summary>
         <itunes:image href="{{ paths.cover }}"/>
     </item>
 
