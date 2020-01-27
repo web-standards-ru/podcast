@@ -1,10 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "build": "eleventy",
     "editorconfig": "editorconfig-checker",
     "yaspeller": "yaspeller src/episodes",
     "test": "npm run editorconfig && npm run yaspeller",
+    "build": "eleventy",
     "mp3": "cd src/mp3 && rsync -az --delete . web-standards.ru:/var/www/web-standards.ru/html/podcast/episodes/",
     "feed": "cd dist && rsync -az --delete index.xml web-standards.ru:/var/www/web-standards.ru/html/podcast/feed/",
     "deploy": "npm run mp3 && npm run feed"
