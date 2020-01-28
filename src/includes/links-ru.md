@@ -1,4 +1,5 @@
 Слушайте свежие эпизоды в
+[Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8),
 [Apple Podcasts](https://itunes.apple.com/podcast/id1080500016),
 [CastBox](https://castbox.fm/channel/id1177814),
 [Pocket Casts](https://pca.st/moFp),
