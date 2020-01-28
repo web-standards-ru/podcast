@@ -1,29 +1,32 @@
+---
+permalink: index.xml
+---
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 
-    <title>{{ title }}</title>
-    <description>{{ description }}</description>
-    <copyright>{{ copyright }}</copyright>
-    <language>{{ language }}</language>
-    <link>{{ paths.feed }}</link>
+    <title>{{ data.title }}</title>
+    <description>{{ data.description }}</description>
+    <copyright>{{ data.copyright }}</copyright>
+    <language>{{ data.language }}</language>
+    <link>{{ data.paths.feed }}</link>
 
-    <atom:link href="{{ paths.feed }}" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ data.paths.feed }}" rel="self" type="application/rss+xml"/>
 
-    <itunes:subtitle>{{ subtitle }}</itunes:subtitle>
+    <itunes:subtitle>{{ data.subtitle }}</itunes:subtitle>
     <itunes:author>
-    {%- for author in authors -%}
+    {%- for author in data.authors -%}
         {{ author }}{% if not loop.last %}, {% endif %}
     {%- endfor -%}
     </itunes:author>
-    <itunes:explicit>{{ explicit }}</itunes:explicit>
+    <itunes:explicit>{{ data.explicit }}</itunes:explicit>
     <itunes:owner>
-        <itunes:name>{{ owner.name }}</itunes:name>
-        <itunes:email>{{ owner.email }}</itunes:email>
+        <itunes:name>{{ data.owner.name }}</itunes:name>
+        <itunes:email>{{ data.owner.email }}</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ paths.cover }}"/>
-    <itunes:category text="{{ category }}">
-        <itunes:category text="{{ subcategory }}"/>
+    <itunes:image href="{{ data.paths.cover }}"/>
+    <itunes:category text="{{ data.category }}">
+        <itunes:category text="{{ data.subcategory }}"/>
     </itunes:category>
 
 {%- for episode in collections.episode -%}
@@ -60,17 +63,17 @@
     {% endset %}
 
     {% set episodeSummary %}
-        {{ localeDate }}: {{ episode.data.title }}
+        {{ localeDate }}: {{ episode.data.title | replace('&amp;amp;', '&#38;') }}
         {%- for host in episode.data.hosts -%}
             {% if loop.first %}. {% endif %}{{ host }}{% if not loop.last %}, {% endif %}
         {%- endfor -%}.
     {% endset %}
 
     {% set fileUrl %}
-        {{ paths.audio }}{{ episode.fileSlug }}.mp3
+        {{ data.paths.audio }}{{ episode.fileSlug }}.mp3
     {% endset %}
     {% set filePath %}
-        {{ paths.file }}{{ episode.fileSlug }}.mp3
+        {{ data.paths.file }}{{ episode.fileSlug }}.mp3
     {% endset %}
 
     <item>
@@ -87,9 +90,9 @@
             {{ host }}{% if not loop.last %}, {% endif %}
         {%- endfor -%}
         </itunes:author>
-        <itunes:explicit>{{ explicit }}</itunes:explicit>
+        <itunes:explicit>{{ data.explicit }}</itunes:explicit>
         <itunes:summary>{{ episodeSummary | trim }}</itunes:summary>
-        <itunes:image href="{{ paths.cover }}"/>
+        <itunes:image href="{{ data.paths.cover }}"/>
     </item>
 
 {%- endfor -%}
