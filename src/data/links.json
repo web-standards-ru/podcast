@@ -1,0 +1,29 @@
+{
+  "listen": {
+    "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8",
+    "apple": "https://itunes.apple.com/podcast/id1080500016",
+    "castbox": "https://castbox.fm/channel/id1177814",
+    "pocket": "https://pca.st/moFp",
+    "overcast": "https://overcast.fm/itunes1080500016",
+    "vk": "https://vk.com/podcasts-32017543",
+    "yandex": "https://music.yandex.ru/album/6245956",
+    "spotify": "https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV",
+    "youtube": "https://www.youtube.com/playlist?list=PLMBnwIwFEFHcwuevhsNXkFTcadeX5R1Go",
+    "soundcloud": "https://soundcloud.com/web-standards",
+    "rss": "https://web-standards.ru/podcast/feed/"
+  },
+  "read": {
+    "twitter": "https://twitter.com/webstandards_ru",
+    "vk": "https://vk.com/webstandards_ru",
+    "facebook": "https://www.facebook.com/webstandardsru",
+    "telegram": "https://t.me/webstandards_ru"
+  },
+  "support": {
+    "patreon": "https://www.patreon.com/webstandards_ru",
+    "yandex": "https://money.yandex.ru/to/41001119329753",
+    "paypal": "https://www.paypal.me/pepelsbey"
+  },
+  "discuss": {
+    "slack": "http://slack.web-standards.ru/"
+  }
+}
