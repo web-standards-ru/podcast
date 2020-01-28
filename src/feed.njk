@@ -14,6 +14,7 @@ permalink: index.xml
     <atom:link href="{{ data.paths.feed }}" rel="self" type="application/rss+xml"/>
 
     <itunes:subtitle>{{ data.subtitle }}</itunes:subtitle>
+    <itunes:type>{{ data.type }}</itunes:type>
     <itunes:author>
     {%- for author in data.authors -%}
         {{ author }}{% if not loop.last %}, {% endif %}
