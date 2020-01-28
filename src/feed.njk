@@ -63,7 +63,7 @@ permalink: index.xml
     {% endset %}
 
     {% set episodeSummary %}
-        {{ localeDate }}: {{ episode.data.title | replace('&amp;amp;', '&#38;') }}
+        {{ localeDate }}: {{ episode.data.title }}
         {%- for host in episode.data.hosts -%}
             {% if loop.first %}. {% endif %}{{ host }}{% if not loop.last %}, {% endif %}
         {%- endfor -%}.
