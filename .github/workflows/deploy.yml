@@ -1,0 +1,26 @@
+name: Deploy
+on: [push]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [13.x]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      # Setup key
+      - run: set -eu
+      - run: mkdir "$HOME/.ssh"
+      - run: echo "${{ secrets.key }}" > "$HOME/.ssh/key"
+      - run: chmod 600 "$HOME/.ssh/key"
+      # Build
+      - run: npm ci
+      - run: npm run build
+      # Deploy MP3
+      - run: cd src/mp3 && rsync -e "ssh -i $HOME/.ssh/key -o StrictHostKeyChecking=no" -az --delete . web-standards.ru:/var/www/web-standards.ru/html/podcast/episodes/
+      # Deploy RSS
+      - run: cd dist && rsync -e "ssh -i $HOME/.ssh/key -o StrictHostKeyChecking=no" -az --delete index.xml web-standards.ru:/var/www/web-standards.ru/html/podcast/feed/
