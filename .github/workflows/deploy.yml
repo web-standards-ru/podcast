@@ -2,7 +2,7 @@ name: Deploy
 on: [push]
 
 jobs:
-  lint:
+  deploy:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -21,6 +21,6 @@ jobs:
       - run: npm ci
       - run: npm run build
       # Deploy MP3
-      - run: cd src/mp3 && rsync -e "ssh -i $HOME/.ssh/key -o StrictHostKeyChecking=no" -az --delete . web-standards.ru:/var/www/web-standards.ru/html/podcast/episodes/
+      - run: cd src/mp3 && rsync -e "ssh -i $HOME/.ssh/key -o StrictHostKeyChecking=no" -az --delete . pepelsbey@web-standards.ru:/var/www/web-standards.ru/html/podcast/episodes/
       # Deploy RSS
-      - run: cd dist && rsync -e "ssh -i $HOME/.ssh/key -o StrictHostKeyChecking=no" -az --delete index.xml web-standards.ru:/var/www/web-standards.ru/html/podcast/feed/
+      - run: cd dist && rsync -e "ssh -i $HOME/.ssh/key -o StrictHostKeyChecking=no" -az --delete index.xml pepelsbey@web-standards.ru:/var/www/web-standards.ru/html/podcast/feed/
