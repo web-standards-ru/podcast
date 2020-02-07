@@ -9,6 +9,7 @@ jobs:
         node-version: [13.x]
     steps:
       - uses: actions/checkout@v2
+        lfs: true
       - uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
