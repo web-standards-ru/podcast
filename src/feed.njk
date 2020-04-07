@@ -112,26 +112,23 @@ permalink: index.xml
         <h2>{{ localeHosts }}</h2>
         <ul>
             {%- for host in episode.data.hosts -%}
-            <li>{{ host }}</li>
+                <li>{{ host }}</li>
             {%- endfor -%}
         </ul>
         <h2>{{ localeTopics }}</h2>
         {% if episode.data.chapters %}
-        <ul>
-            {%- for chapter in episode.data.chapters -%}
-            <li>{{ chapter.time }} {{ chapter.title }}</li>
-            {%- endfor -%}
-        </ul>
+            <ul>
+                {%- for chapter in episode.data.chapters -%}
+                    <li>{{ chapter.time }} {{ chapter.title }}</li>
+                {%- endfor -%}
+            </ul>
         {% endif %}
         {{ localeLinks | safe }}
         {{ episode.templateContent | safe }}
     {% endset %}
 
     {% set episodeSummary %}
-        {{ localeDate }}: {{ episode.data.title }}
-        {%- for host in episode.data.hosts -%}
-            {% if loop.first %}. {% endif %}{{ host }}{% if not loop.last %}, {% endif %}
-        {%- endfor -%}.
+        {{ localeDate }}: {{ episode.data.title }}. {{ episode.data.hosts | join(', ') }}
     {% endset %}
 
     {% set fileUrl %}
@@ -150,11 +147,7 @@ permalink: index.xml
 
         <itunes:episode>{{ episode.fileSlug }}</itunes:episode>
         <itunes:duration>{{ filePath | trim | duration }}</itunes:duration>
-        <itunes:author>
-        {%- for host in episode.data.hosts -%}
-            {{ host }}{% if not loop.last %}, {% endif %}
-        {%- endfor -%}
-        </itunes:author>
+        <itunes:author>{{ episode.data.hosts | join(', ') }}</itunes:author>
         <itunes:explicit>{{ data.explicit }}</itunes:explicit>
         <itunes:summary>{{ episodeSummary | trim }}</itunes:summary>
         <itunes:image href="{{ data.paths.cover }}"/>
