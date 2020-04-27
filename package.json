@@ -5,8 +5,8 @@
     "yaspeller": "yaspeller src/episodes",
     "test": "npm run editorconfig && npm run yaspeller",
     "build": "eleventy",
-    "mp3": "cd src/mp3 && rsync -az --delete . web-standards.ru:/var/www/web-standards.ru/html/podcast/episodes/",
-    "feed": "cd dist && rsync -az --delete index.xml web-standards.ru:/var/www/web-standards.ru/html/podcast/feed/",
+    "mp3": "cd src/mp3 && rsync --archive --compress --delete . wst@web-standards.ru:/var/www/web-standards.ru/podcast/episodes/",
+    "feed": "cd dist && rsync --archive --compress --delete index.xml wst@web-standards.ru:/var/www/web-standards.ru/podcast/feed/",
     "deploy": "npm run mp3 && npm run feed"
   },
   "engines": {
