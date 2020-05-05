@@ -6,8 +6,9 @@
     "test": "npm run editorconfig && npm run yaspeller",
     "build": "eleventy",
     "mp3": "cd src/mp3 && rsync --archive --compress --delete --delete-excluded --exclude .DS_Store . wst@web-standards.ru:/var/www/web-standards.ru/podcast/episodes/",
+    "cover": "cd src && rsync --archive --compress cover.png wst@web-standards.ru:/var/www/web-standards.ru/podcast/",
     "feed": "cd dist && rsync --archive --compress index.xml wst@web-standards.ru:/var/www/web-standards.ru/podcast/feed/",
-    "deploy": "npm run mp3 && npm run feed"
+    "deploy": "npm run mp3 && npm run cover && npm run feed"
   },
   "engines": {
     "node": ">=13"
