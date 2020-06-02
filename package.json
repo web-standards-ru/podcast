@@ -14,10 +14,10 @@
     "node": ">=13"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy": "^0.11.0",
     "editorconfig-checker": "^3.0.4",
     "html-minifier": "^4.0.0",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^11.0.0",
     "music-metadata": "^6.3.7",
     "pretty-data": "^0.40.0",
     "yaspeller": "^7.0.0"
