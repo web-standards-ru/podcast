@@ -123,8 +123,8 @@ permalink: index.xml
                 {%- endfor -%}
             </ul>
         {% endif %}
-        {{ localeLinks | safe }}
         {{ episode.templateContent | safe }}
+        {{ localeLinks | safe }}
     {% endset %}
 
     {% set episodeSummary %}
