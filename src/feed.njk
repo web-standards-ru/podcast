@@ -30,7 +30,7 @@ permalink: index.xml
         <itunes:category text="{{ data.subcategory }}"/>
     </itunes:category>
 
-{%- for episode in collections.episode -%}
+{%- for episode in collections.episode | reverse -%}
 
     {% if episode.data.language == 'ru' %}
         {% set localeHosts = 'Ведущие' %}
