@@ -139,7 +139,7 @@ permalink: index.xml
     {% endset %}
 
     <item>
-        <title>{{ episode.data.title | escape }}</title>
+        <title>{{ episode.fileSlug }}. {{ episode.data.title | escape }}</title>
         <pubDate>{{ episode.date.toUTCString() }}</pubDate>
         <description><![CDATA[{{ episodeDescription | htmlmin | safe }}]]></description>
         <guid isPermaLink="true">{{ fileUrl | trim }}</guid>
