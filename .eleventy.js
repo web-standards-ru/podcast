@@ -1,19 +1,23 @@
-module.exports = function(config) {
-    config.addFilter('length', function(path) {
-        const fs = require('fs');
+const fs = require('fs');
+const htmlmin = require('html-minifier');
+const markdown = require('markdown-it')({ html: true });
+const music = require('music-metadata');
+const prettydata = require('pretty-data');
+
+module.exports = (config) => {
+    config.addFilter('length', (path) => {
         const stats = fs.statSync(path);
         return stats.size;
     });
 
-    function getDuration(path) {
-        const music = require('music-metadata');
+    const getDuration = (path) => {
 
         return music.parseFile(path)
             .then(metadata => {
                 const duration = parseFloat(metadata.format.duration);
                 const date = new Date(null).setSeconds(Math.ceil(duration));
 
-                return new Intl.DateTimeFormat('en-US', {
+                return new Intl.DateTimeFormat('en', {
                     hour: 'numeric',
                     minute: 'numeric',
                     second: 'numeric',
@@ -26,13 +30,13 @@ module.exports = function(config) {
             });
     }
 
-    config.addNunjucksAsyncFilter('duration', async function (path, callback) {
+    config.addNunjucksAsyncFilter('duration', async (path, callback) => {
         const duration = await getDuration(path);
 
         callback(null, duration);
     });
 
-    config.addFilter('ruDate', function(value) {
+    config.addFilter('ruDate', (value) => {
         return value.toLocaleString('ru', {
             year: 'numeric',
             month: 'long',
@@ -40,7 +44,7 @@ module.exports = function(config) {
         }).replace(' г.', '');
     });
 
-    config.addFilter('enDate', function(value) {
+    config.addFilter('enDate', (value) => {
         return value.toLocaleString('en', {
             year: 'numeric',
             month: 'long',
@@ -48,8 +52,7 @@ module.exports = function(config) {
         });
     });
 
-    config.addFilter('htmlmin', function(value) {
-        let htmlmin = require('html-minifier');
+    config.addFilter('htmlmin', (value) => {
         return htmlmin.minify(
             value, {
                 removeComments: true,
@@ -58,16 +61,12 @@ module.exports = function(config) {
         );
     });
 
-    config.addFilter('markdown', function(value) {
-        let markdown = require('markdown-it')({
-            html: true
-        });
+    config.addFilter('markdown', (value) => {
         return markdown.render(value);
     });
 
-    config.addTransform('xmlmin', function(content, outputPath) {
+    config.addTransform('xmlmin', (content, outputPath) => {
         if(outputPath && outputPath.endsWith('.xml')) {
-            let prettydata = require('pretty-data');
             return prettydata.pd.xmlmin(content);
         }
         return content;
