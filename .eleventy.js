@@ -11,19 +11,10 @@ module.exports = (config) => {
     });
 
     const getDuration = (path) => {
-
         return music.parseFile(path)
             .then(metadata => {
                 const duration = parseFloat(metadata.format.duration);
-                const date = new Date(null).setSeconds(Math.ceil(duration));
-
-                return new Intl.DateTimeFormat('en', {
-                    hour: 'numeric',
-                    minute: 'numeric',
-                    second: 'numeric',
-                    hour12: false,
-                    timeZone: 'UTC',
-                }).format(date);
+                return new Date(Math.ceil(duration) * 1000).toISOString().substr(11, 8);
             })
             .catch(error => {
                 console.log(error);
