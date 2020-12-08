@@ -17,8 +17,8 @@
     "@11ty/eleventy": "^0.11.1",
     "editorconfig-checker": "^3.3.0",
     "html-minifier": "^4.0.0",
-    "markdown-it": "^12.0.2",
-    "music-metadata": "^7.5.0",
+    "markdown-it": "^12.0.3",
+    "music-metadata": "^7.5.1",
     "pretty-data": "^0.40.0",
     "yaspeller": "^7.0.0"
   }
