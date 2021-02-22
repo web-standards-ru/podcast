@@ -336,6 +336,7 @@
 [267]: src/episodes/267.md
 [268]: src/episodes/268.md
 [269]: src/episodes/269.md
+[270]: src/episodes/270.md
 
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md), работает на [Eleventy](https://www.11ty.io/).
