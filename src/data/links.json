@@ -1,6 +1,6 @@
 {
   "listen": {
-    "google": "https://podcasts.google.com/?feed=aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8",
+    "google": "https://podcasts.google.com/feed/aHR0cHM6Ly93ZWItc3RhbmRhcmRzLnJ1L3BvZGNhc3QvZmVlZC8",
     "apple": "https://podcasts.apple.com/podcast/id1080500016",
     "castbox": "https://castbox.fm/channel/id1177814",
     "pocket": "https://pca.st/moFp",
