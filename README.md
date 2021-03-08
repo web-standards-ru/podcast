@@ -1,6 +1,7 @@
 # Подкаст «Веб-стандарты»
-![](https://github.com/web-standards-ru/podcast.11ty/workflows/EditorConfig/badge.svg)
-![](https://github.com/web-standards-ru/podcast.11ty/workflows/YaSpeller/badge.svg)
+
+[![Статус тестов EditorConfig](https://github.com/web-standards-ru/podcast/workflows/EditorConfig/badge.svg)](https://github.com/web-standards-ru/podcast/actions/workflows/editorconfig.yml)
+[![Статус тестов YaSpeller](https://github.com/web-standards-ru/podcast/workflows/YaSpeller/badge.svg)](https://github.com/web-standards-ru/podcast/actions/workflows/yaspeller.yml)
 
 Новости фронтенда за неделю.
 
