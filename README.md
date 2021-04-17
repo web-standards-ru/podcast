@@ -3,7 +3,7 @@
 [![Статус тестов EditorConfig](https://github.com/web-standards-ru/podcast/workflows/EditorConfig/badge.svg)](https://github.com/web-standards-ru/podcast/actions/workflows/editorconfig.yml)
 [![Статус тестов YaSpeller](https://github.com/web-standards-ru/podcast/workflows/YaSpeller/badge.svg)](https://github.com/web-standards-ru/podcast/actions/workflows/yaspeller.yml)
 
-Новости фронтенда за неделю.
+Новости фронтенда за неделю.
 
 - Ольга Алексашенко
 - Никита Дубко
@@ -347,4 +347,4 @@
 [277]: src/episodes/277.md
 
 ---
-Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md), работает на [Eleventy](https://www.11ty.io/).
+Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md), работает на [Eleventy](https://www.11ty.io/).
