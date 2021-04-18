@@ -345,6 +345,7 @@
 [275]: src/episodes/275.md
 [276]: src/episodes/276.md
 [277]: src/episodes/277.md
+[278]: src/episodes/278.md
 
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md), работает на [Eleventy](https://www.11ty.io/).
