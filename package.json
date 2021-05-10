@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "editorconfig": "editorconfig-checker",
-    "yaspeller": "yaspeller src/episodes",
+    "yaspeller": "yaspeller --only-errors src/episodes",
     "test": "npm run editorconfig && npm run yaspeller",
     "build": "eleventy",
     "mp3": "cd src/mp3 && rsync --archive --compress --delete --delete-excluded --exclude .DS_Store . wst@web-standards.ru:/var/www/web-standards.ru/podcast/episodes/",
