@@ -145,7 +145,7 @@ permalink: index.xml
         <itunes:duration>{{ filePath | trim | duration }}</itunes:duration>
         <itunes:author>{{ episode.data.hosts | join(', ') }}</itunes:author>
         <itunes:explicit>{{ data.explicit }}</itunes:explicit>
-        <itunes:summary>{{ episodeSummary | trim }}</itunes:summary>
+        <itunes:summary><![CDATA[{{ episodeDescription | htmlmin | safe }}]]></itunes:summary>
         <itunes:image href="{{ data.paths.cover }}"/>
     </item>
 
