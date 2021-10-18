@@ -21,6 +21,6 @@
     "markdown-it": "^12.2.0",
     "music-metadata": "^7.11.4",
     "pretty-data": "^0.40.0",
-    "yaspeller": "^7.0.0"
+    "yaspeller": "^7.2.0"
   }
 }
