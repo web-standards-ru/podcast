@@ -22,6 +22,7 @@
   },
   "copyright": "СС BY-NC-ND 4.0",
   "paths": {
+    "page": "https://web-standards.ru/podcast/",
     "cover": "https://web-standards.ru/podcast/cover.png",
     "feed": "https://web-standards.ru/podcast/feed/",
     "audio": "https://web-standards.ru/podcast/episodes/",

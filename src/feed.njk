@@ -9,7 +9,7 @@ permalink: index.xml
     <description>{{ data.description }}</description>
     <copyright>{{ data.copyright }}</copyright>
     <language>{{ data.language }}</language>
-    <link>{{ data.paths.feed }}</link>
+    <link>{{ data.paths.page }}</link>
 
     <atom:link href="{{ data.paths.feed }}" rel="self" type="application/rss+xml"/>
 
@@ -136,6 +136,7 @@ permalink: index.xml
 
     <item>
         <title>{{ episode.fileSlug }}. {{ episode.data.title | escape }}</title>
+        <link>{{ data.paths.page }}{{ episode.fileSlug }}/</link>
         <pubDate>{{ episode.date.toUTCString() }}</pubDate>
         <description><![CDATA[{{ episodeDescription | htmlmin | safe }}]]></description>
         <guid isPermaLink="true">{{ fileUrl | trim }}</guid>
