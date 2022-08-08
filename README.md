@@ -409,6 +409,7 @@
 [327]: src/episodes/327.md
 [328]: src/episodes/328.md
 [329]: src/episodes/329.md
+[330]: src/episodes/330.md
 
 ---
 Распространяется под лицензией [СС BY-NC-ND 4.0](LICENSE.md), работает на [Eleventy](https://www.11ty.io/).
