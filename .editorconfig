@@ -8,5 +8,5 @@ trim_trailing_whitespace = true
 insert_final_newline = true
 charset = utf-8
 
-[*.njk]
+[*.{js,njk}]
 indent_size = 4
