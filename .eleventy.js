@@ -11,7 +11,7 @@ module.exports = (config) => {
     });
 
     const getDuration = (path) => {
-        return music.parseFile(path)
+        return music.parseFile(path, { duration: true })
             .then(metadata => {
                 const duration = parseFloat(metadata.format.duration);
                 return new Date(Math.ceil(duration) * 1000).toISOString().substring(11, 19);
