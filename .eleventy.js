@@ -1,30 +1,12 @@
 const fs = require('fs');
 const htmlmin = require('html-minifier');
 const markdown = require('markdown-it')({ html: true });
-const music = require('music-metadata');
 const prettydata = require('pretty-data');
 
 module.exports = (config) => {
     config.addFilter('length', (path) => {
         const stats = fs.statSync(path);
         return stats.size;
-    });
-
-    const getDuration = (path) => {
-        return music.parseFile(path, { duration: true })
-            .then(metadata => {
-                const duration = parseFloat(metadata.format.duration);
-                return new Date(Math.ceil(duration) * 1000).toISOString().substring(11, 19);
-            })
-            .catch(error => {
-                console.log(error);
-            });
-    }
-
-    config.addNunjucksAsyncFilter('duration', async (path, callback) => {
-        const duration = await getDuration(path);
-
-        callback(null, duration);
     });
 
     config.addFilter('ruDate', (value) => {

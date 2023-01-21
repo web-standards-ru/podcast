@@ -15,11 +15,10 @@
     "npm": ">=8"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-canary.30",
+    "@11ty/eleventy": "^2.0.0-beta.1",
     "editorconfig-checker": "4.0.0",
     "html-minifier": "^4.0.0",
     "markdown-it": "^13.0.1",
-    "music-metadata": "7.12.3",
     "pretty-data": "^0.40.0",
     "yaspeller": "^8.0.1"
   }

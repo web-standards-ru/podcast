@@ -90,7 +90,7 @@ permalink: index.xml
         <enclosure type="audio/mpeg" url="{{ fileUrl | trim }}" length="{{ filePath | trim | length }}"/>
 
         <itunes:episode>{{ episode.fileSlug }}</itunes:episode>
-        <itunes:duration>{{ filePath | trim | duration }}</itunes:duration>
+        <itunes:duration>{{ episode.data.duration }}</itunes:duration>
         <itunes:author>{{ episode.data.hosts | join(', ') }}</itunes:author>
         <itunes:explicit>{{ data.explicit }}</itunes:explicit>
         <itunes:summary>{{ episodeSummary | trim }}</itunes:summary>
