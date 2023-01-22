@@ -2,7 +2,6 @@ const fs = require('node:fs');
 const yaml = require('js-yaml');
 const htmlmin = require('html-minifier-terser');
 const markdown = require('markdown-it')({ html: true });
-const { htmlToText } = require('html-to-text');
 const xml = require('minify-xml');
 
 module.exports = (config) => {
@@ -24,17 +23,6 @@ module.exports = (config) => {
 
 	config.addFilter('markdown', (value) => {
 		return markdown.renderInline(value);
-	});
-
-	config.addFilter('htmlToText', (value) => {
-		return htmlToText(value, {
-			wordwrap: false,
-			selectors: [
-				{ selector: 'h2', options: { uppercase: false, leadingLineBreaks: 1 } },
-				{ selector: 'ul', options: { itemPrefix: '- ' } },
-				{ selector: 'a', options: { linkBrackets: false } },
-			]
-		});
 	});
 
 	config.addFilter('htmlmin', async (value) => {
