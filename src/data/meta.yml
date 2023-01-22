@@ -5,8 +5,11 @@ description: Новости фронтенда в еженедельном по�
 url: https://web-standards.ru/podcast/
 author: Сообщество «Веб-стандарты»
 type: episodic
-category: Technology
-subcategory: Tech News
+categories:
+  - title: Technology
+  - title: News
+    items:
+      - Tech News
 explicit: false
 language: ru
 
