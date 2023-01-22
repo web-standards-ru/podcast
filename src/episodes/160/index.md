@@ -25,9 +25,9 @@
 
 ## SVG-фильтры
 
-- [Outline Text with `<feMorphology>`](https://tympanus.net/codrops/2019/01/22/svg-filter-effects-outline-text-with-femorphology/)
-- [Poster Image Effect with `<feComponentTransfer>`](https://tympanus.net/codrops/2019/01/29/svg-filter-effects-poster-image-effect-with-fecomponenttransfer/)
-- [Duotone Images with `<feComponentTransfer>`](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
+- [Outline Text with feMorphology](https://tympanus.net/codrops/2019/01/22/svg-filter-effects-outline-text-with-femorphology/)
+- [Poster Image Effect with feComponentTransfer](https://tympanus.net/codrops/2019/01/29/svg-filter-effects-poster-image-effect-with-fecomponenttransfer/)
+- [Duotone Images with feComponentTransfer](https://tympanus.net/codrops/2019/02/05/svg-filter-effects-duotone-images-with-fecomponenttransfer/)
 - [Слайды доклада «SVG-фильтры»](https://yoksel.github.io/svg-filters-02-2018/)
 - [Демка Юли «Мозги»](https://codepen.io/yoksel/pen/BOjmqj)
 - [Демка Габи «Рябь на воде»](https://codepen.io/enxaneta/pen/oYMxqe)

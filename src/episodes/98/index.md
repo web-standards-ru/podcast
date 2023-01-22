@@ -22,7 +22,7 @@
 
 ## GIF устарел
 
-- [Эволюция `<img>` Gif без формата GIF](https://habr.ru/p/343958/)
+- [Эволюция img Gif без формата GIF](https://habr.ru/p/343958/)
 - [Debugging Grid Layouts With Firefox Grid Inspector](https://www.smashingmagazine.com/2017/12/grid-inspector/)
 
 ## Smashing Magazine

@@ -8,9 +8,9 @@
 
 ## Зачем чинить старьё
 
-- [Починили `<marquee>` в Safari TP11](https://webkit.org/blog/6883/release-notes-for-safari-technology-preview-release-11/)
-- [На сайте РЖД есть `<marquee>`](http://pass.rzd.ru/)
-- [Take `<blink>` Back!](https://takeblinkback.com/)
+- [Починили marquee в Safari TP11](https://webkit.org/blog/6883/release-notes-for-safari-technology-preview-release-11/)
+- [На сайте РЖД есть marquee](http://pass.rzd.ru/)
+- [Take blink Back!](https://takeblinkback.com/)
 
 ## Мысли про React
 
@@ -38,7 +38,7 @@
 - [Конкурс 10K Apart](https://a-k-apart.com/)
 - [CSS1K](http://css1k.net/) и [JS1K](http://js1k.com/)
 - [Твиттер @140bytes](https://twitter.com/140bytes)
-- [Offline Text Editor in < 140 bytes](https://gist.github.com/addyosmani/d1f3ca715ac902788c2d)
+- [Offline Text Editor in less than 140 bytes](https://gist.github.com/addyosmani/d1f3ca715ac902788c2d)
 
 ## Интернет в отпуске
 

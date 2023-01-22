@@ -36,7 +36,7 @@
 ## Доступность
 
 - [Hiding inline SVG icons from screen readers](http://www.456bereastreet.com/archive/201609/hiding_inline_svg_icons_from_screen_readers/)
-- [Всегда используйте `<label>`](https://htmlacademy.ru/blog/115-always-use-a-label)
+- [Всегда используйте label](https://htmlacademy.ru/blog/115-always-use-a-label)
 
 ## Длинные классы в БЭМе
 

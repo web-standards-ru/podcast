@@ -49,4 +49,4 @@
 
 - [CSS Shadow Parts](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
 - [Form associated Custom Elements](https://web.dev/more-capable-form-controls/)
-- [Custom `:state` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
+- [Custom :state pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)

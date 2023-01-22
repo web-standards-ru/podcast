@@ -7,12 +7,12 @@
 ## Лого Mozilla
 
 - [Moz://a Arrival](https://blog.mozilla.org/opendesign/arrival/)
-- [`moz://` URI scheme](http://www.iana.org/assignments/uri-schemes/prov/moz)
+- [moz:// URI scheme](http://www.iana.org/assignments/uri-schemes/prov/moz)
 
 ## Ввод дат
 
 - [Date/Time Input Types](http://slides.com/jessicajong/datetime)
-- [Making `<input type=date>` complicated](https://medium.com/p/a544fd27c45a)
+- [Making input type=date complicated](https://medium.com/p/a544fd27c45a)
 
 ## Чек-лист
 
@@ -44,4 +44,4 @@
 - [How I do an accessibility audit](https://youtu.be/cOmehxAU_4s)
 - [Accessibility Devtools Extension](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 - [axe-core](https://github.com/dequelabs/axe-core)
-- [Using the `aria-current` attribute](http://tink.uk/using-the-aria-current-attribute/)
+- [Using the aria-current attribute](http://tink.uk/using-the-aria-current-attribute/)

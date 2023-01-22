@@ -36,7 +36,7 @@
 ## Юникодный бэкдор
 
 - [The invisible JS backdoor](https://certitude.consulting/blog/en/invisible-backdoor/)
-- VS Code: `"editor.unicodeHighlight.ambiguousCharacters": false`
+- VS Code: "editor.unicodeHighlight.ambiguousCharacters": false
 - [Panic Nova](https://nova.app/)
 - [Zed: lightning-fast, collaborative code editor written in Rust](https://zed.dev/)
 - [Lapce: lightning-fast and powerful code editor written in Rust](https://github.com/lapce/lapce)

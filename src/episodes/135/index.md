@@ -13,9 +13,9 @@
 
 ## Флексы и кастомные свойства
 
-- [Firefox Nightly: `column-gap` and `row-gap` in Flexbox](https://twitter.com/rachelandrew/status/1032561925987737600)
+- [Firefox Nightly: column-gap and row-gap in Flexbox](https://twitter.com/rachelandrew/status/1032561925987737600)
 - [Интерактивные курсы (карточки на гридах)](https://htmlacademy.ru/courses)
-- [Custom CSS Properties do not worki inside `@page`](https://bugs.chromium.org/p/chromium/issues/detail?id=763298)
+- [Custom CSS Properties do not worki inside @page](https://bugs.chromium.org/p/chromium/issues/detail?id=763298)
 
 ## Совместимость и -webkit-мусор
 

@@ -28,7 +28,7 @@
 
 ## Font-display в Google Fonts
 
-- [Google Fonts supports `font-dispay`](https://twitter.com/addyosmani/status/1126370518347608065)
+- [Google Fonts supports font-dispay](https://twitter.com/addyosmani/status/1126370518347608065)
 
 ## Перфоманс и порталы
 

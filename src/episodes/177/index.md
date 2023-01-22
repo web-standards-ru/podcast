@@ -21,20 +21,20 @@
 - [Microsoft Edge preview builds for macOS](https://blogs.windows.com/msedgedev/2019/05/20/microsoft-edge-macos-canary-preview/)
 - [Firefox 67](http://tanalin.com/blog/2019/05/firefox-67/)
 - [CSS Grid subgrid lands in Firefox Nightly](https://rachelandrew.co.uk/archives/2019/05/23/css-grid-subgrid-lands-in-firefox-nightly/)
-- [Blink‎ LayoutNG](https://www.chromium.org/blink/layoutng)
+- [Blink LayoutNG](https://www.chromium.org/blink/layoutng)
 
 ## Font-display в Google Fonts
 
-- [Google Fonts is Adding `font-display`](https://www.zachleat.com/web/google-fonts-display/)
-- [Monica’s `font-display` explainer](https://font-display.glitch.me/)
+- [Google Fonts is Adding font-display](https://www.zachleat.com/web/google-fonts-display/)
+- [Monica’s font-display explainer](https://font-display.glitch.me/)
 
 ## Иконочные шрифты
 
-- [`Font-display` is Incompatible with icon fonts](https://www.zachleat.com/web/font-display-icon-fonts/)
+- [Font-display is Incompatible with icon fonts](https://www.zachleat.com/web/font-display-icon-fonts/)
 
 ## Формы и клавиатура
 
-- [Everything You Ever Wanted to Know About `inputmode`](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
+- [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
 
 ## Доступные меню и кнопки
 

@@ -22,7 +22,7 @@
 
 ## JS-модули в HTML
 
-- [Intent to ship `<script type=module>` in Blink](https://twitter.com/domenic/status/877346264102338562)
+- [Intent to ship script type=module in Blink](https://twitter.com/domenic/status/877346264102338562)
 
 ## Webpack 3
 

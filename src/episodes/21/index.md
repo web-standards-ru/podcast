@@ -16,7 +16,7 @@
 
 - [Что должен знать HTML-верстальщик?](http://krekotun.ru/ui-developer-skills)
 - [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584/improving-css-quality-at-facebook-and-beyond)
-- [Как во флексбоксе работают `z-index` и автоотступы](http://prgssr.ru/development/kak-rabotayut-v-fleksbokse-z-index-i-avtootstupy.html)
+- [Как во флексбоксе работают z-index и автоотступы](http://prgssr.ru/development/kak-rabotayut-v-fleksbokse-z-index-i-avtootstupy.html)
 - [New CSS Flexbox behavior for absolute-positioned children](https://googlechrome.github.io/samples/css-flexbox-abspos/index.html)
 - [Pixel Density, Demystified](https://medium.com/p/a4db63ba2922)
 - [Anchors vs Buttons](https://bitsofco.de/anchors-vs-buttons/)

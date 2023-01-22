@@ -10,7 +10,7 @@
 
 ## TypeScript в Svelte
 
-- [Svelte <3 TypeScript](https://svelte.dev/blog/svelte-and-typescript)
+- [Svelte Loves TypeScript](https://svelte.dev/blog/svelte-and-typescript)
 
 ## Типизированный CSS
 

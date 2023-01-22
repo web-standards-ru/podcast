@@ -17,7 +17,7 @@
 ## Встроенный скроллер в Chrome
 
 - [Release Notes Safari TP 77](https://webkit.org/blog/8658/release-notes-for-safari-technology-preview-77/)
-- [`<virtual-scroller>`](https://valdrinkoshi.github.io/virtual-scroller/)
+- [Virtual-scroller](https://valdrinkoshi.github.io/virtual-scroller/)
 - [HTML Template Instantiation](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/Template-Instantiation.md)
 
 ## Развитие SVG и & в CSS

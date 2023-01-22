@@ -15,7 +15,7 @@
 ## Адаптация таблиц
 
 - [Under-Engineered Responsive Tables](https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html)
-- [When is it appropriate to use `<table>`?](https://twitter.com/mmatuzo/status/1332242420646498305)
+- [When is it appropriate to use table?](https://twitter.com/mmatuzo/status/1332242420646498305)
 
 ## Устройство браузера
 

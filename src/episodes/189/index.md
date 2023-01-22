@@ -19,7 +19,7 @@
 
 ## Поворот картинки в CSS
 
-- [Consider changing initial value of `image-orientation` to from-image](https://github.com/w3c/csswg-drafts/issues/3799)
+- [Consider changing initial value of image-orientation to from-image](https://github.com/w3c/csswg-drafts/issues/3799)
 
 ## Нативные CSS-модули
 

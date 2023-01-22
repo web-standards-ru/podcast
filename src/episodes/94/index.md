@@ -16,7 +16,7 @@
 
 ## Типографика и CSS
 
-- [Intent to Ship `text-decoration-skip-ink`](https://groups.google.com/a/chromium.org/d/msg/blink-dev/47BHtmz0jVY/itAC_xpwBgAJ)
+- [Intent to Ship text-decoration-skip-ink](https://groups.google.com/a/chromium.org/d/msg/blink-dev/47BHtmz0jVY/itAC_xpwBgAJ)
 - [CSS Text Decoration L3](https://drafts.csswg.org/css-text-decor-3/#text-decoration-line-property)
 - [CSS Pseudo-Elements L4](https://drafts.csswg.org/css-pseudo-4/#highlight-selectors)
 

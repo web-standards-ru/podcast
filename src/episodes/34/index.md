@@ -49,8 +49,8 @@
 ## Сомнения в PostCSS и @viewport
 
 - [Preprocess future-proof CSS features](https://github.com/facebookincubator/create-react-app/issues/130)
-- [`@viewport` removed from Edge](https://twitter.com/yoavweiss/status/773417500579074049)
-- [`@viewport` is preloader-hostile](https://github.com/w3c/csswg-drafts/issues/258)
+- [@viewport removed from Edge](https://twitter.com/yoavweiss/status/773417500579074049)
+- [@viewport is preloader-hostile](https://github.com/w3c/csswg-drafts/issues/258)
 
 ## Рома и парсер CSSTree
 

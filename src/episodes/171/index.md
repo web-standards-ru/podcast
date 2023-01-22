@@ -35,7 +35,7 @@
 ## Флексы и подгриды
 
 - [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
-- [CSS masonry with flexbox, `:nth-child()`, and order](https://tobiasahlin.com/blog/masonry-with-css/)
+- [CSS masonry with flexbox, :nth-child(), and order](https://tobiasahlin.com/blog/masonry-with-css/)
 - [CSS Subgrid News and demos](https://rachelandrew.co.uk/archives/2019/04/16/css-subgrid-news-and-demos/)
 
 ## Переключатель темы

@@ -20,7 +20,7 @@
 - [Intent to implement: Shadow DOM](https://groups.google.com/d/msg/mozilla.dev.platform/aJvUlADn-Hk/BYB52MgDBQAJ)
 - [Intent to implement: Custom Elements](https://groups.google.com/d/msg/mozilla.dev.platform/BI3I0U7TDw0/6-W39tXpBAAJ)
 - [Светлое будущее Custom Elements](https://youtu.be/SX3qGBZ6UpM)
-- [`<i is="the walrus">`](https://bkardell.com/blog/TheWalrus.html)
+- [I is="the walrus"](https://bkardell.com/blog/TheWalrus.html)
 - [GitHub vulnerability announcements](https://twitter.com/rem/status/936665175335292930)
 
 ## CSS-волшебники

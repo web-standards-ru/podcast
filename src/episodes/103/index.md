@@ -8,9 +8,9 @@
 
 ## Браузеры и интерфейсы
 
-- [Intent to Implement `:matches()`](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kqD_G4sxfZE/6CJM01X2BwAJ)
+- [Intent to Implement :matches()](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kqD_G4sxfZE/6CJM01X2BwAJ)
 - [Enable Custom Elements v1](https://bugzilla.mozilla.org/1406825)
-- [Enable `<script type="module">`](https://bugzilla.mozilla.org/1428002)
+- [Enable script type="module"](https://bugzilla.mozilla.org/1428002)
 - [Building Bridges, WarsawJS](https://youtu.be/mXfMtbeYfA4)
 - [Code Podcast: Don’t make me write UI!](https://soundcloud.com/podcastcode/6-dont-make-me-write-ui)
 - [CSS Houdini](https://github.com/w3c/css-houdini-drafts/wiki)

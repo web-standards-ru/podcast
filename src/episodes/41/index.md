@@ -24,7 +24,7 @@
 ## Календарик
 
 - [Firefox: Data/Time picker](https://mozilla.invisionapp.com/share/237UTNHS8)
-- [HTML 5.1: `<input type="date">`](https://www.w3.org/TR/html51/sec-forms.html#date-state-typedate)
+- [HTML 5.1: input type="date"](https://www.w3.org/TR/html51/sec-forms.html#date-state-typedate)
 
 ## Опасные API
 
@@ -46,7 +46,7 @@
 
 ## position: sticky
 
-- [Chrome: Intent to Ship CSS `position: sticky`](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X_vBQp60kp8/v43CLS89CAAJ)
+- [Chrome: Intent to Ship CSS position: sticky](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X_vBQp60kp8/v43CLS89CAAJ)
 
 ## Круговой прогресс-бар
 
@@ -61,4 +61,4 @@
 - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/)
 - [HTML parser quiz](https://html5te.st/quiz/)
 - [HTML Minifier](http://kangax.github.io/html-minifier/)
-- [`<enki/>`](https://www.enki.com)
+- [Enki](https://www.enki.com)

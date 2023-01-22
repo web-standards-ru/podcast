@@ -35,7 +35,7 @@
 
 ## Метрики шрифта
 
-- [Метрики шрифта, `line-height` и `vertical-align`](http://css-live.ru/css/metriki-shrifta-line-height-vertical-align.html)
+- [Метрики шрифта, line-height и vertical-align](http://css-live.ru/css/metriki-shrifta-line-height-vertical-align.html)
 
 ## Инструменты PWA
 

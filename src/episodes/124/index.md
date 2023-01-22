@@ -31,7 +31,7 @@
 
 ## Конец cssnext
 
-- [The `color` function is renamed to `color-mod`](https://github.com/ianstormtaylor/css-color-function/issues/29)
+- [The color function is renamed to color-mod](https://github.com/ianstormtaylor/css-color-function/issues/29)
 - [Deprecating cssnext](https://moox.io/blog/deprecating-cssnext/)
 - [PostCSS Preset Env](https://preset-env.cssdb.org/features)
 - [Tab Atkins](https://twitter.com/tabatkins)

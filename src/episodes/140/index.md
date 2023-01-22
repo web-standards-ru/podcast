@@ -29,7 +29,7 @@
 
 ## Новый ES всё ломает
 
-- [Highcharts.js line labels disappear with `Array#flat` enabled](https://bugs.chromium.org/p/chromium/issues/detail?id=888128#c15)
+- [Highcharts.js line labels disappear with Array#flat enabled](https://bugs.chromium.org/p/chromium/issues/detail?id=888128#c15)
 - [ES Proposal: Global](https://github.com/tc39/proposal-global)
 - [Global breaks Flickr](https://github.com/tc39/proposal-global/issues/20)
 - [ES Proposal: Temporal](https://github.com/tc39/proposal-temporal)

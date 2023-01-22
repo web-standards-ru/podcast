@@ -34,7 +34,7 @@
 
 - [Designing an aspect ratio unit for CSS](https://www.smashingmagazine.com/2019/03/aspect-ratio-unit-css/)
 - [CSS Nesting working draft](https://drafts.csswg.org/css-nesting-1/)
-- [PostCSS `color-mod()` function](https://github.com/jonathantneal/postcss-color-mod-function)
+- [PostCSS color-mod() function](https://github.com/jonathantneal/postcss-color-mod-function)
 
 ## Гриды в продакшене
 

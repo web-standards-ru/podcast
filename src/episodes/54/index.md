@@ -19,7 +19,7 @@
 ## Баги в браузерах
 
 - [Reporting Browser Bugs](https://www.rachelandrew.co.uk/archives/2017/01/30/reporting-browser-bugs/)
-- [Lack of `@counter-style` support](https://bugs.chromium.org/p/chromium/issues/detail?id=687225)
+- [Lack of @counter-style support](https://bugs.chromium.org/p/chromium/issues/detail?id=687225)
 - [Баги в браузерах: кто виноват и что делать?](https://youtu.be/K4cQH85bntQ)
 
 ## Очевидный CSS

@@ -30,12 +30,12 @@
 ## Новый HTML-заголовок
 
 - [Нужен ли нам новый заголовочный элемент?](http://css-live.ru/html5/nuzhen-li-nam-novyj-zagolovochnyj-element.html)
-- [w3c/html: Add `<h>` element](https://github.com/w3c/html/issues/774)
-- [Вложенные `<h1>`](https://jsbin.com/jucorev/edit?html,output)
+- [W3C/html: Add h element](https://github.com/w3c/html/issues/774)
+- [Вложенные h1](https://jsbin.com/jucorev/edit?html,output)
 
 ## Нервный опенсорс
 
-- [Casper: No `lang` attribute](https://github.com/TryGhost/Casper/issues/286)
+- [Casper: No lang attribute](https://github.com/TryGhost/Casper/issues/286)
 
 ## W3C против WHATWG
 

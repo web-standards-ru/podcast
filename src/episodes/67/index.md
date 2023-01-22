@@ -17,7 +17,7 @@
 ## Safari TP 29
 
 - [Release Notes for Safari Technology Preview 29](https://webkit.org/blog/7532/release-notes-for-safari-technology-preview-29/)
-- [The `:focus-within` pseudo class](https://www.iandevlin.com/blog/2017/04/css/the-focus-within-pseudo-class)
+- [The :focus-within pseudo class](https://www.iandevlin.com/blog/2017/04/css/the-focus-within-pseudo-class)
 
 ## Samsung на десктопе
 

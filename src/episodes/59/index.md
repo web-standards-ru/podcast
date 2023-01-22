@@ -8,7 +8,7 @@
 ## Chrome 57
 
 - [Chrome 57: Grid based layouts, Media Session API](https://youtu.be/57Scec2XPd0)
-- [MDN: `text-decoration-skip`](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip)
+- [MDN: text-decoration-skip](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip)
 
 ## Samsung Internet
 

@@ -33,10 +33,10 @@
 - [ECMAScript 2018 RC](https://tc39.github.io/ecma262/2018/)
 - [Async iterators and generators](https://jakearchibald.com/2017/async-iterators-and-generators/)
 - [Object rest and spread properties](https://developers.google.com/web/updates/2017/06/object-rest-spread)
-- [`Promise.prototype.finally`](https://developers.google.com/web/updates/2017/10/promise-finally)
+- [Promise.prototype.finally](https://developers.google.com/web/updates/2017/10/promise-finally)
 - [ECMAScript regular expressions are getting better!](https://mathiasbynens.be/notes/es-regexp-proposals)
 - [Class field declarations for JavaScript](https://github.com/tc39/proposal-class-fields)
-- [ES proposal: `String.prototype.matchAll`](http://2ality.com/2018/02/string-prototype-matchall.html)
+- [ES proposal: String.prototype.matchAll](http://2ality.com/2018/02/string-prototype-matchall.html)
 
 ## Vue.js вместо jQuery
 
@@ -45,5 +45,5 @@
 
 ## Node.js 10
 
-- [`fs`: add promises API](https://github.com/nodejs/node/pull/18297)
+- [fs: add promises API](https://github.com/nodejs/node/pull/18297)
 - [Node.js 10.0.0 Tracking](https://github.com/nodejs/Release/issues/291)

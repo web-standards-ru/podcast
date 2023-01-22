@@ -13,7 +13,7 @@
 ## Node.js 12 и ES-модули
 
 - [Introducing Node.js 12](https://medium.com/p/76c41a1b3f3f)
-- [Announcing a new `--experimental-modules`](https://medium.com/p/1be8d2d6c2ff)
+- [Announcing a new --experimental-modules](https://medium.com/p/1be8d2d6c2ff)
 
 ## Svelte 3
 

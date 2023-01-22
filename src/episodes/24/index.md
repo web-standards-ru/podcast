@@ -10,13 +10,13 @@
 
 - [Safari Technology Preview Release 8](https://webkit.org/blog/6744/release-notes-for-safari-technology-preview-release-8/)
 - [Servo Nightly Builds Available](https://blog.servo.org/2016/06/30/servo-nightlies/)
-- [Псевдокласс `focus-within`](https://drafts.csswg.org/selectors-4/#the-focus-within-pseudo)
+- [Псевдокласс focus-within](https://drafts.csswg.org/selectors-4/#the-focus-within-pseudo)
 
 ## Цвета в вебе
 
 - [Improving Color on the Web](https://webkit.org/blog/6682/improving-color-on-the-web/)
 - [CSS Color Module Level 4](https://www.w3.org/TR/2016/WD-css-color-4-20160705/)
-- [Свойство `currentcolor`](https://www.w3.org/TR/2016/WD-css-color-4-20160705/#currentcolor-color)
+- [Свойство currentcolor](https://www.w3.org/TR/2016/WD-css-color-4-20160705/#currentcolor-color)
 - [Disable #RRGGBBAA and #RGBA color values due to compat issues](https://bugs.chromium.org/p/chromium/issues/detail?id=618518)
 
 ## Практика

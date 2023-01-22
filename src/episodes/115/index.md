@@ -28,5 +28,5 @@
 ## Неправильные классы и const в JS
 
 - [Классы и фабричные функции в JS. Что выбрать?](https://habr.ru/p/352198/)
-- [Задолбало противопоставление хренова `const` чёртову `let`](http://css-live.ru/articles/kak-menya-zadolbalo-protivopostavlenie-xrenova-const-chertovu-let.html)
-- [`Const` в JS делает свою работу правильно!](https://medium.com/p/b346353d9cce)
+- [Задолбало противопоставление хренова const чёртову let](http://css-live.ru/articles/kak-menya-zadolbalo-protivopostavlenie-xrenova-const-chertovu-let.html)
+- [Const в JS делает свою работу правильно!](https://medium.com/p/b346353d9cce)

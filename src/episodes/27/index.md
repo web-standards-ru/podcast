@@ -7,7 +7,7 @@
 
 ## Инлайновое видео в iOS
 
-- [New `<video>` Policies for iOS](https://webkit.org/blog/6784/new-video-policies-for-ios/)
+- [New video Policies for iOS](https://webkit.org/blog/6784/new-video-policies-for-ios/)
 
 ## ChakraCore на Mac и Linux
 
@@ -26,7 +26,7 @@
 
 ## Формы и доступность
 
-- [Using the `<fieldset>` and `<legend>` elements](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/)
+- [Using the fieldset and legend elements](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/)
 - [Totally Tooling Tips](https://youtu.be/pBJZsp5LsOE?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
 - [Accessible UI Components For The Web](https://medium.com/p/39e727101a67)
 

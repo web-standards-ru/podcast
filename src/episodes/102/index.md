@@ -17,9 +17,9 @@
 ## Развитие спецификаций
 
 - [Математика CSS-шлюзов](https://habr.ru/p/315196/)
-- [Re-adding `min()` and `max()`?](https://github.com/w3c/csswg-drafts/issues/544)
+- [Re-adding min() and max()?](https://github.com/w3c/csswg-drafts/issues/544)
 - [Native interpolation function in CSS](https://github.com/w3c/csswg-drafts/issues/581)
-- [CSS `conic-gradient()` polyfill](https://leaverou.github.io/conic-gradient/)
+- [CSS conic-gradient() polyfill](https://leaverou.github.io/conic-gradient/)
 - [Change the pointer cursor to indicate any interactive element](https://github.com/w3c/csswg-drafts/issues/1936)
 - [Move to WICG to get more traction?](https://github.com/ResponsiveImagesCG/cq-usecases/issues/44)
 - [The RGB hexadecimal notations](https://www.w3.org/TR/css-color-4/#hex-notation)

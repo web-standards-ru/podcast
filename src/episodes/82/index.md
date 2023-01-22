@@ -36,11 +36,11 @@
 
 ## React или CSS
 
-- [`<div>` и React или `<input type="checkbox">` и CSS?](https://twitter.com/webstandards_ru/status/899906156272988160)
+- [Div и React или input type="checkbox" и CSS?](https://twitter.com/webstandards_ru/status/899906156272988160)
 
 ## Шрифты
 
-- [Mix `font-display` values for same family](https://twitter.com/zachleat/status/900406984297590785)
+- [Mix font-display values for same family](https://twitter.com/zachleat/status/900406984297590785)
 - [Glyphhanger](https://github.com/filamentgroup/glyphhanger)
 
 ## Новичкам

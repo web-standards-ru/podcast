@@ -32,7 +32,7 @@
 
 ## Нативные ES-модули
 
-- [Native ECMAScript modules: dynamic `import()`](https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import)
+- [Native ECMAScript modules: dynamic import()](https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import)
 - [Making transpiled ES modules more spec-compliant](http://www.2ality.com/2017/01/babel-esm-spec-mode.html)
 
 ## Модули в Node.js, Webpack и V8

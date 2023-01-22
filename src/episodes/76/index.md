@@ -5,7 +5,7 @@
 
 ## Вертикальный ритм
 
-- [CSS `line-height-step` introduced to control vertical rhythm](https://twitter.com/malyw/status/885522490201649153)
+- [CSS line-height-step introduced to control vertical rhythm](https://twitter.com/malyw/status/885522490201649153)
 
 ## Sass разрешил
 

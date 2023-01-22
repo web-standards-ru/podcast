@@ -34,9 +34,9 @@
 
 ## ARIA: Hidden или None
 
-- [Know your ARIA: `hidden` vs `none`](https://www.scottohara.me/blog/2018/05/05/hidden-vs-none.html)
+- [Know your ARIA: hidden vs none](https://www.scottohara.me/blog/2018/05/05/hidden-vs-none.html)
 
-## Плохой `placeholder`
+## Плохой placeholder
 
 - [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 

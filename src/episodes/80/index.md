@@ -40,7 +40,7 @@
 
 ## Фокусы
 
-- [Removing that ugly `:focus` ring](https://medium.com/p/6c8727fefcd2)
+- [Removing that ugly :focus ring](https://medium.com/p/6c8727fefcd2)
 - [Managing Focus](https://youtu.be/srLRSQg6Jgg)
 
 ## Модули в Node.js

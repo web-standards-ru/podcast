@@ -13,7 +13,7 @@
 
 ## Особенности const и let из ES6
 
-- [For and against `let`](https://davidwalsh.name/for-and-against-let)
+- [For and against let](https://davidwalsh.name/for-and-against-let)
 - [ES6 const is not about immutability](https://mathiasbynens.be/notes/es6-const)
 
 ## Как дела у Гитхаба

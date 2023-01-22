@@ -36,7 +36,7 @@
 - [Что касается аутлайна](http://straykov.ru/blog/all/outline-none/)
 - [Кодельная](http://codecode.ru/)
 - [Ишья на Гитхабе](https://github.com/straykov/initium/issues/32)
-- [`a { outline: none; }` Don’t Do It!](http://www.outlinenone.com/)
+- [A { outline: none } Don’t Do It!](http://www.outlinenone.com/)
 - [Reset Revisited](http://meyerweb.com/eric/thoughts/2011/01/03/reset-revisited/)
 
 ## Вёрстка логотипа

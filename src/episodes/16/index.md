@@ -26,7 +26,7 @@
 
 ## !important можно, если нужно
 
-- [The Importance of `!important`: Forcing Immutability in CSS](http://csswizardry.com/2016/05/the-importance-of-important/)
+- [The Importance of !important: Forcing Immutability in CSS](http://csswizardry.com/2016/05/the-importance-of-important/)
 - [Likely](https://github.com/ilyabirman/Likely)
 
 ## Фантомные страхи и адаптивные таблицы

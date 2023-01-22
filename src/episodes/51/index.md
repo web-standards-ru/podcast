@@ -46,4 +46,4 @@
 
 ## Динамический импорт JS-модулей
 
-- [ES proposal: `import()`](http://www.2ality.com/2017/01/import-operator.html)
+- [ES proposal: import()](http://www.2ality.com/2017/01/import-operator.html)

@@ -36,7 +36,7 @@
 
 - [Кастомные чекбоксы правильно](https://youtu.be/E6kLaaQFctU)
 - [Демо с кодом](https://glitch.com/edit/#!/14-pepelsbey)
-- [The proposed `box-suppress` property](https://rachelandrew.co.uk/archives/2016/07/22/the-proposed-box-suppress-property/)
+- [The proposed box-suppress property](https://rachelandrew.co.uk/archives/2016/07/22/the-proposed-box-suppress-property/)
 
 ## Выравнивание по тексту
 

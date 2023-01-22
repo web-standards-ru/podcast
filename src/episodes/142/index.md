@@ -26,7 +26,7 @@
 
 ## Новые теги в HTML
 
-- [Почему мы не добавим в HTML элемент `<чудесный>`?](http://css-live.ru/faq/pochemu-my-ne-dobavim-v-html-element.html)
+- [Почему мы не добавим в HTML элемент чудесный?](http://css-live.ru/faq/pochemu-my-ne-dobavim-v-html-element.html)
 
 ## Киевское сообщество
 

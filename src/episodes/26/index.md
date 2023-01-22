@@ -9,7 +9,7 @@
 - [Chrome 52: Contain Property, the PerfObserver API & SW Stream](https://youtu.be/Pii-LaWOyuo)
 - [CSS Containment](https://developers.google.com/web/updates/2016/06/css-containment)
 - [Performance Observer API](https://developers.google.com/web/updates/2016/06/performance-observer)
-- [Performance measurements through `requestAnimationFrame`](http://www.quirksmode.org/blog/archives/2016/03/rafp_a_proposal.html)
+- [Performance measurements through requestAnimationFrame](http://www.quirksmode.org/blog/archives/2016/03/rafp_a_proposal.html)
 - [Battery Status API](https://developer.mozilla.org/en/docs/Web/API/Battery_Status_API)
 - [Service Worker Streamed Responses](https://developers.google.com/web/updates/2016/06/sw-readablestreams)
 
@@ -21,7 +21,7 @@
 
 ## Font-display в Firefox
 
-- [Experimental `font-display` support in Firefox](https://github.com/zachleat/zachleat.com/issues/9)
+- [Experimental font-display support in Firefox](https://github.com/zachleat/zachleat.com/issues/9)
 - [Firefox Platform Status](https://platform-status.mozilla.org/)
 
 ## Будущее WebP и WebM

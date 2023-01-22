@@ -29,7 +29,7 @@
 
 ## Образование онлайн и офлайн
 
-- [An illustrated (and musical) guide to `map`, `reduce`, and `filter`](https://css-tricks.com/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods/)
+- [An illustrated (and musical) guide to map, reduce, and filter](https://css-tricks.com/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods/)
 - [Standardizing WASI to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [Компьютерная школа Hillel](https://ithillel.ua/)
 - [JavaScript.Ninja](https://www.patreon.com/javascriptninja)

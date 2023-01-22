@@ -35,7 +35,7 @@
 
 ## Динамический NodeList
 
-- [Use `querySelectorAll`, people!](https://twitter.com/dassurma/status/996701101138341888)
+- [Use querySelectorAll, people!](https://twitter.com/dassurma/status/996701101138341888)
 
 ## Критика CSS-in-JS
 

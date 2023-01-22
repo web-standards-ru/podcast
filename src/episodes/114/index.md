@@ -13,7 +13,7 @@
 - [What’s New in Safari 11.1](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_11_1.html)
 - [Progressive Web Apps on iOS are here](https://medium.com/p/d00430dee3a7)
 - [Safari 11.1 displays Website Not Secure on HTTP login pages](https://twitter.com/vcsjones/status/979531944504561664)
-- [Stable Browser `font-display` alert](https://twitter.com/zachleat/status/979480256196366338)
+- [Stable Browser font-display alert](https://twitter.com/zachleat/status/979480256196366338)
 - [Веб-истории: Браузерные войны](https://marinin.xyz/webstories/s01e03/)
 - [IRL Podcast](https://irlpodcast.org/)
 

@@ -11,7 +11,7 @@
 
 ## Затишье браузеров
 
-- [`<link rel="preload">` will be temporarily unshipped in Firefox 57](https://groups.google.com/d/msg/mozilla.dev.platform/aNUUx0S6PxE/3E3TkBXtAgAJ)
+- [Link rel="preload" will be temporarily unshipped in Firefox 57](https://groups.google.com/d/msg/mozilla.dev.platform/aNUUx0S6PxE/3E3TkBXtAgAJ)
 - [Репозиторий WSD](https://github.com/web-standards-ru/web-standards-days)
 
 ## Цифры Гитхаба

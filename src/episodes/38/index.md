@@ -12,7 +12,7 @@
 - [PackRat](https://github.com/an9eldust/packrat)
 - [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
 - [Why I’m Working on Yarn](http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/)
-- [Почему `yarn.lock` не нужен в зависимостях](https://github.com/yarnpkg/yarn/issues/838#issuecomment-253362537)
+- [Почему yarn.lock не нужен в зависимостях](https://github.com/yarnpkg/yarn/issues/838#issuecomment-253362537)
 
 ## Safari TP 15
 
@@ -37,7 +37,7 @@
 
 ## Функция map в CSS
 
-- [Native `map()` function in CSS](https://github.com/w3c/csswg-drafts/issues/581)
+- [Native map() function in CSS](https://github.com/w3c/csswg-drafts/issues/581)
 
 ## Стили без CSS
 

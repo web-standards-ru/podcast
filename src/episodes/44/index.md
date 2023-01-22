@@ -20,7 +20,7 @@
 
 ## Мультиколонки
 
-- [Lea Verou: `inline-block` prevents fragmentation in multi-column containers](https://mobile.twitter.com/LeaVerou/status/800163417332023296)
+- [Lea Verou: inline-block prevents fragmentation in multi-column containers](https://mobile.twitter.com/LeaVerou/status/800163417332023296)
 
 ## Системы раскладки
 
@@ -33,8 +33,8 @@
 
 ## Нюансы доступности
 
-- [The Accessibility Difference Between `aria-hidden` and `role="presentation"`](http://csskarma.com/blog/difference-rolepresentation-aria-hiddentrue/)
-- [Changing the Reading Order of a Page with `aria-flowto`](http://csskarma.com/blog/changing-reading-order-page-aria-flowto/)
+- [The Accessibility Difference Between aria-hidden and role="presentation"](http://csskarma.com/blog/difference-rolepresentation-aria-hiddentrue/)
+- [Changing the Reading Order of a Page with aria-flowto](http://csskarma.com/blog/changing-reading-order-page-aria-flowto/)
 
 ## Методологии CSS
 

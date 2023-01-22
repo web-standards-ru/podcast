@@ -52,6 +52,6 @@
 
 - [Polyfills and the evolution of the Web](https://w3ctag.github.io/polyfills/)
 - [Houdini: Demystifying the Future of CSS](https://youtu.be/sE3ttkP15f8)
-- [Add `<h>` element](https://github.com/w3c/html/issues/774)
+- [Add h element](https://github.com/w3c/html/issues/774)
 - [The evergreen web](https://w3ctag.github.io/evergreen-web/)
 - [HTML Standard, WHATWG](https://html.spec.whatwg.org/multipage/)

@@ -20,7 +20,7 @@
 ## Про CSS прямо из спеки
 
 - [Researching a Property in the CSS Specs](https://24ways.org/2018/researching-a-property-in-the-css-specifications/)
-- [MDN: `rel="preload"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
+- [MDN: rel="preload"](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)
 
 ## Фулстек как единорог
 

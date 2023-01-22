@@ -32,7 +32,7 @@
 
 ## Вставка шрифтов
 
-- [No `@font-face` Syntax will ever be Bulletproof](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
+- [No @font-face Syntax will ever be Bulletproof](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
 
 ## Полифилы CSS
 

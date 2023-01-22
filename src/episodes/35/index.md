@@ -15,7 +15,7 @@
 ## Chromium 53
 
 - [What’s new in Chromium 53 and Opera 40](https://dev.opera.com/blog/opera-40/)
-- [Свойства `scale`, `rotate` и `translate`](http://dabblet.com/gist/74c57eadaa747b7ad38bc5b916e3c144)
+- [Свойства scale, rotate и translate](http://dabblet.com/gist/74c57eadaa747b7ad38bc5b916e3c144)
 
 ## Pointer Events
 

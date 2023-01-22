@@ -51,6 +51,6 @@
 
 ## Полифил для object-fit на SVG
 
-- [`object-fit` polyfill](http://codepen.io/jonneal/pen/EKPONK)
+- [Object-fit polyfill](http://codepen.io/jonneal/pen/EKPONK)
 
 ## Зовём Андрея Ситника

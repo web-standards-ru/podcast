@@ -28,11 +28,11 @@
 ## Новый клиарфикс
 
 - [The end of the clearfix hack?](https://rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack)
-- [Новый `display: flow-root` — не clearfix, но что это и зачем?](http://css-live.ru/faq/displayflow-root-not-clearfix.html)
+- [Новый display: flow-root — не clearfix, но что это и зачем?](http://css-live.ru/faq/displayflow-root-not-clearfix.html)
 
 ## Импорты в CSS
 
-- [Is CSS `@import` still considered as an anti-pattern?](https://discourse.wicg.io/t/is-css-import-still-considered-as-an-anti-pattern/1967)
+- [Is CSS @import still considered as an anti-pattern?](https://discourse.wicg.io/t/is-css-import-still-considered-as-an-anti-pattern/1967)
 
 ## Сервис-воркеры
 

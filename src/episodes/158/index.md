@@ -16,7 +16,7 @@
 ## Новинки Safari TP
 
 - [Safari Technology Preview 74](https://webkit.org/blog/8566/release-notes-for-safari-technology-preview-74/)
-- [CSS Color L4: `rgb` functions](https://drafts.csswg.org/css-color/#rgb-functions)
+- [CSS Color L4: rgb functions](https://drafts.csswg.org/css-color/#rgb-functions)
 - [Visual Viewport API](https://developer.mozilla.org/en-US/docs/Web/API/Visual_Viewport_API)
 
 ## Свежие статьи

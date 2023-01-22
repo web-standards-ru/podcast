@@ -29,7 +29,7 @@
 
 ## История slot
 
-- [A history of the HTML `<slot>` element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
+- [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
 
 ## Svelte и Parcel
 

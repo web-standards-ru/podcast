@@ -24,7 +24,7 @@
 - [Breaking Boxes – Typography and Augmented Reality](http://www.aetherpoint.com/blogpost/breaking-boxes-typography-and-augmented-reality/)
 - [Типографика в дополненной реальности](https://vc.ru/design/54706-tipografika-v-dopolnennoy-realnosti-sdelat-shrift-bolee-chitaemym-pod-raznym-uglom-obzora)
 - [Основы адаптивной типографики](https://web-standards.ru/articles/responsive-typography/)
-- [Shiny: Simulating reflections with `DeviceMotion`](https://pqina.nl/shiny/)
+- [Shiny: Simulating reflections with DeviceMotion](https://pqina.nl/shiny/)
 
 ## HTML-модули в JS
 

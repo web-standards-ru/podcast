@@ -22,7 +22,7 @@
 
 ## Ссылки и безопасность
 
-- [About `rel=noopener`](https://mathiasbynens.github.io/rel-noopener/)
+- [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
 - [Everything about controlling the Referer header](https://blog.fastmail.com/2016/06/20/everything-you-could-ever-want-to-know-and-more-about-controlling-the-referer-header/)
 - [Джереми Кит на HTML Special](https://vimeo.com/172794545)
 - [Things to Know with Third-Party Scripts](https://css-tricks.com/potential-dangers-of-third-party-javascript/)

@@ -38,7 +38,7 @@
 
 - [The Building Blocks Of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
 - [4 вида утечек памяти в JavaScript и как с ними бороться](https://habr.ru/p/309318/)
-- Отладка пререндера: `chrome://net-internals/#prerender`
+- Отладка пререндера: chrome://net-internals/#prerender
 
 ## HTTPS без вариантов
 

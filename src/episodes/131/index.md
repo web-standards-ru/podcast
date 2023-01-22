@@ -24,12 +24,12 @@
 
 ## Вы не знаете инлайн-блоки
 
-- [Удивительный и неизвестный `inline-block`](http://css-live.ru/articles-css/udivitelnyj-i-neizvestnyj-inline-block.html)
+- [Удивительный и неизвестный inline-block](http://css-live.ru/articles-css/udivitelnyj-i-neizvestnyj-inline-block.html)
 
 ## Иллюстрированные флексы
 
 - [The Complete Illustrated Flexbox Tutorial](https://medium.com/p/d35c085dbf35)
-- [MDN: `justify-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self)
+- [MDN: justify-self](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-self)
 
 ## Курсы на английском
 

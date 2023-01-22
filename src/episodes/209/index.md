@@ -4,7 +4,7 @@
 
 ## Что не так с HTML
 
-- [Why `<details>` is Not an Accordion](https://daverupert.com/2019/12/why-details-is-not-an-accordion/)
+- [Why details is Not an Accordion](https://daverupert.com/2019/12/why-details-is-not-an-accordion/)
 - [Panels and Panel Sets Extension](https://bkardell.com/common-panel/index.src.html)
 
 ## Что можно с этим сделать

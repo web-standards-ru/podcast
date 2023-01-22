@@ -19,8 +19,8 @@
 ## Чудеса SVG и border-image
 
 - [SQIP, SVG-Based Image Placeholder](https://github.com/technopagan/sqip)
-- [`border-image` + `linear-gradient`](http://jsbin.com/nopihep/edit?css,output)
-- [`border-image` + Houdini Paint API](https://twitter.com/iamvdo/status/913765484402790400)
+- [Border-image + linear-gradient](http://jsbin.com/nopihep/edit?css,output)
+- [Border-image + Houdini Paint API](https://twitter.com/iamvdo/status/913765484402790400)
 - [Рамки и фоны, часть 2](https://htmlacademy.ru/courses/88)
 
 ## Оптимизация графики

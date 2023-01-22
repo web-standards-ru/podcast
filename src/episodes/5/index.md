@@ -12,7 +12,7 @@
 ## SVG и GitHub без иконочных шрифтов
 
 - [Delivering Octicons with SVG](https://github.com/blog/2112-delivering-octicons-with-svg)
-- [Что случается с SVG-иконками, вставленными через `<use>`](https://twitter.com/pepelsbey/status/703223926541983744)
+- [Что случается с SVG-иконками, вставленными через use](https://twitter.com/pepelsbey/status/703223926541983744)
 
 ## Google Resizer
 
@@ -20,8 +20,8 @@
 
 ## Переводы CSS Live
 
-- [Свойство `background-clip` и его применения](http://css-live.ru/articles-css/background-clip-use-cases.html)
-- [Краткий обзор `object-fit` и `object-position`](http://css-live.ru/articles/kratkij-obzor-object-fit-i-object-position.html)
+- [Свойство background-clip и его применения](http://css-live.ru/articles-css/background-clip-use-cases.html)
+- [Краткий обзор object-fit и object-position](http://css-live.ru/articles/kratkij-obzor-object-fit-i-object-position.html)
 
 ## Знаете Sass? Значит знаете и ES2015!
 
@@ -29,7 +29,7 @@
 
 ## CSS Snap Size
 
-- [CSS Snap Size, черновик спецификации для вертикального ритма со свойством `snap-height`](https://drafts.csswg.org/css-snap-size/)
+- [CSS Snap Size, черновик спецификации для вертикального ритма со свойством snap-height](https://drafts.csswg.org/css-snap-size/)
 
 ## Про селектор :root
 

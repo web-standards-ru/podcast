@@ -36,4 +36,4 @@
 - [Thanks Steve for everything](https://lists.w3.org/Archives/Public/public-html/2017Dec/0006.html)
 - [Новая политика WHATWG: шаг к единому стандарту HTML?](http://css-live.ru/vecssti-s-polej/novaya-politika-whatwg-shag-k-edinomu-standartu-html.html)
 - [Please ignore the WHATWG HTML spec](https://twitter.com/heydonworks/status/940486866201169920)
-- [Add `<link rel="modulepreload">`](https://github.com/whatwg/html/commit/7c28027b80208aa6b126fa7b086c44877f584178)
+- [Add link rel="modulepreload"](https://github.com/whatwg/html/commit/7c28027b80208aa6b126fa7b086c44877f584178)

@@ -22,7 +22,7 @@
 
 ## Смушгейт и MooTools
 
-- [Rename `flatten` to `smoosh`](https://github.com/tc39/proposal-flatMap/pull/56)
+- [Rename flatten to smoosh](https://github.com/tc39/proposal-flatMap/pull/56)
 
 ## Webpack и Make
 

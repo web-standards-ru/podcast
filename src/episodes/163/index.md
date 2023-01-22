@@ -11,7 +11,7 @@
 ## Математика в CSS
 
 - [CSSWG adding many math functions](https://twitter.com/bdc/status/1100921258839953408)
-- [CSS Values L4: `calc`, `min`, `max`, `clamp`](https://www.w3.org/TR/css-values-4/#calc-notation)
+- [CSS Values L4: calc, min, max, clamp](https://www.w3.org/TR/css-values-4/#calc-notation)
 - [Rule 110 in CSS](https://jsfiddle.net/Camilo/eQyBa/)
 
 ## Быстродействие и оверхэд

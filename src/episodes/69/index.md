@@ -27,13 +27,13 @@
 
 ## Box Alignment
 
-- [Box alignment: `justify-content: space-evenly`](https://codepen.io/matuzo/pen/GmXVWo)
+- [Box alignment: justify-content: space-evenly](https://codepen.io/matuzo/pen/GmXVWo)
 - [Свойства для выравнивания всего и их новые тайны](http://css-live.ru/articles-css/svojstva-dlya-vyravnivaniya-vsego-i-ix-novye-tajny.html)
 - [Наклейки для бейджей WSD](https://github.com/web-standards-ru/stickers)
 
 ## Lazy Image
 
-- [`<lazy-image>`](https://meowni.ca/lazy-image/)
+- [Lazy-image](https://meowni.ca/lazy-image/)
 
 ## Лия и Mavo
 

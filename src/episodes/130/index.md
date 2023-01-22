@@ -25,7 +25,7 @@
 ## Плохой лэндинг хорошей ШРИ
 
 - [Школа разработки интерфейсов Яндекса](https://yandex.ru/promo/academy/shri2018)
-- [`<div class="text">` У меня всё](https://twitter.com/pepelsbey/status/1018849147242385409)
-- [Ссылки, на которые полезно кликнуть `<div>`](https://twitter.com/pepelsbey/status/1018852267439591424)
+- [Div class="text" У меня всё](https://twitter.com/pepelsbey/status/1018849147242385409)
+- [Ссылки, на которые полезно кликнуть div](https://twitter.com/pepelsbey/status/1018852267439591424)
 - [Девшахта №11: ШРИ Яндекса](https://medium.com/p/a312fe56ed00)
 - [Ночной фронтенд №37: ШРИ Яндекса. Итоги](https://medium.com/p/16e2447d6f7e)

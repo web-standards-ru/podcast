@@ -36,7 +36,7 @@
 ## Await и ES-модули
 
 - [Top-Level Await 2: still awaiting ](https://docs.google.com/presentation/d/1lTTiNosXlqk78FO7Ze_CdMbF3PhO36kCk-mT783wpi8/view)
-- [Since today we support the `import.meta` proposal in Firefox Nightly](https://twitter.com/SpiderMonkeyJS/status/999953755272564737)
+- [Since today we support the import.meta proposal in Firefox Nightly](https://twitter.com/SpiderMonkeyJS/status/999953755272564737)
 
 ## Есть ли зверь фулстек
 

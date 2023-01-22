@@ -32,7 +32,7 @@
 
 ## Элемент details
 
-- [Знакомьтесь, `<details>`](https://habr.com/p/477520/)
+- [Знакомьтесь, details](https://habr.com/p/477520/)
 
 ## State of JS 2019
 

@@ -44,11 +44,11 @@
 
 - [Supercharged](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
 - [Slicing SVG 9 Ways](https://aerotwist.com/blog/slicing-svg-9-ways/)
-- [Can I Use `border-image`?](http://caniuse.com/#feat=border-image)
+- [Can I Use border-image?](http://caniuse.com/#feat=border-image)
 
 ## Очень ждём font-display
 
-- [`font-display` for the Masses](https://css-tricks.com/font-display-masses/)
+- [Font-display for the Masses](https://css-tricks.com/font-display-masses/)
 - [Font Face Observer](https://fontfaceobserver.com/)
 
 ## Лия Веру и HTML
@@ -63,6 +63,6 @@
 ## Вомбаты в носках и npm
 
 - [11 Simple npm Tricks That Will Knock Your Wombat Socks Off](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/)
-- [`np`, a better `npm publish`](https://github.com/sindresorhus/np)
-- [`npm-check-updates`](https://github.com/tjunnone/npm-check-updates)
+- [Np, a better npm publish](https://github.com/sindresorhus/np)
+- [Npm-check-updates](https://github.com/tjunnone/npm-check-updates)
 - [Носки с вомбатом](https://www.amazon.com/Ozi-Varmints-Boys-Socks-Wombat/dp/B00GR5JO9K/ref=pd_d0_recs_v2_cwb_ap_1)

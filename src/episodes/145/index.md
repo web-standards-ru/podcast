@@ -9,7 +9,7 @@
 
 - [Safari TP 68](https://webkit.org/blog/8475/release-notes-for-safari-technology-preview-68/)
 - [Using dark mode in CSS with MacOS Mojave](https://paulmillr.com/posts/using-dark-mode-in-css/)
-- [Prefers-color-scheme in a `<picture>`](https://twitter.com/steve228uk/status/1055181620997689344)
+- [Prefers-color-scheme in a picture](https://twitter.com/steve228uk/status/1055181620997689344)
 
 ## WebAssembly в Chrome
 

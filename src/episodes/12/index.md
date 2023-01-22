@@ -23,7 +23,7 @@
 - [CSS @​apply Rule, спека](https://tabatkins.github.io/specs/css-apply-rule/)
 - [postcss-apply](https://github.com/pascalduez/postcss-apply)
 - [cssnext](http://cssnext.io/)
-- [CSS `@​apply` rule (native CSS mixins)](https://blog.gospodarets.com/css_apply_rule)
+- [CSS @​apply rule (native CSS mixins)](https://blog.gospodarets.com/css_apply_rule)
 
 ## Прогрессивные веб-приложения
 

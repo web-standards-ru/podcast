@@ -10,8 +10,8 @@
 
 - [Chrome 58 Beta](https://blog.chromium.org/2017/03/chrome-58-beta-indexeddb-20_21.html)
 - [ControlsList API](https://github.com/WICG/controls-list/blob/gh-pages/explainer.md)
-- [Intent to Implement: CSS `conic-gradient()`](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-z66SwKdklc/5t-NBchECQAJ)
-- [CSS `conic-gradient()` polyfill](https://leaverou.github.io/conic-gradient/)
+- [Intent to Implement: CSS conic-gradient()](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-z66SwKdklc/5t-NBchECQAJ)
+- [CSS conic-gradient() polyfill](https://leaverou.github.io/conic-gradient/)
 
 ## Safari TP
 
