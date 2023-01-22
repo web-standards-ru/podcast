@@ -16,6 +16,7 @@
 		"@11ty/eleventy": "^2.0.0-beta.1",
 		"editorconfig-checker": "4.0.0",
 		"html-minifier-terser": "^7.1.0",
+		"html-to-text": "^9.0.3",
 		"js-yaml": "^4.1.0",
 		"minify-xml": "^3.4.0"
 	}

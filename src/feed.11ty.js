@@ -11,7 +11,22 @@ const getEpisodes = async (data) => {
 				<title>${ episode.fileSlug }. ${ episode.data.title }</title>
 				<link>${ data.meta.url }${ episode.fileSlug }/</link>
 				<pubDate>${ episode.date.toUTCString() }</pubDate>
-				<description><![CDATA[<p>${
+				<description>${
+					episode.data.hosts
+						.map(host => host)
+						.join(', ')
+				}\n\n${
+					episode.data.chapters ?
+						`${
+							episode.data.chapters
+								.map(chapter => `${ chapter.time } ${ chapter.title }\n`)
+								.join('')
+						}\n`
+					: ''
+				}${
+					this.htmlToText(episode.content)
+				}</description>
+				<content:encoded><![CDATA[<p>${
 					episode.data.hosts
 						.map(host => host)
 						.join(', ')
@@ -25,7 +40,7 @@ const getEpisodes = async (data) => {
 					: ''
 				}${
 					await this.htmlmin(episode.content)
-				}]]></description>
+				}]]></content:encoded>
 				<guid isPermaLink="true">${ data.meta.url }episodes/${ episode.fileSlug }.mp3</guid>
 				<enclosure
 					type="audio/mpeg"
@@ -56,7 +71,8 @@ const getEpisodes = async (data) => {
 				<itunes:image href="${ data.meta.url }cover.png"/>
 			</item>
 		`
-	))
+	));
+
 	return result.join('');
 }
 
