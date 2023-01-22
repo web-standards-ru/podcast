@@ -1,7 +1,7 @@
 ## Chrome DevTools
 
 - [What’s New In DevTools Chrome 104](https://developer.chrome.com/en/blog/new-in-devtools-104/)
-- [BFCache, или Туда и обратно.](https://habr.com/p/496360/)
+- [BFCache, или Туда и обратно](https://habr.com/p/496360/)
 - [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)
 
 ## @container и :has
