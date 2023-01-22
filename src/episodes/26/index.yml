@@ -1,0 +1,28 @@
+title: 'Chrome 52, Safari и MathML, font-display, WebP и WebM, HyperTerm, книги, путь фронтендера'
+
+date: 2016-07-25T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:02:17
+    title: 'Браузеры'
+  - time: 00:08:14
+    title: 'Safari и MathML'
+  - time: 00:14:12
+    title: 'Font-display в Firefox'
+  - time: 00:18:12
+    title: 'Будущее WebP и WebM'
+  - time: 00:29:46
+    title: 'Зачем HyperTerm?'
+  - time: 00:37:32
+    title: 'Книги'
+  - time: 00:40:00
+    title: 'Путь фронтендера'
+
+duration: 01:06:25

@@ -1,0 +1,22 @@
+title: 'Новинки V8, бета Chrome 90 и веб-бандлы, ненастоящие PWA и нативный CSS Nesting'
+
+date: 2021-03-22T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:00:42
+    title: 'События'
+  - time: 00:04:10
+    title: 'Что нового в V8'
+  - time: 00:09:39
+    title: 'Бета Chrome 90'
+  - time: 00:32:43
+    title: 'Ненастоящие PWA'
+  - time: 00:45:40
+    title: 'CSS Nesting'
+
+duration: 01:03:53

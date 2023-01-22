@@ -1,0 +1,21 @@
+title: 'JavaScript в вузах, JS десять лет назад, браузеры и текст в VR/AR, HTML-модули в JS'
+
+date: 2019-01-21T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:00:20
+    title: 'События'
+  - time: 00:02:18
+    title: 'JavaScript в вузах'
+  - time: 00:11:37
+    title: 'JS десять лет назад'
+  - time: 00:16:57
+    title: 'Браузеры и текст в VR/AR'
+  - time: 00:36:50
+    title: 'HTML-модули в JS'
+
+duration: 00:51:15

@@ -1,0 +1,28 @@
+title: 'Chrome DevTools, нестинг в CSS, Compat 2021, Yarn 3, парсер URL, Git Hooks, доступный диалог'
+
+date: 2021-08-02T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:10
+    title: 'События'
+  - time: 00:04:52
+    title: 'Chrome DevTools'
+  - time: 00:12:55
+    title: 'Нестинг в CSS'
+  - time: 00:28:15
+    title: 'Compat 2021'
+  - time: 00:37:39
+    title: 'Yarn 3'
+  - time: 00:49:29
+    title: 'Парсер URL'
+  - time: 00:55:00
+    title: 'Git Hooks'
+  - time: 01:16:07
+    title: 'Доступный диалог'
+
+duration: 01:22:08

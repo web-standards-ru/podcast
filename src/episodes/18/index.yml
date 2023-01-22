@@ -1,0 +1,30 @@
+title: 'Новичкам, Reset или Normalize, jQuery и Bootstrap, атомарный CSS, сервис-воркеры в Safari'
+
+date: 2016-05-30T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:02:34
+    title: 'Статьи для новичков'
+  - time: 00:06:38
+    title: 'Reset против Normalize'
+  - time: 00:13:29
+    title: 'JS для начинающих'
+  - time: 00:15:33
+    title: 'Дилетанты и профессионалы'
+  - time: 00:25:20
+    title: 'Зачем разбираться в SVG'
+  - time: 00:29:25
+    title: 'Атомарный CSS'
+  - time: 00:37:45
+    title: 'Программирование на CSS'
+  - time: 00:49:60
+    title: 'Сервис-воркеры в Safari'
+
+duration: 01:02:00

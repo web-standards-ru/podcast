@@ -1,0 +1,25 @@
+title: 'Server Push всё, DevTools, перфоманс, SPA и SEO, focus-visible, WebView, Container Queries'
+
+date: 2022-08-22T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:07
+    title: 'Server Push всё'
+  - time: 00:09:04
+    title: 'Chrome DevTools'
+  - time: 00:26:42
+    title: 'Перфоманс'
+  - time: 00:39:24
+    title: 'SPA и SEO'
+  - time: 00:50:55
+    title: 'FocusVisible'
+  - time: 01:00:58
+    title: 'Приватность WebView'
+  - time: 01:13:21
+    title: 'Container Queries'
+
+duration: 01:28:43

@@ -1,0 +1,33 @@
+title: 'Safari, static в V8, Deno, Sublime Text, HSL и LCH, F1, WordPress, SPA, гидрация и Next.js'
+
+date: 2021-04-05T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Андрей Мелихов
+  - Павел Минеев
+
+chapters:
+  - time: 00:01:13
+    title: 'События'
+  - time: 00:04:11
+    title: 'Фиксы в Safari'
+  - time: 00:07:47
+    title: 'Static в V8'
+  - time: 00:13:29
+    title: 'Deno Company'
+  - time: 00:21:35
+    title: 'Sublime Text 4'
+  - time: 00:28:46
+    title: 'HSL и LCH'
+  - time: 00:34:45
+    title: 'Медленная F1'
+  - time: 00:42:04
+    title: 'Обратно на WordPress'
+  - time: 00:54:48
+    title: 'Что такое SPA'
+  - time: 01:07:11
+    title: 'Гидрация и Next.js'
+
+duration: 01:21:08

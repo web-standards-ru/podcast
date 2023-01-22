@@ -1,0 +1,22 @@
+title: 'Декодинг картинок, анимация и авторизация, Webpack или Parcel, GIF, Smashing Magazine'
+
+date: 2017-12-11T09:00
+
+hosts:
+  - Виталий Фридман
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:04:19
+    title: 'События'
+  - time: 00:23:16
+    title: 'Новинки браузеров'
+  - time: 00:53:28
+    title: 'Webpack или Parcel'
+  - time: 01:16:46
+    title: 'GIF устарел'
+  - time: 01:26:30
+    title: 'Smashing Magazine'
+
+duration: 01:50:03

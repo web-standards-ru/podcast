@@ -1,0 +1,28 @@
+title: 'Евангелист Safari, Bootstrap 5, content-visibility, гриды, чекбоксы, forms, API для PWA'
+
+date: 2020-06-23T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Ольга Алексашенко
+
+chapters:
+  - time: 00:00:27
+    title: 'События'
+  - time: 00:06:27
+    title: 'Евангелист Safari'
+  - time: 00:11:30
+    title: 'Альфа Bootstrap 5'
+  - time: 00:23:09
+    title: 'Content-visibility'
+  - time: 00:34:53
+    title: 'Справочник по гридам'
+  - time: 00:41:43
+    title: 'Доступные чекбоксы правильно'
+  - time: 00:50:14
+    title: 'Атрибут forms'
+  - time: 00:56:39
+    title: 'Обзор API для PWA'
+
+duration: 01:06:25

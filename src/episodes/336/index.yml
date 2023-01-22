@@ -1,0 +1,25 @@
+title: 'Safari 16, :has сломал jQuery, Adobe Figma CC, input number, JS и loading=lazy, SSR, Theatre.js'
+
+date: 2022-09-19T09:00
+
+hosts:
+  - Юля Миоцен
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:08
+    title: 'Safari 16'
+  - time: 00:12:39
+    title: 'Has сломал jQuery'
+  - time: 00:23:41
+    title: 'Adobe Figma CC'
+  - time: 00:35:25
+    title: 'Плохой input number'
+  - time: 00:45:53
+    title: 'JS и loading=lazy'
+  - time: 00:49:58
+    title: 'Медленный SSR'
+  - time: 00:58:55
+    title: 'Theatre.js'
+
+duration: 01:01:24

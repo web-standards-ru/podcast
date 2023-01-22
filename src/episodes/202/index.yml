@@ -1,0 +1,25 @@
+title: 'Node.js и модули, формы в Edge, ленивая загрузка, delegatesFocus и веб-компоненты'
+
+date: 2019-11-04T09:00
+
+hosts:
+  - Вадим Макеев
+  - Сергей Куликов
+
+chapters:
+  - time: 00:01:48
+    title: 'События'
+  - time: 00:09:29
+    title: 'Релиз Node.js и модули'
+  - time: 00:18:04
+    title: 'Новые формы в Edge'
+  - time: 00:29:24
+    title: 'Ленивая загрузка в Chrome'
+  - time: 00:34:43
+    title: 'Safari и delegatesFocus'
+  - time: 00:40:02
+    title: 'Состояние веб-компонентов'
+  - time: 01:12:45
+    title: 'Будущее веб-компонентов'
+
+duration: 01:27:15

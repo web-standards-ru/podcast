@@ -1,0 +1,24 @@
+title: 'Smashing Conf, Puppeteer и Firefox, состояние всего, video как picture, чек-лист по перфомансу'
+
+date: 2021-01-18T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Виталий Фридман
+
+chapters:
+  - time: 00:02:07
+    title: 'События и Smashing Conf'
+  - time: 00:17:50
+    title: 'Puppeteer для Firefox'
+  - time: 00:22:19
+    title: 'Состояние всего'
+  - time: 00:38:55
+    title: 'Video как picture'
+  - time: 00:53:59
+    title: 'Чек-лист по перфомансу'
+  - time: 01:09:13
+    title: 'Нужен ли перфоманс'
+
+duration: 01:16:22

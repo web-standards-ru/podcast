@@ -1,0 +1,30 @@
+title: 'Браузер Flow, Lighthouse CI, сабгриды, лишний CSS, details, JS 2019, strict, JS кусается'
+
+date: 2019-12-04T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:00:27
+    title: 'События'
+  - time: 00:03:29
+    title: 'Новый браузер Flow'
+  - time: 00:09:47
+    title: 'Lighthouse CI'
+  - time: 00:14:25
+    title: 'Сабгриды'
+  - time: 00:20:50
+    title: 'Лишний CSS'
+  - time: 00:34:10
+    title: 'Элемент details'
+  - time: 00:42:58
+    title: 'State of JS 2019'
+  - time: 00:44:44
+    title: 'Use strict'
+  - time: 00:51:36
+    title: 'JS кусается'
+
+duration: 00:58:25

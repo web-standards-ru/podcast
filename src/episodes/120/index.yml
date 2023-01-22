@@ -1,0 +1,27 @@
+title: 'Firefox, Google I/O, кодстайл, JS и Prepack, RTL, тяжёлый лэндинг'
+
+date: 2018-05-14T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:17
+    title: 'События'
+  - time: 00:04:51
+    title: 'Firefox 60'
+  - time: 00:14:51
+    title: 'Google I/O'
+  - time: 00:35:55
+    title: 'Авторитарный кодстайл'
+  - time: 00:46:33
+    title: 'Оптимизация JS с Prepack'
+  - time: 01:02:46
+    title: 'CSS справа налево'
+  - time: 01:09:57
+    title: 'Спонсор выпуска'
+
+duration: 01:16:13

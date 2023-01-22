@@ -1,0 +1,26 @@
+title: 'Бета Chrome 94, TS 4.4, You don’t know JS, React render tracker, Safari, текстовый браузер Deno'
+
+date: 2021-08-30T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:19
+    title: 'События'
+  - time: 00:03:08
+    title: 'Бета Chrome 94'
+  - time: 00:08:02
+    title: 'TypeScript 4.4'
+  - time: 00:26:08
+    title: 'You don’t know JS'
+  - time: 00:35:24
+    title: 'React render tracker'
+  - time: 00:42:27
+    title: 'Особенности Safari'
+  - time: 01:01:31
+    title: 'Текстовый браузер Deno'
+
+duration: 01:16:50

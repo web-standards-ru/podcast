@@ -1,0 +1,27 @@
+title: 'Элемент model, Chrome 93, Can I Include App, нативный роутинг, анимация, дизайн-токены, RxJS'
+
+date: 2021-09-06T09:00
+
+hosts:
+  - Вадим Макеев
+  - Сэм Булатов
+  - Костя Подрубный
+  - Никита Дубко
+
+chapters:
+  - time: 00:02:17
+    title: 'Элемент model'
+  - time: 00:08:37
+    title: 'Chrome 93'
+  - time: 00:26:23
+    title: 'Can I Include App'
+  - time: 00:29:15
+    title: 'Нативный роутинг'
+  - time: 00:36:55
+    title: 'Гайд по анимации'
+  - time: 00:43:17
+    title: 'Дизайн-токены'
+  - time: 00:55:22
+    title: 'RxJS'
+
+duration: 01:07:50

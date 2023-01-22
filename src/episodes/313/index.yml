@@ -1,0 +1,31 @@
+title: 'CSS 25, Safari, отладка утечек, кастомный select, DOM и AOM, Compat 2021, минское сообщество'
+
+date: 2021-12-21T09:00
+
+hosts:
+  - Никита Дубко
+  - Саша Шинкевич
+  - Глаша Жур
+  - Вадим Макеев
+
+chapters:
+  - time: 00:02:01
+    title: 'События'
+  - time: 00:07:05
+    title: '25 лет CSS'
+  - time: 00:12:26
+    title: 'State of CSS 2021'
+  - time: 00:24:02
+    title: 'Safari 15.2'
+  - time: 00:28:28
+    title: 'Отладка утечек'
+  - time: 00:38:23
+    title: 'Кастомный select'
+  - time: 00:46:24
+    title: 'DOM и AOM'
+  - time: 00:55:05
+    title: 'Итоги Compat 2021'
+  - time: 00:59:32
+    title: 'Минское сообщество'
+
+duration: 01:17:30

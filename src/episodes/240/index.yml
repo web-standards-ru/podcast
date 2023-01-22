@@ -1,0 +1,24 @@
+title: 'MoscowJS, бета Chrome 85, TypeScript в Svelte, типизация и сбросы в CSS, что такое Numl'
+
+date: 2020-07-27T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Андрей Яманов
+
+chapters:
+  - time: 00:01:22
+    title: 'События и MoscowJS'
+  - time: 00:04:53
+    title: 'Бета Chrome 85'
+  - time: 00:18:37
+    title: 'TypeScript в Svelte'
+  - time: 00:25:16
+    title: 'Типизированный CSS'
+  - time: 00:34:15
+    title: 'Сброс в CSS'
+  - time: 00:42:05
+    title: 'Что такое Numl'
+
+duration: 01:12:11

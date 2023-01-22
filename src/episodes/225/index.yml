@@ -1,0 +1,28 @@
+title: 'The F-Word, новинки браузеров, AVIF, WebStorm 2020.1, PostCSS 8.0, CSS-нудизм и тёмные темы'
+
+date: 2020-04-13T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:00:24
+    title: 'Подкасты'
+  - time: 00:06:08
+    title: 'События'
+  - time: 00:07:42
+    title: 'Новинки браузеров'
+  - time: 00:22:00
+    title: 'Формат изображений AVIF'
+  - time: 00:30:52
+    title: 'Релиз WebStorm 2020.1'
+  - time: 00:40:28
+    title: 'Планы на PostCSS 8.0'
+  - time: 00:48:48
+    title: 'CSS-нудизм и дефолты'
+  - time: 00:57:25
+    title: 'Тёмные темы'
+
+duration: 01:07:00

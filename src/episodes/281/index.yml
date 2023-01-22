@@ -1,0 +1,35 @@
+title: 'SpiderMonkey 25 лет, Safari TP, Bootstrap 5, Гитхаб, префиксы, монорепы и свой git в Яндексе'
+
+date: 2021-05-11T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Никита Дубко
+  - Владимир Гриненко
+
+chapters:
+  - time: 00:01:49
+    title: 'События'
+  - time: 00:09:09
+    title: 'SpiderMonkey 25 лет'
+  - time: 00:11:11
+    title: 'Safari TP 124'
+  - time: 00:17:24
+    title: 'Bootstrap 5'
+  - time: 00:28:38
+    title: 'Подарок от Гитхаба'
+  - time: 00:31:42
+    title: 'Веб-компоненты в Гитхабе'
+  - time: 00:39:00
+    title: 'Нужны ли ещё префиксы'
+  - time: 00:51:46
+    title: 'Что за монорепы'
+  - time: 00:59:07
+    title: 'Зачем монорепы'
+  - time: 01:03:57
+    title: 'Взгляд пользователя'
+  - time: 01:16:53
+    title: 'Свой git и Гитхаб'
+
+duration: 01:28:43

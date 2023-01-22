@@ -1,0 +1,26 @@
+title: 'W3C + WHATWG, SEO без мифов, бюджет быстродействия, Ember.js, Elm, Puppeteer'
+
+date: 2019-06-05T09:00
+
+hosts:
+  - Вадим Макеев
+  - Александра Боровова
+  - Андрей Кузьмин
+
+chapters:
+  - time: 00:07:20
+    title: 'События'
+  - time: 00:18:18
+    title: 'W3C + WHATWG = HTML'
+  - time: 00:21:07
+    title: 'SEO без мифов'
+  - time: 00:28:23
+    title: 'Бюджет быстродействия'
+  - time: 00:40:18
+    title: 'Фильм про Ember.js'
+  - time: 00:43:22
+    title: 'Зачем Elm'
+  - time: 00:51:05
+    title: 'Расширение для Puppeteer'
+
+duration: 01:00:34

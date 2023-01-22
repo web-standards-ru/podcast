@@ -1,0 +1,25 @@
+title: 'Chrome и WebKit, резина, GitHub Actions, Adobe Fonts, слабые стороны ES6, фронтенд в Одессе'
+
+date: 2018-10-22T09:00
+
+hosts:
+  - Вадим Макеев
+  - Николай Птущук
+
+chapters:
+  - time: 00:01:20
+    title: 'События'
+  - time: 00:07:07
+    title: 'Chrome 70 и WebKit 2019'
+  - time: 00:20:21
+    title: 'Пропорциональная резина'
+  - time: 00:24:24
+    title: 'GitHub Actions'
+  - time: 00:28:20
+    title: 'Adobe Fonts'
+  - time: 00:32:11
+    title: 'Слабые стороны ES6'
+  - time: 00:51:14
+    title: 'Фронтенд в Одессе'
+
+duration: 01:17:36

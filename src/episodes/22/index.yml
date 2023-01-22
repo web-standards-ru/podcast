@@ -1,0 +1,26 @@
+title: 'Joyent, Element Queries, React в Mail.Ru, стандарты, собеседования, путь верстальщика'
+
+date: 2016-06-27T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Андрей Сумин
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:09:03
+    title: 'Samsung купила Joyent'
+  - time: 00:13:39
+    title: 'Element Queries'
+  - time: 00:17:30
+    title: 'React в Mail.Ru'
+  - time: 00:25:31
+    title: 'Стандарты и семантика'
+  - time: 00:45:51
+    title: 'Собеседования и новички'
+  - time: 00:57:54
+    title: 'Как верстальщику стать замтехдира'
+
+duration: 01:02:16

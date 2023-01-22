@@ -1,0 +1,38 @@
+title: 'HTML 5.1, async, шрифты, WebAssembly и JS, sticky, SVG, Stack Overflow, тесты и игрушки'
+
+date: 2016-11-07T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:17
+    title: 'События'
+  - time: 00:03:08
+    title: 'HTML 5.1'
+  - time: 00:05:40
+    title: 'Async в Firefox'
+  - time: 00:07:38
+    title: 'Вариативные шрифты'
+  - time: 00:13:19
+    title: 'Календарик'
+  - time: 00:20:44
+    title: 'Опасные API'
+  - time: 00:24:45
+    title: 'WebAssembly'
+  - time: 00:26:43
+    title: 'Шаблонные литералы'
+  - time: 00:31:40
+    title: 'Загрузка JS'
+  - time: 00:38:51
+    title: 'position: sticky'
+  - time: 00:41:32
+    title: 'Круговой прогресс-бар'
+  - time: 00:44:40
+    title: 'Опрос Stack Overflow'
+  - time: 00:50:34
+    title: 'Тесты и игрушки'
+
+duration: 00:58:37

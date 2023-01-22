@@ -1,0 +1,21 @@
+title: 'Chrome Dev Summit, API к персональным данным, HTTP/3 на UDP, веб-компоненты'
+
+date: 2018-11-19T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:28
+    title: 'События'
+  - time: 00:06:51
+    title: 'Chrome Dev Summit'
+  - time: 00:36:43
+    title: 'API к персональным данным'
+  - time: 00:52:10
+    title: 'HTTP уже 3'
+  - time: 01:13:26
+    title: 'Веб-компоненты'
+
+duration: 01:29:55

@@ -1,0 +1,23 @@
+title: 'Fx or FF, how Mozilla works, why Firefox, contributing to MDN'
+
+date: 2019-06-10T09:00
+
+hosts:
+  - Vadim Makeev
+  - Chris Mills
+
+chapters:
+  - time: 00:00:51
+    title: 'Fx or FF, Mozilla, why Firefox'
+  - time: 00:09:26
+    title: 'Switching to Firefox, DevTools'
+  - time: 00:16:38
+    title: 'MDN as the web platform’s Wikipedia'
+  - time: 00:25:05
+    title: 'How and why contribute to MDN'
+  - time: 00:31:36
+    title: 'Specs and docs translation'
+  - time: 00:37:52
+    title: 'MDN’s future: GitHub, Markdown'
+
+duration: 00:42:41

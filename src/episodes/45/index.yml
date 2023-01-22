@@ -1,0 +1,31 @@
+title: 'Chrome 55, гриды, URL, PWA как APK, @supports, CSS-in-JS, шрифты в Медузе, инструменты 2016'
+
+date: 2016-12-05T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:02:57
+    title: 'Chrome 55'
+  - time: 00:11:10
+    title: 'Отладка гридов в Firefox'
+  - time: 00:12:55
+    title: 'Парсер URL в WebKit'
+  - time: 00:16:20
+    title: 'PWA как APK'
+  - time: 00:18:21
+    title: 'Справочник по CSS'
+  - time: 00:23:40
+    title: '@​supports'
+  - time: 00:33:04
+    title: 'CSS-in-JS и бэктики'
+  - time: 00:42:21
+    title: 'Шрифты в Медузе'
+  - time: 00:52:57
+    title: 'Инструменты 2016'
+
+duration: 01:07:16

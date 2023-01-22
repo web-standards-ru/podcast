@@ -1,0 +1,30 @@
+title: 'Firefox, npm 5, a11y, шорты и шоу, CSS-in-JS, Webpack и SPA, гриды, новичкам'
+
+date: 2017-05-29T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:12
+    title: 'События'
+  - time: 00:07:57
+    title: 'Маркетинг Firefox'
+  - time: 00:16:44
+    title: 'Npm 5 догоняет'
+  - time: 00:29:00
+    title: 'Доступность'
+  - time: 00:36:12
+    title: 'Почему шорты и шоу'
+  - time: 00:41:10
+    title: 'CSS-in-JS'
+  - time: 00:49:51
+    title: 'Webpack и SPA'
+  - time: 00:58:02
+    title: 'Гриды'
+  - time: 01:01:13
+    title: 'Новичкам'
+
+duration: 01:04:26

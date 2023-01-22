@@ -1,0 +1,37 @@
+title: 'Safari TP, async/await, HTML 5.2, JS-модули, CSS и SVG, before и after, a11y, полифилы и React'
+
+date: 2016-10-04T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:25
+    title: 'События'
+  - time: 00:08:51
+    title: 'Safari TP 14'
+  - time: 00:10:45
+    title: 'Async и await в Chrome'
+  - time: 00:13:03
+    title: 'Куда двигается HTML'
+  - time: 00:16:24
+    title: 'Сложности с JS-модулями'
+  - time: 00:22:00
+    title: 'Недооценённый CSS'
+  - time: 00:27:21
+    title: 'Больший потенциал SVG'
+  - time: 00:30:41
+    title: 'Псевдоэлементы'
+  - time: 00:35:26
+    title: 'Доступность'
+  - time: 00:39:06
+    title: 'Длинные классы в БЭМе'
+  - time: 00:41:04
+    title: 'Отладчик в 108 байтах'
+  - time: 00:42:44
+    title: 'Загрузка полифилов'
+  - time: 00:47:34
+    title: 'История React'
+
+duration: 00:49:43

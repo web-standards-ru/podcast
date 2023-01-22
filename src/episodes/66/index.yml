@@ -1,0 +1,26 @@
+title: 'React и Sketch, HTML и WebGL, игры на CSS, гриды, HTML Шорты, дизайнеры и код в Яндексе'
+
+date: 2017-05-03T09:00
+
+hosts:
+  - Антон Шеин
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:20
+    title: 'События'
+  - time: 00:04:39
+    title: 'Из React в Sketch'
+  - time: 00:13:44
+    title: 'HTML в WebGL'
+  - time: 00:23:17
+    title: 'Игра на CSS'
+  - time: 00:31:30
+    title: 'Гриды'
+  - time: 00:43:30
+    title: 'HTML Шорты'
+  - time: 00:45:02
+    title: 'Дизайнеры и код в Яндексе'
+
+duration: 01:14:20

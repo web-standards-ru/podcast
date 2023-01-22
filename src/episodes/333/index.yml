@@ -1,0 +1,27 @@
+title: 'Safari TP, :has, Flipper, Deno, Console Ninja, цвета, Early Hints, должен ли фронтендер'
+
+date: 2022-08-29T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:10
+    title: 'Safari TP 152'
+  - time: 00:07:19
+    title: 'Селектор :has'
+  - time: 00:27:03
+    title: 'Flipper для отладки'
+  - time: 00:37:37
+    title: 'Deno теперь с npm'
+  - time: 00:46:33
+    title: 'Console Ninja'
+  - time: 00:51:50
+    title: 'Цвета и контраст'
+  - time: 01:01:48
+    title: 'Перфоманс и Early Hints'
+  - time: 01:20:16
+    title: 'Должен ли фронтендер'
+
+duration: 01:35:50

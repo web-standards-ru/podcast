@@ -1,0 +1,30 @@
+title: 'Chrome 87, Firefox 83, Servo, Safari 14, Open Prioritization, кэш туда-обратно, гриды и minmax'
+
+date: 2020-11-24T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Саша Шинкевич
+
+chapters:
+  - time: 00:01:14
+    title: 'События'
+  - time: 00:03:05
+    title: 'Chrome 87'
+  - time: 00:10:24
+    title: 'Chrome DevTools'
+  - time: 00:15:14
+    title: 'Firefox 83'
+  - time: 00:24:23
+    title: 'Новый дом для Servo'
+  - time: 00:28:26
+    title: 'Safari 14'
+  - time: 00:38:38
+    title: 'Open Prioritization'
+  - time: 00:44:57
+    title: 'Кэш туда-обратно'
+  - time: 00:53:38
+    title: 'Гриды и minmax'
+
+duration: 01:06:35

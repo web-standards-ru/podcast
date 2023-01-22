@@ -1,0 +1,22 @@
+title: 'Firefox 80 и Chrome 85, никто не новый IE, зачем Yarn 2, новый AVIF и WebP v2'
+
+date: 2020-09-01T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Андрей Ситник
+
+chapters:
+  - time: 00:01:34
+    title: 'Firefox 80'
+  - time: 00:07:44
+    title: 'Chrome 85'
+  - time: 00:22:47
+    title: 'Никто не новый IE'
+  - time: 00:34:34
+    title: 'Зачем Yarn 2'
+  - time: 00:42:35
+    title: 'Новый формат AVIF'
+
+duration: 01:05:10

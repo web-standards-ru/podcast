@@ -1,0 +1,28 @@
+title: 'Лёгкий Fleet, GitHub Actions, ESM+TS ломают сборку, свежие CQ, HTML, CSS, JS в Веб-альманахе'
+
+date: 2021-12-06T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:02:15
+    title: 'События'
+  - time: 00:04:20
+    title: 'Лёгкий Fleet'
+  - time: 00:16:48
+    title: 'Node.js в GitHub Actions'
+  - time: 00:22:05
+    title: 'ESM+TS ломают сборку'
+  - time: 00:29:28
+    title: 'Свежие Container Queries'
+  - time: 00:33:16
+    title: 'Веб-альманах HTML'
+  - time: 00:43:06
+    title: 'Веб-альманах CSS'
+  - time: 00:48:59
+    title: 'Веб-альманах JS'
+
+duration: 00:53:55

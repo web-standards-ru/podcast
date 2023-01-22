@@ -1,0 +1,27 @@
+title: 'Safari TP, WebDX, OKLCH, TS 4.9, CSS-токены на типах, гриды и шейпы, where или is, трюк с has'
+
+date: 2022-11-22T09:00
+
+hosts:
+  - Юля Миоцен
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:08
+    title: 'Safari TP 158'
+  - time: 00:10:31
+    title: 'Группа WebDX'
+  - time: 00:19:54
+    title: 'OKLCH в CSS'
+  - time: 00:33:11
+    title: 'TypeScript 4.9'
+  - time: 00:45:40
+    title: 'CSS-токены на типах'
+  - time: 00:56:03
+    title: 'Гриды и шейпы'
+  - time: 01:04:17
+    title: 'Where или is'
+  - time: 01:10:13
+    title: 'Трюк с has'
+
+duration: 01:16:10

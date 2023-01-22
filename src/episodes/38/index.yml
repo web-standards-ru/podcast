@@ -1,0 +1,34 @@
+title: 'Yarn, Safari, Bluetooth, таблицы, alt, женщины CSS, styled_components, прогрессивное улучшение'
+
+date: 2016-10-17T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:02:57
+    title: 'Yarn для npm'
+  - time: 00:20:02
+    title: 'Safari TP 15'
+  - time: 00:24:28
+    title: 'Web Bluetooth'
+  - time: 00:25:57
+    title: 'Хорошие таблицы'
+  - time: 00:35:07
+    title: 'Alt для картинок'
+  - time: 00:43:06
+    title: 'Женщины CSS'
+  - time: 00:46:57
+    title: 'Функция map в CSS'
+  - time: 00:53:45
+    title: 'Стили без CSS'
+  - time: 00:57:14
+    title: 'JS (не) нужен?'
+  - time: 01:04:51
+    title: 'Прогрессивное улучшение'
+
+duration: 01:12:53

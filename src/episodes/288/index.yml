@@ -1,0 +1,28 @@
+title: 'Сторонние куки, Safari TP, ES2021, веб-платформа, LayoutNG, определение браузеров на CSS'
+
+date: 2021-06-28T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:47
+    title: 'События'
+  - time: 00:04:04
+    title: 'Chrome и сторонние куки'
+  - time: 00:15:46
+    title: 'Safari TP (15)'
+  - time: 00:22:13
+    title: 'Новинки ES2021'
+  - time: 00:32:52
+    title: 'Promise.any и WeakRef'
+  - time: 00:47:35
+    title: 'Веб-платформа'
+  - time: 00:58:56
+    title: 'Таблицы и LayoutNG'
+  - time: 01:05:54
+    title: 'Определение браузеров на CSS'
+
+duration: 01:19:17

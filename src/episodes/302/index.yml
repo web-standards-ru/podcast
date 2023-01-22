@@ -1,0 +1,33 @@
+title: 'Safari, сертификаты, Hacktoberfest, jQuery всё, Cascade Layers, пререндеринг, финтех в Яндексе'
+
+date: 2021-10-04T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Саша Гришин
+  - Никита Дубко
+  - Лёша Тронов
+
+chapters:
+  - time: 00:00:55
+    title: 'События'
+  - time: 00:07:56
+    title: 'Safari TP 133'
+  - time: 00:16:19
+    title: 'Корневые сертификаты'
+  - time: 00:21:35
+    title: 'Hacktoberfest'
+  - time: 00:23:34
+    title: 'Rome на Rust'
+  - time: 00:25:37
+    title: 'jQuery уходит'
+  - time: 00:27:16
+    title: '10 лет JS-лого'
+  - time: 00:29:20
+    title: 'Cascade Layers'
+  - time: 00:42:31
+    title: 'Пререндеринг'
+  - time: 00:54:52
+    title: 'Финтех в Яндексе'
+
+duration: 01:15:36

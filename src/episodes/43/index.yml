@@ -1,0 +1,36 @@
+title: 'Opera DevRel всё, браузеры, шлюзы, инлайновые стили, печать, гриды, DL, Atom, 42, Медиум'
+
+date: 2016-11-21T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:15
+    title: 'События'
+  - time: 00:02:14
+    title: 'Opera DevRel всё'
+  - time: 00:06:04
+    title: 'Safari TP 18'
+  - time: 00:09:29
+    title: 'Firefox 50'
+  - time: 00:13:26
+    title: 'CSS-шлюзы'
+  - time: 00:19:45
+    title: 'Расширение инлайновых стилей'
+  - time: 00:25:06
+    title: 'Печать'
+  - time: 00:35:43
+    title: 'Гриды весной'
+  - time: 00:45:48
+    title: 'Новый dl'
+  - time: 00:48:19
+    title: 'Atom без Shadow DOM'
+  - time: 00:57:15
+    title: '42'
+  - time: 00:57:41
+    title: 'Медиум'
+
+duration: 00:59:45

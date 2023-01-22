@@ -1,0 +1,22 @@
+title: 'Берлин, веб-компоненты, PWA на десктопе, Styleguidist и JSS, CSS-in-JS'
+
+date: 2018-10-29T09:00
+
+hosts:
+  - Олег Исонен
+  - Вадим Макеев
+  - Артём Сапегин
+
+chapters:
+  - time: 00:02:42
+    title: 'События в Берлине'
+  - time: 00:05:05
+    title: 'Веб-компоненты'
+  - time: 00:18:52
+    title: 'PWA на десктопе'
+  - time: 00:36:33
+    title: 'Styleguidist и JSS'
+  - time: 00:42:40
+    title: 'CSS-in-JS'
+
+duration: 01:18:55

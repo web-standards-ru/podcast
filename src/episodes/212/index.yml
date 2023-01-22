@@ -1,0 +1,26 @@
+title: 'Firefox 72, Shadow Parts, новые формы, сервис-воркеры, Masonry, ментальная модель JS'
+
+date: 2020-01-09T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:00
+    title: События
+  - time: 00:06:54
+    title: Новинки Firefox 72
+  - time: 00:20:29
+    title: Shadow Parts в Firefox
+  - time: 00:24:38
+    title: Новые формы в новом Edge
+  - time: 00:29:37
+    title: Шаблоны в сервис-воркерах
+  - time: 00:41:26
+    title: Плиточная раскладка на гридах
+  - time: 00:46:20
+    title: Ментальная модель JavaScript
+
+duration: 00:58:07

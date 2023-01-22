@@ -1,0 +1,30 @@
+title: 'Конец Edge Legacy, Safari TP, React Native, Preact Server Components, MDN на русском, стили для печати, EditorConfig, ховер, системные шрифты'
+
+date: 2021-03-15T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:04
+    title: 'События'
+  - time: 00:06:35
+    title: 'Старый Edge всё'
+  - time: 00:12:02
+    title: 'Новинки Safari TP'
+  - time: 00:21:54
+    title: 'React Native и Preact'
+  - time: 00:29:02
+    title: 'MDN по-русски'
+  - time: 00:33:12
+    title: 'Стили для печати'
+  - time: 00:41:46
+    title: 'EditorConfig'
+  - time: 00:48:35
+    title: 'Ховер или клик'
+  - time: 00:57:31
+    title: 'Системные шрифты'
+
+duration: 01:09:27

@@ -1,0 +1,28 @@
+title: 'Chrome 84, нативный параллакс, архив GitHub, Open Prioritization, Lighthouse, Tailwind CSS'
+
+date: 2020-07-20T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Виталий Емельянцев
+
+chapters:
+  - time: 00:01:23
+    title: 'События'
+  - time: 00:04:42
+    title: 'Chrome 84'
+  - time: 00:19:21
+    title: 'Нативный параллакс'
+  - time: 00:26:04
+    title: 'Архив GitHub во льдах'
+  - time: 00:35:07
+    title: 'Open Prioritization'
+  - time: 00:45:17
+    title: 'Счётчик Lighthouse'
+  - time: 00:52:55
+    title: 'Tailwind на практике'
+  - time: 01:10:12
+    title: 'Tailwind как Bootstrap'
+
+duration: 01:15:56

@@ -1,0 +1,25 @@
+title: 'Firefox, новые гриды в Edge, зачем флексы, JS-модули в HTML, Webpack 3 и CSS-фрагменты'
+
+date: 2017-06-26T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:35
+    title: 'События'
+  - time: 00:07:52
+    title: 'Firefox'
+  - time: 00:17:06
+    title: 'Гриды в Edge'
+  - time: 00:19:30
+    title: 'Зачем флексы'
+  - time: 00:21:58
+    title: 'JS-модули в HTML'
+  - time: 00:25:37
+    title: 'Webpack 3'
+  - time: 00:34:40
+    title: 'CSS-фрагменты'
+
+duration: 00:43:18

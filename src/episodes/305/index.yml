@@ -1,0 +1,28 @@
+title: 'Экосистема 2021, VS Code в браузере, Node.js 17, Reporting API, автозаполнение, SPA или MPA'
+
+date: 2021-10-25T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Мария Просвирнина
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:52
+    title: 'События'
+  - time: 00:03:37
+    title: 'Chrome 95'
+  - time: 00:11:35
+    title: 'Экосистема 2021'
+  - time: 00:23:57
+    title: 'VS Code в браузере'
+  - time: 00:30:04
+    title: 'Node.js 17'
+  - time: 00:35:19
+    title: 'Reporting API'
+  - time: 00:42:09
+    title: 'Автозаполнение'
+  - time: 00:51:13
+    title: 'SPA или MPA'
+
+duration: 01:05:07

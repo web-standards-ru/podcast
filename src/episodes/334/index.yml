@@ -1,0 +1,27 @@
+title: 'Chrome 105, картинки в Angular, Firefox 104, SpiderMonkey, TS 4.9, стиль ошибок, отключение кук'
+
+date: 2022-09-06T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Никита Дубко
+
+chapters:
+  - time: 00:04:14
+    title: 'Chrome 105'
+  - time: 00:24:01
+    title: 'Картинки в Angular'
+  - time: 00:31:10
+    title: 'Firefox 104'
+  - time: 00:44:04
+    title: 'Новинки SpiderMonkey'
+  - time: 00:56:30
+    title: 'Бета TypeScript 4.9'
+  - time: 01:04:03
+    title: 'Стилизация ошибок'
+  - time: 01:14:20
+    title: 'Отключение кук'
+
+duration: 01:32:31

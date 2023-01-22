@@ -1,0 +1,31 @@
+title: 'Express, WebP в Ps, чарты в маркдауне, Eleventy, layer, кривые Безье, React Native, State of JS'
+
+date: 2022-02-21T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Мария Просвирнина
+  - Юля Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:07
+    title: 'События'
+  - time: 00:04:03
+    title: 'Новости Express'
+  - time: 00:08:25
+    title: 'WebP в Photoshop'
+  - time: 00:19:10
+    title: 'Чарты в маркдауне'
+  - time: 00:25:00
+    title: 'Фултайм Eleventy'
+  - time: 00:35:53
+    title: 'Забытый тег layer'
+  - time: 00:43:33
+    title: 'Кривые Безье'
+  - time: 00:49:27
+    title: 'React Native'
+  - time: 00:56:11
+    title: 'State of JS'
+
+duration: 01:09:20

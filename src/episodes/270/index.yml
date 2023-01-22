@@ -1,0 +1,33 @@
+title: 'Инспектор флексов, Vite 2.0, SVGO 2.0, Wakamai Fondue, TypeScript, RedLab и стороны аутсорса'
+
+date: 2021-02-22T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Роман Магдаленко
+
+chapters:
+  - time: 00:02:45
+    title: 'События'
+  - time: 00:07:34
+    title: 'Инспектор флексов'
+  - time: 00:09:32
+    title: 'Vite 2.0'
+  - time: 00:16:36
+    title: 'SVGO 2.0'
+  - time: 00:24:11
+    title: 'Wakamai Fondue'
+  - time: 00:26:00
+    title: 'Зачем TypeScript'
+  - time: 00:34:48
+    title: 'Аутсорс: Лёша'
+  - time: 00:47:55
+    title: 'Аутсорс: Андрей'
+  - time: 01:05:32
+    title: 'Аутсорс: Вадим'
+  - time: 01:14:23
+    title: 'Новички в аутсорсе'
+
+duration: 01:20:13

@@ -1,0 +1,30 @@
+title: 'Npm 7, PCM, V8 v8.9, App History API, прагматичные книги, Docker: зачем, как и чьё это дело'
+
+date: 2021-02-09T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Игорь Коровченко
+
+chapters:
+  - time: 00:01:25
+    title: 'Npm 7'
+  - time: 00:14:15
+    title: 'Private Click Measurement'
+  - time: 00:19:45
+    title: 'Обновление V8 v8.9'
+  - time: 00:23:55
+    title: 'App History API'
+  - time: 00:32:01
+    title: 'Прагматичные книги'
+  - time: 00:36:45
+    title: 'Принцип работы Docker'
+  - time: 00:44:03
+    title: 'Как пользоваться Docker'
+  - time: 00:48:09
+    title: 'Разработка в Docker'
+  - time: 00:55:21
+    title: 'Docker, чья проблема'
+
+duration: 01:03:26

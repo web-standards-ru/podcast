@@ -1,0 +1,32 @@
+title: 'Браузеры, кастомные элементы, border-image, font-display, Лия Веру и HTML, вомбаты и npm'
+
+date: 2016-09-05T09:00
+
+hosts:
+  - Вадим Макеев
+  - Анна Селезнёва
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:14
+    title: 'События'
+  - time: 00:01:31
+    title: 'Аня, представься'
+  - time: 00:08:37
+    title: 'Safari 10, скоро'
+  - time: 00:12:21
+    title: 'Chrome 53, уже'
+  - time: 00:22:27
+    title: 'Кастомные элементы'
+  - time: 00:32:34
+    title: 'Компоненты по старинке'
+  - time: 00:36:27
+    title: 'Слайсинг в border-image'
+  - time: 00:40:25
+    title: 'Очень ждём font-display'
+  - time: 00:44:12
+    title: 'Лия Веру и HTML'
+  - time: 00:50:28
+    title: 'Вомбаты в носках и npm'
+
+duration: 00:59:29

@@ -1,0 +1,24 @@
+title: 'Safari и Chrome, Ruby Sass всё, логические свойства, доступные таблицы, классы и const в JS'
+
+date: 2018-04-09T09:00
+
+hosts:
+  - Игорь Алексеенко
+  - Вадим Макеев
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:01:00
+    title: 'События'
+  - time: 00:02:13
+    title: 'Новинки Safari и Chrome'
+  - time: 00:15:35
+    title: 'Ruby Sass всё'
+  - time: 00:20:09
+    title: 'Логические CSS-свойства'
+  - time: 00:28:47
+    title: 'Доступные таблицы'
+  - time: 00:41:59
+    title: 'Неправильные классы и const в JS'
+
+duration: 01:02:35

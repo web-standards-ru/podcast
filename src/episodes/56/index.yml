@@ -1,0 +1,30 @@
+title: 'Новинки Chrome, Base64, WebKit, ES-модули, Node.js и Webpack, UI, книги, CSS-переменные'
+
+date: 2017-02-21T09:00
+
+hosts:
+  - Сергей Господарец
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:42
+    title: 'События'
+  - time: 00:09:10
+    title: 'Новинки Chrome'
+  - time: 00:28:38
+    title: 'Плохой Base64'
+  - time: 00:39:34
+    title: 'Отладчик WebKit'
+  - time: 00:46:00
+    title: 'Нативные ES-модули'
+  - time: 00:55:18
+    title: 'Модули в Node.js, Webpack и V8'
+  - time: 01:01:46
+    title: 'Спокойный UI'
+  - time: 01:04:59
+    title: 'Книга с рыбами'
+  - time: 01:07:01
+    title: 'CSS-переменные'
+
+duration: 01:20:38

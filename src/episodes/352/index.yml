@@ -1,0 +1,27 @@
+title: 'Safari TP, Chrome 109-110, :has, CSS и Figma, State of JS 2022, Civet как призрак CoffeeScript'
+
+date: 2023-01-16T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+  - Вадим Макеев
+  - Юля Миоцен
+
+chapters:
+  - time: 00:02:02
+    title: 'Safari TP'
+  - time: 00:10:42
+    title: 'Chrome 109'
+  - time: 00:24:33
+    title: 'Бета Chrome 110'
+  - time: 00:34:51
+    title: ':has для диапазонов'
+  - time: 00:39:24
+    title: 'Conditional CSS'
+  - time: 00:44:31
+    title: 'State of JS'
+  - time: 01:10:08
+    title: 'Призрак CoffeeScript'
+
+duration: 01:23:19

@@ -1,0 +1,24 @@
+title: 'Бета Chrome 64 и V8, опенсорс, что не так с CSS и классами в JS, HTML 5.2 и WHATWG'
+
+date: 2017-12-18T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:03:21
+    title: 'События'
+  - time: 00:15:47
+    title: 'Бета Chrome 64 и V8'
+  - time: 00:20:30
+    title: 'Поддержка опенсорса'
+  - time: 00:50:00
+    title: 'Что не так с CSS'
+  - time: 01:05:50
+    title: 'Что не так с классами в JS'
+  - time: 01:22:22
+    title: 'HTML 5.2 и WHATWG'
+
+duration: 01:45:50

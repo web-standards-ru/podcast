@@ -1,0 +1,25 @@
+title: 'Новинки Chrome 97 и DevTools, Faker.js и опенсорс, Crypto Mozilla, стандарт дизайн-токенов'
+
+date: 2022-01-11T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+  - Юля Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:50
+    title: 'События'
+  - time: 00:04:31
+    title: 'Chrome 97'
+  - time: 00:14:34
+    title: 'Chrome DevTools'
+  - time: 00:25:35
+    title: 'Faker.js'
+  - time: 00:38:17
+    title: 'Crypto Mozilla'
+  - time: 00:49:41
+    title: 'Дизайн-токены'
+
+duration: 01:06:10

@@ -1,0 +1,30 @@
+title: 'CSS Minsk JS, DevTools, Storage API, DRM и W3C, чистка CSS, API, Xwebs Megabrowser'
+
+date: 2017-07-24T09:00
+
+hosts:
+  - Павел Ловцевич
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:11
+    title: 'События'
+  - time: 00:10:23
+    title: 'Новинки DevTools'
+  - time: 00:22:10
+    title: 'Storage API в Firefox'
+  - time: 00:28:13
+    title: 'DRM и W3C'
+  - time: 00:47:03
+    title: 'Чистка CSS'
+  - time: 00:56:11
+    title: 'Вброс и Шорты'
+  - time: 01:01:59
+    title: 'Гироскоп и драг-н-дроп'
+  - time: 01:09:17
+    title: 'Состояние JS'
+  - time: 01:10:23
+    title: 'Xwebs Megabrowser'
+
+duration: 01:17:31

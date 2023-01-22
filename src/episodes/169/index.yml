@@ -1,0 +1,20 @@
+title: 'Safari 12.1 и IE11, веб-воркеры и ленивые картинки, Sass, Эрик Мейер и CSSBattle'
+
+date: 2019-04-08T09:00
+
+hosts:
+  - Вадим Макеев
+  - Сергей Рожков
+  - Иван Сорокин
+
+chapters:
+  - time: 00:02:33
+    title: 'События'
+  - time: 00:15:46
+    title: 'Safari 12.1 и IE11'
+  - time: 00:32:16
+    title: 'Веб-воркеры и ленивые картинки'
+  - time: 00:49:17
+    title: 'Sass, Эрик Мейер и CSSBattle'
+
+duration: 01:14:07

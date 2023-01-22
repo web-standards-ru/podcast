@@ -1,0 +1,25 @@
+title: 'Новости браузеров, font-display, иконочные шрифты, формы и клавиатура, доступность'
+
+date: 2019-05-28T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:42
+    title: 'Патреон и подкасты'
+  - time: 00:04:46
+    title: 'События'
+  - time: 00:12:22
+    title: 'Edge, Firefox, Blink'
+  - time: 00:28:10
+    title: 'Font-display в Google Fonts'
+  - time: 00:40:02
+    title: 'Иконочные шрифты'
+  - time: 00:45:16
+    title: 'Формы и клавиатура'
+  - time: 00:51:14
+    title: 'Доступные меню и кнопки'
+
+duration: 01:11:14

@@ -1,0 +1,32 @@
+title: 'Гриды, Edge и IE, сетки и стримеры, CSS is Awesome, ARIA, фокус, JS-импорты, подкасты'
+
+date: 2017-07-10T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:05:33
+    title: 'Так пора гриды?'
+  - time: 00:18:45
+    title: 'Edge и IE'
+  - time: 00:23:52
+    title: 'Сетки и стримеры'
+  - time: 00:30:39
+    title: 'Будущее CSS'
+  - time: 00:39:12
+    title: 'CSS is Awesome'
+  - time: 00:46:52
+    title: 'Примеры ARIA'
+  - time: 00:49:38
+    title: 'Фокус и аутлайн'
+  - time: 00:58:12
+    title: 'JS-импорты'
+  - time: 01:04:10
+    title: 'Подкасты'
+
+duration: 01:14:06

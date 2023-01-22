@@ -1,0 +1,26 @@
+title: 'Firefox, JSON, Every Layout, монорепы, a11y, Slack и JS'
+
+date: 2019-07-29T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Андрей Складчиков
+
+chapters:
+  - time: 00:01:54
+    title: 'События'
+  - time: 00:12:53
+    title: 'Новинки Firefox'
+  - time: 00:19:31
+    title: 'Удобно читать JSON'
+  - time: 00:24:27
+    title: 'Книга и спор про CSS'
+  - time: 00:37:38
+    title: 'Компоненты в монорепе'
+  - time: 00:50:00
+    title: 'A11y: тултипы, AOM, ссылки'
+  - time: 00:57:16
+    title: 'Slack и ответственный JS'
+
+duration: 01:09:19

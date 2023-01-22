@@ -1,0 +1,24 @@
+title: 'Google и приватность, JavaScript в вузах, WebAssembly, люди из TC39, участие в создании ES'
+
+date: 2019-08-19T09:00
+
+hosts:
+  - Вадим Макеев
+  - Дмитрий Махнёв
+  - Сергей Рубанов
+
+chapters:
+  - time: 00:01:17
+    title: 'События'
+  - time: 00:11:25
+    title: 'Google и приватность'
+  - time: 00:20:38
+    title: 'JavaScript в вузах'
+  - time: 00:32:04
+    title: 'WebAssembly'
+  - time: 00:46:52
+    title: 'Люди из TC39'
+  - time: 01:00:07
+    title: 'Участие в создании ES'
+
+duration: 01:10:31

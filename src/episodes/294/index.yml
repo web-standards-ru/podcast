@@ -1,0 +1,30 @@
+title: 'Safari, WWW 30, system-ui, предпочтения, Parcel 2, JS без JIT, CSS-селекторы, alt с эмоциями'
+
+date: 2021-08-10T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:48
+    title: 'События'
+  - time: 00:04:59
+    title: 'Safari TP'
+  - time: 00:08:04
+    title: 'WWW 30'
+  - time: 00:14:58
+    title: 'System-ui'
+  - time: 00:21:01
+    title: 'Предпочтения в заголовке'
+  - time: 00:29:15
+    title: 'Parcel 2 RC'
+  - time: 00:39:54
+    title: 'Super Duper без JIT'
+  - time: 00:51:54
+    title: 'CSS-селекторы'
+  - time: 00:58:51
+    title: 'Alt с эмоциями'
+
+duration: 01:05:17

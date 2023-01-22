@@ -1,0 +1,31 @@
+title: 'Safari и WebKit, Model для 3D, Firefox 102, интервенции, DevTools, HTML без фантазий, Color.js'
+
+date: 2022-07-04T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Юля Миоцен
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:39
+    title: 'Safari TP'
+  - time: 00:15:04
+    title: 'WebKit на GitHub'
+  - time: 00:25:09
+    title: 'Model для 3D'
+  - time: 00:33:17
+    title: 'Firefox 102'
+  - time: 00:46:40
+    title: 'Браузеры'
+  - time: 00:56:25
+    title: 'Интервенции'
+  - time: 01:02:18
+    title: 'DevTools'
+  - time: 01:11:08
+    title: 'HTML без фантазий'
+  - time: 01:21:51
+    title: 'Color.js'
+
+duration: 01:27:12

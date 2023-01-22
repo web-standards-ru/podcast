@@ -1,0 +1,26 @@
+title: 'Три года в эфире, JS для ТВ, Chrome, Safari, PWA, JS Core, CSS против JS, ES2019'
+
+date: 2019-02-04T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Сергей Рубанов
+
+chapters:
+  - time: 00:02:13
+    title: 'Три года в эфире'
+  - time: 00:04:30
+    title: 'События'
+  - time: 00:05:38
+    title: 'JS-разработчики для ТВ'
+  - time: 00:12:08
+    title: 'Chrome, Safari, PWA'
+  - time: 00:29:34
+    title: 'Safari и JS Core'
+  - time: 00:46:43
+    title: 'CSS против JS'
+  - time: 01:07:17
+    title: 'ES2019'
+
+duration: 01:19:48

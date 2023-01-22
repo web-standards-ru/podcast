@@ -1,25 +1,22 @@
 {
-  "private": true,
-  "scripts": {
-    "editorconfig": "editorconfig-checker",
-    "yaspeller": "yaspeller --only-errors src/episodes/*.md",
-    "test": "npm run editorconfig && npm run yaspeller",
-    "build": "eleventy",
-    "mp3": "cd src/mp3 && rsync --archive --compress --delete --delete-excluded --exclude .DS_Store . wst@web-standards.ru:/var/www/web-standards.ru/podcast/episodes/",
-    "cover": "cd src && rsync --archive --compress cover.png wst@web-standards.ru:/var/www/web-standards.ru/podcast/",
-    "feed": "cd dist && rsync --archive --compress index.xml wst@web-standards.ru:/var/www/web-standards.ru/podcast/feed/",
-    "deploy": "npm run mp3 && npm run cover && npm run feed"
-  },
-  "engines": {
-    "node": ">=16",
-    "npm": ">=8"
-  },
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-beta.1",
-    "editorconfig-checker": "4.0.0",
-    "html-minifier": "^4.0.0",
-    "markdown-it": "^13.0.1",
-    "pretty-data": "^0.40.0",
-    "yaspeller": "^8.0.1"
-  }
+	"private": true,
+	"scripts": {
+		"test": "editorconfig-checker",
+		"build": "eleventy",
+		"mp3": "cd src/mp3 && rsync --archive --compress --delete --delete-excluded --exclude .DS_Store . wst@web-standards.ru:/var/www/web-standards.ru/podcast/episodes/",
+		"cover": "cd src && rsync --archive --compress cover.png wst@web-standards.ru:/var/www/web-standards.ru/podcast/",
+		"feed": "cd dist && rsync --archive --compress index.xml wst@web-standards.ru:/var/www/web-standards.ru/podcast/feed/",
+		"deploy": "npm run mp3 && npm run cover && npm run feed"
+	},
+	"engines": {
+		"node": ">=16",
+		"npm": ">=8"
+	},
+	"devDependencies": {
+		"@11ty/eleventy": "^2.0.0-beta.1",
+		"editorconfig-checker": "4.0.0",
+		"html-minifier-terser": "^7.1.0",
+		"js-yaml": "^4.1.0",
+		"minify-xml": "^3.4.0"
+	}
 }

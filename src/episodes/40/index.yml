@@ -1,0 +1,31 @@
+title: 'Браузеры, Servo, таблицы, Node.js 7, стандарты и полифилы, border-image, режимы смешивания'
+
+date: 2016-11-02T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:25
+    title: 'События'
+  - time: 00:06:40
+    title: 'Chromium 54'
+  - time: 00:09:35
+    title: 'Safari TP 16 и Apple Pay'
+  - time: 00:16:58
+    title: 'Mozilla, Servo, разработка движков'
+  - time: 00:36:33
+    title: 'Таблицы по стандартам'
+  - time: 00:38:47
+    title: 'Node.js 7'
+  - time: 00:41:03
+    title: 'Стандарты и полифилы'
+  - time: 00:46:24
+    title: 'Забытый border-image'
+  - time: 00:52:05
+    title: 'Базовый SVG'
+  - time: 00:52:52
+    title: 'Возвращение Дейва Шей'
+
+duration: 00:57:46

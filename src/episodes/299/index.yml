@@ -1,0 +1,26 @@
+title: 'Браузеры в iOS, TypeScript, обучение через игру, a11y, React Native в вебе, сложный фронтенд'
+
+date: 2021-09-14T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Иван Ботанов
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:26
+    title: 'События'
+  - time: 00:06:38
+    title: 'Браузеры в iOS'
+  - time: 00:15:02
+    title: 'TypeScript нужен не везде'
+  - time: 00:25:06
+    title: 'Обучение через игру'
+  - time: 00:32:14
+    title: 'Недоступный Open Graph'
+  - time: 00:38:13
+    title: 'React Native в вебе'
+  - time: 00:49:05
+    title: 'Сложный фронтенд'
+
+duration: 01:05:25

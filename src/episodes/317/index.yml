@@ -1,0 +1,35 @@
+title: 'Firefox 96, State of JS, Figma, CSS Tools, CodePen, CSS-парсер на Rust, Eleventy 1.0, Metho'
+
+date: 2022-01-17T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+  - Юля Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:04
+    title: 'События'
+  - time: 00:02:35
+    title: 'Firefox 96'
+  - time: 00:12:31
+    title: 'Лисичка, не кашляй'
+  - time: 00:18:16
+    title: 'State of JS'
+  - time: 00:22:08
+    title: 'Утечка из опроса'
+  - time: 00:27:12
+    title: 'Вариативные шрифты и Figma'
+  - time: 00:35:37
+    title: 'CSS Tools'
+  - time: 00:42:40
+    title: 'Топ CodePen'
+  - time: 00:50:45
+    title: 'CSS-парсер на Rust'
+  - time: 00:57:02
+    title: 'Eleventy 1.0'
+  - time: 01:07:31
+    title: 'Metho?'
+
+duration: 01:16:38

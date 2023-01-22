@@ -1,0 +1,22 @@
+title: 'Адресная книга, Hermes, PageSpeed, DevTools, ndb, Puppeteer, PiterJS'
+
+date: 2019-08-12T09:00
+
+hosts:
+  - Вадим Макеев
+  - Вадим Горбачёв
+  - Дмитрий Пацура
+
+chapters:
+  - time: 00:10:20
+    title: 'Доступ к адресной книге в Chrome'
+  - time: 00:16:46
+    title: 'JS-движок Hermes для React Native'
+  - time: 00:29:17
+    title: 'Инструменты: PageSpeed, DevTools, ndb'
+  - time: 00:47:31
+    title: 'Зачем Puppeteer, если WebDriver'
+  - time: 00:58:37
+    title: 'PiterJS: митап и конференция'
+
+duration: 01:25:42

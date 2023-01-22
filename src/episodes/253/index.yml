@@ -1,0 +1,26 @@
+title: 'Edge на Linux, Safari TP, Chrome 87, Firefox 82, MDN, State of CSS, структура CSS, история браузеров'
+
+date: 2020-10-27T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:52
+    title: 'События'
+  - time: 00:03:40
+    title: 'Edge и Safari'
+  - time: 00:08:56
+    title: 'Бета Chrome 87'
+  - time: 00:17:10
+    title: 'Firefox 82'
+  - time: 00:29:25
+    title: 'MDN и State of CSS'
+  - time: 00:37:32
+    title: 'Структура CSS'
+  - time: 00:51:04
+    title: 'История браузеров'
+
+duration: 01:04:36

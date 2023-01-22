@@ -1,0 +1,24 @@
+title: 'Chrome Dev Insider, Safari TP, компоненты, не-радио-кнопки, переменные единицы, aspect-ratio'
+
+date: 2022-07-18T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:34
+    title: 'Chrome Dev Insider'
+  - time: 00:19:52
+    title: 'Safari TP'
+  - time: 00:27:24
+    title: 'Библиотека React-компонентов'
+  - time: 00:47:32
+    title: 'Кнопки, но не радио'
+  - time: 00:56:30
+    title: 'Переменные единицы'
+  - time: 01:10:01
+    title: 'Aspect-ratio'
+
+duration: 01:20:07

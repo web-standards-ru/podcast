@@ -1,0 +1,24 @@
+title: 'Полифил для Container Queries, Remix вместо Next.js, PWA в 2021, TypeScript в Etsy, CSS-ресеты'
+
+date: 2021-12-02T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:02:35
+    title: 'События'
+  - time: 00:05:38
+    title: 'Полифил для Container Queries'
+  - time: 00:13:44
+    title: 'Remix альтернатива Next.js'
+  - time: 00:29:04
+    title: 'Состояние PWA в 2021'
+  - time: 00:46:49
+    title: 'TypeScript в Etsy'
+  - time: 00:54:49
+    title: 'Ресеты для CSS'
+
+duration: 01:12:40

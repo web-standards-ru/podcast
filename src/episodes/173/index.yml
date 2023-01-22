@@ -1,0 +1,26 @@
+title: 'Ростов-на-Дону, Chrome 74, Node.js 12, Svelte 3, V8, навигация, PWA в Google Play'
+
+date: 2019-04-29T09:00
+
+hosts:
+  - Вадим Макеев
+  - Виктор Суздалев
+  - Денис Ильин
+
+chapters:
+  - time: 00:02:20
+    title: 'События в Ростове-на-Дону'
+  - time: 00:16:12
+    title: 'Новинки Chrome 74'
+  - time: 00:26:18
+    title: 'Node.js 12 и ES-модули'
+  - time: 00:30:29
+    title: 'Svelte 3'
+  - time: 00:37:02
+    title: 'Борьба с оптимизациями V8'
+  - time: 00:42:49
+    title: 'Пространственная навигация'
+  - time: 00:48:30
+    title: 'PWA в Google Play'
+
+duration: 00:58:23

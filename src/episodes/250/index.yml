@@ -1,0 +1,28 @@
+title: 'Edge в VS Code, инспектор гридов, gap и флексы, математика в CSS, Hacktoberfest, опенсорс'
+
+date: 2020-10-06T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Роман Дворнов
+
+chapters:
+  - time: 00:01:42
+    title: 'События'
+  - time: 00:03:15
+    title: 'Edge в VS Code'
+  - time: 00:12:42
+    title: 'Инспектор гридов в Chrome'
+  - time: 00:29:46
+    title: 'Gap и баги флексов'
+  - time: 00:37:53
+    title: 'Математика в CSS'
+  - time: 00:46:42
+    title: 'Hacktoberfest'
+  - time: 00:53:15
+    title: 'Shitoberfest'
+  - time: 01:00:51
+    title: 'Опенсорс Романа'
+
+duration: 01:08:00

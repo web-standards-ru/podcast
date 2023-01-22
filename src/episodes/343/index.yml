@@ -1,0 +1,29 @@
+title: 'Firefox, Arc, Text Fragments, JPEG XL, шрифты, jQuery, Vite/Turbopack, Remix, исход из Твитера'
+
+date: 2022-11-07T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:32
+    title: 'Firefox 106'
+  - time: 00:07:14
+    title: 'Снова Arc'
+  - time: 00:28:14
+    title: 'Text Fragments'
+  - time: 00:32:45
+    title: 'Зачем JPEG XL'
+  - time: 00:42:44
+    title: 'Веб-шрифты'
+  - time: 00:50:38
+    title: 'Цена jQuery'
+  - time: 00:54:52
+    title: 'Vite vs Turbopack'
+  - time: 01:03:26
+    title: 'Remix в Shopify'
+  - time: 01:08:49
+    title: 'Исход из Твитера'
+
+duration: 01:28:00

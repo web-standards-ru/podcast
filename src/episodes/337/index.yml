@@ -1,0 +1,26 @@
+title: 'Safari, Interop 2023, конкуренция браузеров, Node.js vs bash, HTML и SPA, грид-области, React'
+
+date: 2022-09-26T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:47
+    title: 'Safari TP'
+  - time: 00:10:39
+    title: 'Interop 2023'
+  - time: 00:29:33
+    title: 'Грязная конкуренция браузеров'
+  - time: 00:43:36
+    title: 'Node.js вместо bash'
+  - time: 00:52:02
+    title: 'HTML быстрее SPA'
+  - time: 01:06:06
+    title: 'Грид-области'
+  - time: 01:17:14
+    title: 'Сложные отношения с React'
+
+duration: 01:39:56

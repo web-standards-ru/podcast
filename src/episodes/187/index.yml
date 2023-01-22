@@ -1,0 +1,23 @@
+title: 'HTML semantics, Web Components, W3C and WHATWG, HTML5 Doctor, Prince XML, Web Monetization'
+
+date: 2019-08-07T09:00
+
+hosts:
+  - Vadim Makeev
+  - Bruce Lawson
+
+chapters:
+  - time: 00:09:36
+    title: 'HTML semantics use cases'
+  - time: 00:17:41
+    title: 'Web Components and semantics'
+  - time: 00:22:03
+    title: 'W3C and WHATWG'
+  - time: 00:28:42
+    title: 'HTML5 Doctor'
+  - time: 00:35:50
+    title: 'Accessible PDF with Prince XML'
+  - time: 00:49:22
+    title: 'Web Monetization API'
+
+duration: 00:59:59

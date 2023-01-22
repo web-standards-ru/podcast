@@ -1,0 +1,31 @@
+title: 'Новости браузеров, WebP, HTML Шорты, Normalize.css, CSS5, CSS-in-JS, ES-модули'
+
+date: 2017-05-08T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:29
+    title: 'События'
+  - time: 00:04:17
+    title: 'Бета Chrome 59'
+  - time: 00:11:12
+    title: 'Safari TP 29'
+  - time: 00:18:18
+    title: 'Samsung на десктопе'
+  - time: 00:26:28
+    title: 'WebP торт'
+  - time: 00:33:01
+    title: 'HTML Шорты'
+  - time: 00:35:26
+    title: 'Normalize.css'
+  - time: 00:39:59
+    title: 'CSS 5 уровня'
+  - time: 00:44:15
+    title: 'CSS-in-JS'
+  - time: 01:15:16
+    title: 'ES-модули'
+
+duration: 01:27:00

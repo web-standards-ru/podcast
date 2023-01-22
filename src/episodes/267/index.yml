@@ -1,0 +1,32 @@
+title: 'Новинки браузеров и DevTools, Open Web Docs, элемент popup, HTTPS, WCAG 3, null или undefined'
+
+date: 2021-02-01T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:54
+    title: 'События'
+  - time: 00:04:47
+    title: 'Firefox 85'
+  - time: 00:16:17
+    title: 'Safari TP 119'
+  - time: 00:19:55
+    title: 'Бета Chrome 89'
+  - time: 00:32:05
+    title: 'Chrome DevTools'
+  - time: 00:41:14
+    title: 'Open Web Docs'
+  - time: 00:43:58
+    title: 'Элемент popup'
+  - time: 00:47:03
+    title: 'Локальный HTTPS'
+  - time: 00:54:25
+    title: 'WCAG 3'
+  - time: 00:58:40
+    title: 'Null или undefined'
+
+duration: 01:10:12

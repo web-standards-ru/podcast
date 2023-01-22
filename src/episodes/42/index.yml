@@ -1,0 +1,26 @@
+title: 'Safari, WOFF2, доступность, Fetch, 10K Apart, мобильные, людоедский фронтенд и JS-in-JS'
+
+date: 2016-11-15T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Оконечников
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:02:38
+    title: 'События'
+  - time: 00:06:56
+    title: 'Safari TP 17'
+  - time: 00:16:41
+    title: 'Доступность'
+  - time: 00:26:31
+    title: 'Fetch не торт'
+  - time: 00:34:35
+    title: 'Результаты 10K Apart'
+  - time: 00:36:45
+    title: 'Вредные советы'
+  - time: 00:40:37
+    title: 'Людоедский фронтенд и JS-in-JS'
+
+duration: 01:17:27

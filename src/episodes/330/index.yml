@@ -1,0 +1,31 @@
+title: 'Chrome DevTools, container и :has, random в CSS, CSS в npm, доки, VS Code, телефоны, SPA и MPA'
+
+date: 2022-08-08T09:00
+
+hosts:
+  - Никита Дубко
+  - Юля Миоцен
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:46
+    title: 'Chrome DevTools'
+  - time: 00:16:12
+    title: '@container и :has'
+  - time: 00:25:17
+    title: 'Random в CSS'
+  - time: 00:33:16
+    title: 'CSS в npm'
+  - time: 00:43:02
+    title: 'Docusaurus'
+  - time: 00:49:44
+    title: 'Стики VS Code'
+  - time: 00:57:51
+    title: 'Поля для телефона'
+  - time: 01:11:45
+    title: 'Отдельные transform'
+  - time: 01:16:15
+    title: 'SPA и MPA'
+
+duration: 01:37:38

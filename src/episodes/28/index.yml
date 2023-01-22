@@ -1,0 +1,34 @@
+title: 'Браузеры, EdgeHTML, сервис-воркеры, чистый SVG, заливка текста и адаптивная вёрстка'
+
+date: 2016-08-08T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:02:02
+    title: 'Chromium 52 и Opera 39'
+  - time: 00:06:35
+    title: 'Firefox 48'
+  - time: 00:09:25
+    title: 'EdgeHTML 14'
+  - time: 00:21:44
+    title: 'Safari TP 10'
+  - time: 00:22:55
+    title: 'Будущее сервис-воркеров'
+  - time: 00:27:44
+    title: 'Чистый SVG'
+  - time: 00:37:31
+    title: 'Безопасный SVG'
+  - time: 00:40:24
+    title: 'CSS-демки'
+  - time: 00:44:49
+    title: 'Заливка текста'
+  - time: 00:48:37
+    title: 'Адаптивная вёрстка'
+
+duration: 01:04:14

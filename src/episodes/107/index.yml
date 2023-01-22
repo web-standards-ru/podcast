@@ -1,0 +1,24 @@
+title: 'CSS на JS в Chrome, HTTPS и SEO, сервис-воркеры в Safari, маркетинг CSS, собеседования'
+
+date: 2018-02-12T09:00
+
+hosts:
+  - Юрий Федоренко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:02:03
+    title: 'События'
+  - time: 00:07:16
+    title: 'CSS на JS в Chrome'
+  - time: 00:21:56
+    title: 'HTTPS и SEO'
+  - time: 00:31:39
+    title: 'Сервис-воркеры в Safari'
+  - time: 00:35:55
+    title: 'Маркетинг CSS'
+  - time: 00:43:06
+    title: 'Собеседования'
+
+duration: 01:23:52

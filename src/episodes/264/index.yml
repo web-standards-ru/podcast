@@ -1,0 +1,27 @@
+title: 'Safari, подсветка ошибок, HTML по частям, Suspense, Concurrent, Server Components и SSR в React'
+
+date: 2021-01-11T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Мария Просвирнина
+  - Дэн Абрамов
+
+chapters:
+  - time: 00:01:19
+    title: 'Safari TP 118'
+  - time: 00:11:59
+    title: 'Подсветка ошибок на CSS'
+  - time: 00:15:19
+    title: 'Загрузка HTML по частям'
+  - time: 00:23:34
+    title: 'Suspense и Concurrent'
+  - time: 00:40:07
+    title: 'Серверные компоненты'
+  - time: 01:01:43
+    title: 'React уже фреймворк?'
+  - time: 01:10:16
+    title: 'Сложный бэкенд и SSR'
+
+duration: 01:23:27

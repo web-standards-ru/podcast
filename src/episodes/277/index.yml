@@ -1,0 +1,29 @@
+title: 'SharedArrayBuffer, стилизация контролов, TypeScript, Dev Tips и индивеб, Podlodka Frontend Crew'
+
+date: 2021-04-12T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Мария Просвирнина
+  - Александр Зубов
+
+chapters:
+  - time: 00:01:32
+    title: 'События'
+  - time: 00:05:13
+    title: 'Возвращение SharedArrayBuffer'
+  - time: 00:11:16
+    title: 'Base и стилизация контролов'
+  - time: 00:17:30
+    title: 'DevTools на TypeScript'
+  - time: 00:32:22
+    title: 'Индивеб и Dev Tips'
+  - time: 00:42:30
+    title: 'Podlodka Frontend Crew'
+  - time: 00:49:55
+    title: 'Будущее и воркшопы'
+  - time: 00:55:20
+    title: 'Коммерция и сообщество'
+
+duration: 01:05:47

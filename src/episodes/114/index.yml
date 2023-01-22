@@ -1,0 +1,32 @@
+title: '20 лет Mozilla, CSS и W3C, display: contents, ES-модули, WebStorm, React, V8 и Node.js'
+
+date: 2018-04-02T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:57
+    title: 'События'
+  - time: 00:03:29
+    title: 'Safari 11.1 и 20 лет Mozilla'
+  - time: 00:21:11
+    title: 'Спеки CSS и доверие к W3C'
+  - time: 00:34:21
+    title: 'Нюансы display: contents'
+  - time: 00:36:47
+    title: 'Выравнивание текста'
+  - time: 00:42:24
+    title: 'ES-модули уже здесь'
+  - time: 00:52:52
+    title: 'Новинки WebStorm'
+  - time: 01:05:15
+    title: 'React v16.3.0'
+  - time: 01:08:42
+    title: 'V8 и веб-сокеты в Node.js'
+  - time: 01:16:28
+    title: 'Картина отрасли'
+
+duration: 01:34:21

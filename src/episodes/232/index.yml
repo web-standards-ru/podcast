@@ -1,0 +1,26 @@
+title: 'Edge DevTools, Web Vitals и AMP, 10 лет RWD, веб-платформа, JS-экосистема, вертикальный ритм'
+
+date: 2020-06-02T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Ольга Алексашенко
+
+chapters:
+  - time: 00:00:28
+    title: 'События'
+  - time: 00:02:54
+    title: 'Edge DevTools'
+  - time: 00:10:35
+    title: 'Web Vitals, SEO, AMP'
+  - time: 00:17:51
+    title: '10 лет адаптивности'
+  - time: 00:25:21
+    title: 'Улучшение веб-платформы'
+  - time: 00:40:30
+    title: 'Взгляд на JS-экосистему'
+  - time: 00:54:55
+    title: 'Вертикальный ритм'
+
+duration: 01:07:47

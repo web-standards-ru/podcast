@@ -1,0 +1,33 @@
+title: 'Firefox, Safari, Arc, баги, a11y, скругление, меню, приватность, Clipboard API, export default'
+
+date: 2022-09-12T09:00
+
+hosts:
+  - Вадим Макеев
+  - Юля Миоцен
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:08
+    title: 'Firefox Nightly'
+  - time: 00:08:06
+    title: 'Safari TP'
+  - time: 00:28:25
+    title: 'Браузер Arc'
+  - time: 00:36:23
+    title: 'Сбор SVG-багов'
+  - time: 00:41:41
+    title: 'Доступность в Доке'
+  - time: 00:50:00
+    title: 'Вложенный радиус'
+  - time: 00:57:33
+    title: 'Правильное меню'
+  - time: 01:12:53
+    title: 'Доступ к камере из HTML'
+  - time: 01:25:38
+    title: 'Clipboard API'
+  - time: 01:28:36
+    title: 'Export default'
+
+duration: 01:35:37

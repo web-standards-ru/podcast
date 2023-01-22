@@ -1,0 +1,31 @@
+title: 'Бета Chrome 92, Firefox 89, якоря и расширения, TeamCity, JS внутри WASM, TypeScript 4.3'
+
+date: 2021-06-08T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Али Рагимов
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:30
+    title: 'События'
+  - time: 00:04:15
+    title: 'Бета Chrome 92'
+  - time: 00:14:52
+    title: 'Новинки DevTools'
+  - time: 00:31:15
+    title: 'Firefox 89'
+  - time: 00:34:08
+    title: 'Якоря и расширения'
+  - time: 00:41:41
+    title: 'Настройка CI в TeamCity'
+  - time: 00:47:21
+    title: 'JS внутри WASM'
+  - time: 00:57:55
+    title: 'TypeScript 4.3'
+  - time: 01:13:48
+    title: 'Сомнения про TS'
+
+duration: 01:31:30

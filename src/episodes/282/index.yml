@@ -1,0 +1,31 @@
+title: 'Rome, CloudFront Functions, кроссбраузерность, has() и другой современный CSS, мониторинг, GDE'
+
+date: 2021-05-17T09:00
+
+hosts:
+  - Никита Дубко
+  - Александра Шинкевич
+  - Андрей Мелихов
+  - Ольга Алексашенко
+
+chapters:
+  - time: 00:01:07
+    title: 'Компания Rome'
+  - time: 00:05:38
+    title: 'CloudFront Functions'
+  - time: 00:13:31
+    title: 'Кроссбраузерность'
+  - time: 00:27:06
+    title: 'Can I has'
+  - time: 00:31:45
+    title: 'Container Queries'
+  - time: 00:39:03
+    title: 'Скроллер из будущего'
+  - time: 00:44:27
+    title: 'Кастомные свойства'
+  - time: 00:54:27
+    title: 'Мониторинг фронтенда'
+  - time: 01:05:37
+    title: 'Александра и GDE'
+
+duration: 01:20:33

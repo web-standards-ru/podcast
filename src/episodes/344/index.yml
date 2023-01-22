@@ -1,0 +1,27 @@
+title: '18 лет Firefox, Safari, Next.js и CRA, JS и SEO, Rome, px/rem, код по папкам, вёрстка баннера'
+
+date: 2022-11-14T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:39
+    title: '18 лет Firefox'
+  - time: 00:12:41
+    title: 'Safari TP 157'
+  - time: 00:19:14
+    title: 'Next.js вместо CRA'
+  - time: 00:30:13
+    title: 'JS и SEO'
+  - time: 00:39:12
+    title: 'Rome 10'
+  - time: 00:47:23
+    title: 'Пиксели или ремы'
+  - time: 00:57:44
+    title: 'Код по папкам'
+  - time: 01:06:14
+    title: 'Вёрстка баннера'
+
+duration: 01:15:49

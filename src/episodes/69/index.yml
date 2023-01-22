@@ -1,0 +1,37 @@
+title: 'Браузеры, Google I/O, Git с UI, выравнивание, Lazy Image, Mavo, формы, Perf.HTML, ES-модули'
+
+date: 2017-05-22T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:16
+    title: 'События'
+  - time: 00:03:45
+    title: 'Samsung'
+  - time: 00:12:48
+    title: 'Safari'
+  - time: 00:20:07
+    title: 'Google I/O'
+  - time: 00:21:49
+    title: 'Git в Atom'
+  - time: 00:32:31
+    title: 'GitHub Desktop'
+  - time: 00:40:32
+    title: 'Box Alignment'
+  - time: 00:46:58
+    title: 'Lazy Image'
+  - time: 00:53:07
+    title: 'Лия и Mavo'
+  - time: 00:59:33
+    title: 'ППК и формы'
+  - time: 01:07:44
+    title: 'Фронтенд заговорил'
+  - time: 01:10:09
+    title: 'Perf.HTML'
+  - time: 01:12:11
+    title: 'ES-модули'
+
+duration: 01:23:38

@@ -1,0 +1,30 @@
+title: 'Safari, Firefox, Chrome, HTML/CSS/JS-календари, инструменты, CSS-фильтры и маски, цвета в CSS'
+
+date: 2022-12-05T09:00
+
+hosts:
+  - Никита Дубко
+  - Юля Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:24
+    title: 'Safari TP 159'
+  - time: 00:12:20
+    title: 'Firefox 107'
+  - time: 00:21:34
+    title: 'Chrome 108'
+  - time: 00:34:00
+    title: 'Бета Chrome 109'
+  - time: 00:41:07
+    title: 'CSS- и JS-календари'
+  - time: 00:45:51
+    title: 'HTML-календарь'
+  - time: 00:53:35
+    title: 'Ускорение инструментов'
+  - time: 01:04:24
+    title: 'CSS-фильтры и маски'
+  - time: 01:13:56
+    title: 'Цвета в CSS'
+
+duration: 01:36:38

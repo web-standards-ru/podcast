@@ -1,0 +1,30 @@
+title: 'SVG, иконочные шрифты, Google Resizer, переводы, Sass и ES2015, Snap Size, :root, типографика'
+
+date: 2016-03-01T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:17
+    title: 'События'
+  - time: 00:03:25
+    title: 'SVG и GitHub без иконочных шрифтов'
+  - time: 00:09:52
+    title: 'Google Resizer'
+  - time: 00:10:46
+    title: 'Переводы CSS-live'
+  - time: 00:15:10
+    title: 'Sass и ES2015'
+  - time: 00:18:50
+    title: 'CSS Snap Size'
+  - time: 00:20:35
+    title: 'Селектор :root'
+  - time: 00:24:36
+    title: 'Типографика'
+  - time: 00:41:43
+    title: 'Завершение: ваши вопросы'
+
+duration: 00:43:24

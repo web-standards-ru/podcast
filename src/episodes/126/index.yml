@@ -1,0 +1,29 @@
+title: 'Web Animations API, вариативные шрифты, Keyframes.app, ARIA, placeholder, доступность'
+
+date: 2018-06-25T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:30
+    title: 'Как нас слушать'
+  - time: 00:02:59
+    title: 'События'
+  - time: 00:08:09
+    title: 'Web Animations API'
+  - time: 00:19:33
+    title: 'Вариативные шрифты'
+  - time: 00:25:54
+    title: 'Keyframes.app'
+  - time: 00:28:59
+    title: 'ARIA: Hidden или None'
+  - time: 00:37:27
+    title: 'Плохой placeholder'
+  - time: 00:44:52
+    title: 'Доступный React'
+  - time: 00:50:57
+    title: 'Спонсор'
+
+duration: 00:55:59

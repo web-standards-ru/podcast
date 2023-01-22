@@ -1,0 +1,27 @@
+title: 'React Concurrency, HTTP3, сжатие картинок, SVG-фильтры, visibility и order, тригонометрия в CSS'
+
+date: 2023-01-09T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Юля Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:16
+    title: 'React Concurrency'
+  - time: 00:18:34
+    title: 'Мифы HTTP3'
+  - time: 00:39:12
+    title: 'Сжатие картинок'
+  - time: 00:48:10
+    title: 'SVG-фильтры'
+  - time: 00:53:55
+    title: 'CSS visibility'
+  - time: 00:58:11
+    title: 'Порядок чтения'
+  - time: 01:12:27
+    title: 'Тригонометрия в CSS'
+
+duration: 01:23:25

@@ -1,0 +1,26 @@
+title: 'Dojo 2 и Edge 17, BigInt, Safari, CSS-меню и подгриды, HTTPS, плохой верстальщик'
+
+date: 2018-05-07T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:21
+    title: 'События'
+  - time: 00:08:26
+    title: 'Возвращение Dojo'
+  - time: 00:16:52
+    title: 'BigInt в JS'
+  - time: 00:23:54
+    title: 'Safari почти догнал'
+  - time: 00:35:40
+    title: 'CSS-меню и подгриды'
+  - time: 00:49:36
+    title: 'HTTPS на GitHub Pages'
+  - time: 00:59:04
+    title: 'Ошибки дизайнеров'
+
+duration: 01:10:46

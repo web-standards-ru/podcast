@@ -1,0 +1,29 @@
+title: 'Подкасты, Chrome 65, случайность, смушгейт и MooTools, Webpack и Make, CSSO, зачем PWA'
+
+date: 2018-03-12T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Артур Столяр
+
+chapters:
+  - time: 00:00:42
+    title: 'События'
+  - time: 00:03:20
+    title: 'Новые подкасты'
+  - time: 00:07:20
+    title: 'Новинки Chrome 65'
+  - time: 00:14:32
+    title: 'Надёжная случайность'
+  - time: 00:21:45
+    title: 'Смушгейт и MooTools'
+  - time: 00:28:28
+    title: 'Webpack и Make'
+  - time: 00:37:19
+    title: 'История CSSO'
+  - time: 00:42:54
+    title: 'Кому нужны PWA'
+
+duration: 01:09:20

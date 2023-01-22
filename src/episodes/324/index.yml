@@ -1,0 +1,36 @@
+title: 'Chrome, :has, MathML, Defensive CSS, карточка-ссылка, дизайн-токены, ES2022, GitHub Copilot'
+
+date: 2022-06-27T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+  - Юля Миоцен
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:38
+    title: 'Chrome 103'
+  - time: 00:09:57
+    title: 'Бета Chrome 104'
+  - time: 00:26:45
+    title: 'Зачем :has'
+  - time: 00:33:13
+    title: 'MathML в Chrome'
+  - time: 00:43:09
+    title: 'Defensive CSS'
+  - time: 00:49:54
+    title: 'Порядок фокуса'
+  - time: 01:00:55
+    title: 'Карточка-ссылка'
+  - time: 01:10:46
+    title: 'Дизайн-токены'
+  - time: 01:16:03
+    title: 'Красивое'
+  - time: 01:19:08
+    title: 'ES 2022'
+  - time: 01:28:35
+    title: 'GitHub Copilot'
+
+duration: 01:36:32

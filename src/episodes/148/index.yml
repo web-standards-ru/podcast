@@ -1,0 +1,28 @@
+title: 'Без AMP и PWA, Google Search, Чатра, хромой фулстек, HTM вместо JSX, Mortal Kombat вживую'
+
+date: 2018-11-26T09:00
+
+hosts:
+  - Вадим Макеев
+  - Артём Поликарпов
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:01:37
+    title: 'События'
+  - time: 00:08:05
+    title: 'Хорошо без AMP и PWA'
+  - time: 00:19:40
+    title: 'Основы веба'
+  - time: 00:22:24
+    title: 'Как Google Search видит'
+  - time: 00:32:12
+    title: 'Сторонние скрипты и Чатра'
+  - time: 01:05:32
+    title: 'Хромой фулстек и вакансия'
+  - time: 01:33:42
+    title: 'HTM как замена JSX'
+  - time: 01:40:33
+    title: 'Mortal Kombat вживую'
+
+duration: 01:50:00

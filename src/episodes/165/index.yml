@@ -1,0 +1,27 @@
+title: 'Chrome, React Native, CSS Nesting, KV Storage, ARIA Live Regions, веб-компоненты, ES-модули'
+
+date: 2019-03-18T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:40
+    title: 'События'
+  - time: 00:12:01
+    title: 'Chrome 73'
+  - time: 00:22:15
+    title: 'React Native 0.59'
+  - time: 00:28:33
+    title: 'CSS Nesting'
+  - time: 00:33:40
+    title: 'KV Storage'
+  - time: 00:43:42
+    title: 'ARIA Live Regions'
+  - time: 00:47:50
+    title: 'Веб-компоненты'
+  - time: 01:00:35
+    title: 'Условные ES-модули'
+
+duration: 01:14:42

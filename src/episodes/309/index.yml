@@ -1,0 +1,30 @@
+title: 'Chrome 96 и беты, Safari TP 135, Web Almanac, SVGcode, сложный фронтенд, мифы о доступности'
+
+date: 2021-11-23T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:54
+    title: 'События'
+  - time: 00:03:05
+    title: 'Новинки Chrome 96'
+  - time: 00:19:06
+    title: 'Что в бетах Chrome'
+  - time: 00:23:56
+    title: 'Safari TP 135'
+  - time: 00:29:14
+    title: 'Web Almanac'
+  - time: 00:39:23
+    title: 'SVGcode'
+  - time: 00:47:05
+    title: 'Сложный фронтенд'
+  - time: 00:58:23
+    title: 'Прогресс-бар'
+  - time: 01:01:40
+    title: 'Мифы о доступности'
+
+duration: 01:19:13

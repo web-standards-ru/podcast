@@ -1,0 +1,28 @@
+title: 'Новости Chrome, Firefox и V8, Web Vitals, GitHub Codespaces, minmax, наша ответственность'
+
+date: 2020-05-12T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:01:00
+    title: 'События'
+  - time: 00:03:58
+    title: 'Новости браузеров'
+  - time: 00:13:05
+    title: 'Web Vitals'
+  - time: 00:23:36
+    title: 'Хранилища в браузерах'
+  - time: 00:32:37
+    title: 'Logical assignment в V8'
+  - time: 00:37:51
+    title: 'Github Codespaces'
+  - time: 00:47:00
+    title: 'Непонятные min и max'
+  - time: 00:54:28
+    title: 'Наша ответственность'
+
+duration: 01:04:00

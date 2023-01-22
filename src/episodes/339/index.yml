@@ -1,0 +1,32 @@
+title: 'Safari, State of CSS, Intl, Axios, эмоджи, CSS Nesting, JS в C++, PWA, тесты, 10 лет TypeScript'
+
+date: 2022-10-10T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:08
+    title: 'Safari TP'
+  - time: 00:06:44
+    title: 'State of CSS'
+  - time: 00:11:50
+    title: 'Intl API'
+  - time: 00:16:34
+    title: 'Axios 1.0'
+  - time: 00:22:10
+    title: 'Пикер эмоджи'
+  - time: 00:27:59
+    title: 'CSS Nesting'
+  - time: 00:43:41
+    title: 'JS в C++'
+  - time: 00:53:30
+    title: 'PWA-плеер'
+  - time: 01:11:10
+    title: 'Быстрые тесты'
+  - time: 01:24:16
+    title: '10 лет TypeScript'
+
+duration: 01:30:16

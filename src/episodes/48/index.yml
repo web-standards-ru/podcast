@@ -1,0 +1,31 @@
+title: 'Браузеры, Firebug и Photoshop, Bootstrap, GitHub Pages, шрифты, полифилы и специфичность CSS'
+
+date: 2016-12-26T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:01:39
+    title: 'Safari TP20'
+  - time: 00:06:07
+    title: 'Samsung Internet'
+  - time: 00:10:14
+    title: 'Firebug и… Photoshop'
+  - time: 00:22:00
+    title: 'Bootstrap и флексы'
+  - time: 00:29:21
+    title: 'GitHub Pages'
+  - time: 00:31:59
+    title: 'CSS 2017'
+  - time: 00:39:06
+    title: 'Вставка шрифтов'
+  - time: 00:45:35
+    title: 'Полифилы CSS'
+  - time: 00:52:44
+    title: 'Специфичность CSS'
+
+duration: 00:59:34

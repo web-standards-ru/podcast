@@ -1,0 +1,31 @@
+title: 'MathML, ленивые картинки, CSS-модули, БЭМ или CSS-in-JS, приватность, CSS-Minsk-JS'
+
+date: 2019-08-19T09:00
+
+hosts:
+  - Мария Просвирнина
+  - Павел Ловцевич
+  - Анна Селезнёва
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:27
+    title: 'События'
+  - time: 00:06:12
+    title: 'MathML в Chrome (и дальше)'
+  - time: 00:10:41
+    title: 'Ленивые картинки в Chrome'
+  - time: 00:21:36
+    title: 'Поворот картинки в CSS'
+  - time: 00:24:31
+    title: 'Нативные CSS-модули'
+  - time: 00:27:47
+    title: 'БЭМ или CSS-in-JS'
+  - time: 00:40:59
+    title: 'Зачем нужны основы'
+  - time: 00:45:11
+    title: 'Манифест приватности'
+  - time: 00:53:43
+    title: 'CSS-Minsk-JS'
+
+duration: 01:09:09

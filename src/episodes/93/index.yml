@@ -1,0 +1,24 @@
+title: 'WSD, YGLF, ReactiveConf, графика и цвет, фокус и курсоры, React и Kotlin, украинский фронтенд'
+
+date: 2017-11-07T09:00
+
+hosts:
+  - Юрий Артюх
+  - Юрий Ткаченко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:03:23
+    title: 'События'
+  - time: 00:25:19
+    title: 'Проблемная ReactiveConf'
+  - time: 00:44:52
+    title: 'Графика и цвет'
+  - time: 00:56:43
+    title: 'Фокус и курсоры'
+  - time: 01:09:59
+    title: 'React и Kotlin'
+  - time: 01:24:54
+    title: 'Украинский фронтенд'
+
+duration: 01:39:33

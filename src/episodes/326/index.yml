@@ -1,0 +1,29 @@
+title: 'Дизайн-токены, Bun.sh, ES-модули в Node.js, Figma, MDN, Style Queries, вариативные шрифты'
+
+date: 2022-07-11T09:00
+
+hosts:
+  - Юля Миоцен
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:48
+    title: 'Дизайн-токены'
+  - time: 00:05:21
+    title: 'Bun.sh вместо Node.js'
+  - time: 00:22:02
+    title: 'ES-модули в Node.js'
+  - time: 00:33:48
+    title: 'Виджеты для Figma'
+  - time: 00:40:31
+    title: 'OpenProps'
+  - time: 00:45:33
+    title: 'Стиль кода MDN'
+  - time: 00:59:17
+    title: 'Style Queries'
+  - time: 01:09:38
+    title: 'Вариативные шрифты'
+
+duration: 01:26:50

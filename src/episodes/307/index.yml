@@ -1,0 +1,31 @@
+title: 'Firefox 94, Chrome Dev Summit, Web.Dev, Next.js, Yarn, TypeScript, вёрстка чата, взлом пакета'
+
+date: 2021-11-08T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Сергей Бережной
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:02:58
+    title: 'События'
+  - time: 00:10:36
+    title: 'Firefox 94'
+  - time: 00:19:22
+    title: 'Chrome Dev Summit'
+  - time: 00:27:32
+    title: 'Learn на Web.Dev'
+  - time: 00:29:29
+    title: 'Next.js 12'
+  - time: 00:33:06
+    title: 'Yarn 3.1'
+  - time: 00:35:12
+    title: 'TypeScript 4.5 RC'
+  - time: 00:36:57
+    title: 'Вёрстка чата'
+  - time: 00:45:23
+    title: 'Взлом пакета'
+
+duration: 01:03:20

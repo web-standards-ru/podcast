@@ -1,0 +1,33 @@
+title: 'Браузеры, CSS-свойства, Pointer Events, гриды, SVG, PWA, Bootstrap, скобки, a11y, начинающим'
+
+date: 2016-09-26T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:18
+    title: 'События'
+  - time: 00:06:01
+    title: 'Firefox 49'
+  - time: 00:08:09
+    title: 'Chromium 53'
+  - time: 00:14:17
+    title: 'Pointer Events'
+  - time: 00:23:09
+    title: 'Гриды'
+  - time: 00:28:48
+    title: 'SVG'
+  - time: 00:31:07
+    title: 'Google про PWA'
+  - time: 00:31:58
+    title: 'Что мешает Bootstrap'
+  - time: 00:33:39
+    title: 'Оптимизация скобками'
+  - time: 00:37:42
+    title: 'Как доступно прятать'
+  - time: 00:41:17
+    title: 'Советы начинающим'
+
+duration: 00:46:07

@@ -1,0 +1,24 @@
+title: 'Chrome 78 и iOS 13, сгибание на React, вариативные Google Fonts, прокси и jQuery'
+
+date: 2019-09-30T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:01:23
+    title: 'События'
+  - time: 00:07:02
+    title: 'Бета Chrome 78 и iOS 13'
+  - time: 00:22:40
+    title: 'Сгибание на React'
+  - time: 00:30:45
+    title: 'Экономная оптимизация'
+  - time: 00:37:34
+    title: 'Вариативные Google Fonts'
+  - time: 00:40:21
+    title: 'Прокси и jQuery'
+
+duration: 00:54:00

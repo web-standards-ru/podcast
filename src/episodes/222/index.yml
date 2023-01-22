@@ -1,0 +1,28 @@
+title: 'GitHub и npm, iPad с курсором, URL, липкие таблицы, User-Agent, вёрстка писем, закрывайте теги!'
+
+date: 2020-03-24T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Ольга Алексашенко
+
+chapters:
+  - time: 00:00:40
+    title: 'События'
+  - time: 00:04:09
+    title: 'GitHub и npm'
+  - time: 00:18:07
+    title: 'iPad с курсором'
+  - time: 00:23:38
+    title: 'История URL'
+  - time: 00:32:54
+    title: 'Липкие таблицы'
+  - time: 00:40:40
+    title: 'Жизнь без User-Agent'
+  - time: 00:50:30
+    title: 'Вёрстка писем'
+  - time: 00:56:22
+    title: 'Закрывайте теги!'
+
+duration: 01:09:33

@@ -1,0 +1,28 @@
+title: 'Веб-альманах 2020, Safari TP, PWA, EStimate, загрузка по заявке, Houdini, Squoosh 2 и CLI'
+
+date: 2020-12-15T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Максим Сальников
+
+chapters:
+  - time: 00:02:32
+    title: 'События'
+  - time: 00:09:07
+    title: 'Веб-альманах 2020'
+  - time: 00:20:09
+    title: 'Safari TP и списки'
+  - time: 00:28:23
+    title: 'Новинки PWA'
+  - time: 00:42:42
+    title: 'EStimate лишний JS'
+  - time: 00:53:23
+    title: 'Загрузка по заявке'
+  - time: 01:01:41
+    title: 'Демки для Houdini'
+  - time: 01:11:24
+    title: 'Squoosh 2 и CLI'
+
+duration: 01:19:18

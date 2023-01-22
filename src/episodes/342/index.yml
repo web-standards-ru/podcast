@@ -1,0 +1,30 @@
+title: 'Safari, Chrome 107/108, Next.js 13, ESLint, мэш-градиенты, блендинг, опрос про дизайн, YouTube'
+
+date: 2022-10-31T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+  - Юля Миоцен
+
+chapters:
+  - time: 00:01:24
+    title: 'Safari 16.1'
+  - time: 00:22:01
+    title: 'Chrome 107'
+  - time: 00:30:29
+    title: 'Бета Chrome 108'
+  - time: 00:39:51
+    title: 'Что не так с Next.js 13'
+  - time: 00:55:05
+    title: 'Новый конфиг ESLint'
+  - time: 01:03:52
+    title: 'Мэш-градиенты'
+  - time: 01:10:26
+    title: 'Как работает блендинг'
+  - time: 01:18:45
+    title: 'Опрос про дизайн'
+  - time: 01:23:35
+    title: 'YouTube стал быстрее'
+
+duration: 01:34:00

@@ -1,0 +1,26 @@
+title: 'Node.js и npm, Google Fonts, гриды, ФП или ООП, Habr, самый плохой SPA в интернете'
+
+date: 2018-04-30T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:14
+    title: 'События'
+  - time: 00:11:44
+    title: 'Node.js 10 и npm 6'
+  - time: 00:27:34
+    title: 'Google Fonts и HTTPS'
+  - time: 00:39:17
+    title: 'Фолбэки для гридов'
+  - time: 00:42:31
+    title: 'ФП или ООП'
+  - time: 00:53:12
+    title: 'Хабр по-английски'
+  - time: 00:57:46
+    title: 'Заголовки для SPA'
+
+duration: 01:07:46

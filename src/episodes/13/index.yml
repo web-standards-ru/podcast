@@ -1,0 +1,28 @@
+title: 'SpiderNode, VPN, методологии CSS, Stylelint и CSSX, параллакс, доступность'
+
+date: 2016-04-25T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:13
+    title: 'События'
+  - time: 00:01:57
+    title: 'Браузерные новости'
+  - time: 00:14:18
+    title: 'Методологии CSS'
+  - time: 00:21:15
+    title: 'Stylelint и CSSX'
+  - time: 00:36:41
+    title: 'Параллакс'
+  - time: 00:43:05
+    title: 'Booking сделал PWA'
+  - time: 00:44:02
+    title: 'Доступное содержимое'
+  - time: 00:55:13
+    title: 'Что слушаете?'
+
+duration: 00:59:06

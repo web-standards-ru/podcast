@@ -1,0 +1,27 @@
+title: 'WDA, Firefox 91, GitHub Codespaces, HTTP/3, алертгейт, чем мешал IE11, что пошёл к бабуле'
+
+date: 2021-08-16T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Виталий Харисов
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:41
+    title: 'События'
+  - time: 00:05:19
+    title: 'Firefox 91'
+  - time: 00:13:27
+    title: 'GitHub Codespaces'
+  - time: 00:27:22
+    title: 'Уже HTTP/3'
+  - time: 00:42:39
+    title: 'Алертгейт'
+  - time: 00:54:13
+    title: 'IE пошёл к бабуле'
+  - time: 01:06:26
+    title: 'Чем мешает IE11'
+
+duration: 01:19:11

@@ -1,0 +1,28 @@
+title: 'Safari, Firefox 86, SVG на GPU, куки в браузерах, WebP, AVIF и JPEG XL, офер в Яндекс за день'
+
+date: 2021-03-01T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Михаил Трошев
+
+chapters:
+  - time: 00:01:41
+    title: 'Свежий Safari TP'
+  - time: 00:04:32
+    title: 'Firefox 86'
+  - time: 00:08:31
+    title: 'Быстрый SVG на GPU'
+  - time: 00:12:18
+    title: 'Куки в Firefox и Яндекс.Браузере'
+  - time: 00:22:58
+    title: 'WebP, AVIF и JPEG XL'
+  - time: 00:32:30
+    title: 'Офер в Яндекс за день'
+  - time: 00:42:49
+    title: 'Буткемп и ШРИ'
+  - time: 00:51:37
+    title: 'Зачем нужен ODO'
+
+duration: 01:00:00

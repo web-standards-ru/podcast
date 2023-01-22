@@ -1,0 +1,25 @@
+title: 'Safari, TypeScript, разработчики в W3C, Redux не нужен, ES всё ломает, новые стрелки в JS'
+
+date: 2018-10-01T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:00:23
+    title: 'События'
+  - time: 00:05:06
+    title: 'Пара новинок Safari'
+  - time: 00:06:49
+    title: 'Семантика и TypeScript'
+  - time: 00:12:13
+    title: 'Разработчики в W3C'
+  - time: 00:21:52
+    title: 'Redux не нужен'
+  - time: 00:27:54
+    title: 'Новый ES всё сломал'
+  - time: 00:37:02
+    title: 'Новые стрелки в JS'
+
+duration: 00:40:13

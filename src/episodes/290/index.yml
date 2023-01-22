@@ -1,0 +1,29 @@
+title: 'Safari и WPT, PWA на десктопе, Petite Vue, Канон ВК, npm audit, цвета, марсианские шрифты'
+
+date: 2021-07-13T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Роман Шамин
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:03:33
+    title: 'Safari и WPT'
+  - time: 00:11:03
+    title: 'PWA на десктопе'
+  - time: 00:19:44
+    title: 'Petite Vue'
+  - time: 00:32:17
+    title: 'Канон ВК'
+  - time: 00:46:26
+    title: 'Npm audit сломан'
+  - time: 00:57:01
+    title: 'Цветовые пространства'
+  - time: 01:09:37
+    title: 'Марсианский гротеск'
+  - time: 01:16:18
+    title: 'Шрифт для кода'
+
+duration: 01:25:18

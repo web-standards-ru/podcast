@@ -1,0 +1,29 @@
+title: 'Topics API, новинки Figma и дизайна, бедный WebKit, сложности WebAssembly, TS на Go, пайпы в JS'
+
+date: 2022-01-31T09:00
+
+hosts:
+  - Юля Миоцен
+  - Никита Дубко
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:09
+    title: 'События'
+  - time: 00:04:14
+    title: 'Topics API'
+  - time: 00:17:23
+    title: 'Новинки Figma'
+  - time: 00:21:49
+    title: 'Дизайн руками'
+  - time: 00:31:01
+    title: 'Бедный WebKit'
+  - time: 00:45:30
+    title: 'Сложности WebAssembly'
+  - time: 00:51:52
+    title: 'TS на Go'
+  - time: 01:01:50
+    title: 'Пайпы в JS'
+
+duration: 01:11:32

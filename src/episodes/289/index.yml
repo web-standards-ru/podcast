@@ -1,0 +1,29 @@
+title: 'Формат номеров, Safari, theme-color и accent-color, Temporal, a11y, переезд на Material UI'
+
+date: 2021-07-05T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Ольга Алексашенко
+
+chapters:
+  - time: 00:00:56
+    title: 'События'
+  - time: 00:02:12
+    title: 'Формат номеров'
+  - time: 00:08:54
+    title: 'Safari TP 127'
+  - time: 00:15:01
+    title: 'Theme-color'
+  - time: 00:24:56
+    title: 'Accent-color'
+  - time: 00:33:56
+    title: 'Temporal API'
+  - time: 00:42:47
+    title: 'A11y для дизайнеров'
+  - time: 00:55:25
+    title: 'Переезд на Material UI'
+
+duration: 01:08:35

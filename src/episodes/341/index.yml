@@ -1,0 +1,28 @@
+title: 'Дока про a11y, Safari TP, Interop, DOM timers, CSS Speech, TypeRunner, CSS Toggles, CSS-in-JS'
+
+date: 2022-10-24T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:24
+    title: 'Дока про доступность'
+  - time: 00:03:25
+    title: 'Safari TP 156'
+  - time: 00:17:52
+    title: 'Interop 2022'
+  - time: 00:29:20
+    title: 'DOM timers'
+  - time: 00:36:51
+    title: 'CSS Speech'
+  - time: 00:55:31
+    title: 'TypeRunner'
+  - time: 01:06:06
+    title: 'CSS Toggles'
+  - time: 01:20:43
+    title: 'Плохой CSS-in-JS'
+
+duration: 01:34:40

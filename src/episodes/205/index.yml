@@ -1,0 +1,25 @@
+title: 'Safari TP, сервис-воркеры, Node.js ESM, Async и Promise, Optional Chaining, кастомные свойства'
+
+date: 2019-11-25T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+
+chapters:
+  - time: 00:00:24
+    title: 'События'
+  - time: 00:05:51
+    title: 'Исправление в Safari TP'
+  - time: 00:11:37
+    title: 'Будущее сервис-воркеров'
+  - time: 00:29:22
+    title: 'Node.js с ES-модулями'
+  - time: 00:32:02
+    title: 'Async === Promise'
+  - time: 00:33:44
+    title: 'Optional Chaining'
+  - time: 00:41:05
+    title: 'Кастомные CSS-свойства'
+
+duration: 00:48:46

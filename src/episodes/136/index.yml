@@ -1,0 +1,24 @@
+title: 'Chrome не такой дерзкий, Firefox против трекеров, опенсорс, OpenType, React DOM'
+
+date: 2018-09-03T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:39
+    title: 'События'
+  - time: 00:11:32
+    title: 'Chrome не такой дерзкий'
+  - time: 00:24:03
+    title: 'Firefox против трекеров'
+  - time: 00:42:12
+    title: 'Опенсорс и политика'
+  - time: 01:04:47
+    title: 'OpenType и полезный каскад'
+  - time: 01:19:41
+    title: 'Развитие React DOM'
+
+duration: 01:30:33

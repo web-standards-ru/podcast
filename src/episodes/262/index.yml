@@ -1,0 +1,24 @@
+title: 'JS-андерхуд, фокус, фавиконки, JS-фреймворки, React Server Components, Basecamp Hotwire'
+
+date: 2020-12-28T09:00
+
+hosts:
+  - Мария Просвирнина
+  - Вадим Макеев
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:03:24
+    title: 'JS-андерхуд'
+  - time: 00:07:28
+    title: 'Фокус в веб-приложениях'
+  - time: 00:13:07
+    title: 'Фавиконки в 2021'
+  - time: 00:16:58
+    title: 'История JS-фреймворков'
+  - time: 00:19:47
+    title: 'React Server Components'
+  - time: 00:38:47
+    title: 'Basecamp Hotwire'
+
+duration: 00:59:00

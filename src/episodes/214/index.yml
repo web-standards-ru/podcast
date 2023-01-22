@@ -1,0 +1,29 @@
+title: 'Подкасты, Safari, браузер Flow, эра IE, CSSWG, Yarn или npm, Playwright, JetBrains Mono'
+
+date: 2020-01-28T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:46
+    title: Подкасты
+  - time: 00:07:24
+    title: События
+  - time: 00:10:44
+    title: Новинки Safari TP
+  - time: 00:16:05
+    title: Новый браузер Flow
+  - time: 00:19:26
+    title: Уходит эра IE
+  - time: 00:28:56
+    title: Новости от CSSWG
+  - time: 00:43:39
+    title: Зачем Yarn, если npm
+  - time: 00:55:07
+    title: Playwright вместо Puppeteer
+  - time: 01:05:02
+    title: Шрифт JetBrains Mono
+
+duration: 01:15:56

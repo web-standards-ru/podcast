@@ -1,0 +1,27 @@
+title: 'Chrome, Firefox и Safari, aspect ratio, гриды, Яндекс.Касса и Whitepaper, рисование на CSS'
+
+date: 2019-03-26T09:00
+
+hosts:
+  - Вадим Макеев
+  - Юля Музафарова
+
+chapters:
+  - time: 00:02:12
+    title: 'События'
+  - time: 00:09:49
+    title: 'Chrome 74 без мельтешения'
+  - time: 00:15:21
+    title: 'Firefox 66 и редактор фигур'
+  - time: 00:25:09
+    title: 'Safari и подчёркивание'
+  - time: 00:29:31
+    title: 'Мечты про aspect ratio'
+  - time: 00:34:23
+    title: 'Гриды в продакшене'
+  - time: 00:37:28
+    title: 'Яндекс.Касса и Whitepaper'
+  - time: 00:48:40
+    title: 'Рисование на CSS'
+
+duration: 01:10:10

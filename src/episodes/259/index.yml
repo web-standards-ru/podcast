@@ -1,0 +1,35 @@
+title: 'Chrome 88, State of CSS и JS, шрифты для кодинга, Monument Valley, вёрстка 2008, сторис, пуньк'
+
+date: 2020-12-08T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:48
+    title: 'События'
+  - time: 00:02:20
+    title: 'Бета Chrome 88'
+  - time: 00:10:03
+    title: 'State of CSS: разнообразие'
+  - time: 00:14:41
+    title: 'State of CSS: инструменты'
+  - time: 00:17:49
+    title: 'State of CSS: фреймворки'
+  - time: 00:25:08
+    title: 'State of CSS: открытия'
+  - time: 00:30:29
+    title: 'State of JS'
+  - time: 00:34:01
+    title: 'Шрифты для кодинга'
+  - time: 00:36:29
+    title: 'Monument Valley на CSS'
+  - time: 00:40:02
+    title: 'Верстать как в 2008'
+  - time: 00:47:49
+    title: 'Как сверстать сторис'
+  - time: 00:52:48
+    title: 'Пуньк и 27 Кб'
+
+duration: 00:57:11

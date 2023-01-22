@@ -1,0 +1,28 @@
+title: 'Возвращение и смысл, MQ и CQ, V8, бета Safari 16, Telegram и веб, мир без паролей, IE снова всё'
+
+date: 2022-06-21T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Вадим Макеев
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:05:00
+    title: 'Понятные Media Queries'
+  - time: 00:10:17
+    title: 'Релиз-ноуты V8 всё'
+  - time: 00:14:37
+    title: 'Бета Safari 16'
+  - time: 00:26:29
+    title: 'Container Queries'
+  - time: 00:36:18
+    title: 'Telegram защитник веба'
+  - time: 00:46:53
+    title: 'Мир без паролей'
+  - time: 00:58:08
+    title: 'Что попросить у Safari'
+  - time: 01:03:27
+    title: 'IE снова всё'
+
+duration: 01:11:44

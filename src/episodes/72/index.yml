@@ -1,0 +1,32 @@
+title: 'Только для Chrome, Safari, Chrome и Edge, гриды, Шорты, стример Юра, Stylelint и Node.js'
+
+date: 2017-06-12T09:00
+
+hosts:
+  - Ольга Алексашенко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:14
+    title: 'События'
+  - time: 00:05:23
+    title: 'DirecTV'
+  - time: 00:11:16
+    title: 'Safari'
+  - time: 00:23:35
+    title: 'Chrome'
+  - time: 00:29:48
+    title: 'Edge'
+  - time: 00:35:14
+    title: 'Гриды'
+  - time: 00:39:32
+    title: 'Шорты'
+  - time: 00:43:55
+    title: 'Стример Юра'
+  - time: 00:46:45
+    title: 'Stylelint'
+  - time: 01:02:03
+    title: 'Node.js'
+
+duration: 01:05:28

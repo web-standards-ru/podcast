@@ -1,0 +1,23 @@
+title: 'Онлайн-доклады, новинки DevTools, новости Safari 14, Date и Temporal, TypeScript 4 и зачем TS'
+
+date: 2020-06-30T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:24
+    title: 'События и онлайн-доклады'
+  - time: 00:11:15
+    title: 'DevTools в Chrome и Edge'
+  - time: 00:23:04
+    title: 'Большие новости Safari 14'
+  - time: 00:42:00
+    title: 'Date и Temporal'
+  - time: 00:48:58
+    title: 'TypeScript 4'
+  - time: 00:54:28
+    title: 'Зачем TypeScript'
+
+duration: 01:08:39

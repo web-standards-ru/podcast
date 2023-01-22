@@ -1,0 +1,30 @@
+title: 'State of CSS, CSS Nesting, Firefox 103, npm, манифест, SVG, Node.js, CSS-селекторы, куки'
+
+date: 2022-08-01T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:52
+    title: 'State of CSS'
+  - time: 00:11:50
+    title: 'CSS Nesting'
+  - time: 00:28:07
+    title: 'Firefox 103'
+  - time: 00:37:46
+    title: 'Безопасность npm'
+  - time: 00:48:41
+    title: 'Адаптивный манифест'
+  - time: 01:00:38
+    title: 'SVG не только картинка'
+  - time: 01:08:23
+    title: 'Лоадеры в Node.js'
+  - time: 01:15:59
+    title: 'CSS-селекторы будущего'
+  - time: 01:23:27
+    title: 'Сторонние куки'
+
+duration: 01:37:45

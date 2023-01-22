@@ -1,0 +1,27 @@
+title: 'Google I/O и MS Build, подкасты про веб-разработку, новости с Google I/O и Microsoft Build'
+
+date: 2019-05-20T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:55
+    title: 'Мета-мета'
+  - time: 00:05:44
+    title: 'События'
+  - time: 00:16:05
+    title: 'Вечнозелёный Гугл-бот'
+  - time: 00:26:47
+    title: 'Font-display в Google Fonts'
+  - time: 00:32:33
+    title: 'Перфоманс и порталы'
+  - time: 00:42:02
+    title: 'Более нативный веб'
+  - time: 00:49:13
+    title: 'Тестирование и Puppeteer'
+  - time: 00:57:07
+    title: 'IE в Edge и реестр GitHub'
+
+duration: 01:14:38

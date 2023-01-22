@@ -1,0 +1,31 @@
+title: 'Firefox, таблицы, шум на CSS, State of JS, npm, IWA, флексы, доступность, два волка и инпут'
+
+date: 2022-11-28T09:00
+
+hosts:
+  - Никита Дубко
+  - Юля Миоцен
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:24
+    title: 'Firefox Nightly'
+  - time: 00:09:16
+    title: 'Смешные таблицы'
+  - time: 00:17:38
+    title: 'Шум на CSS'
+  - time: 00:28:17
+    title: 'State of JS'
+  - time: 00:34:57
+    title: 'Npm-пакеты'
+  - time: 00:40:28
+    title: 'Isolated Web Apps'
+  - time: 00:56:49
+    title: 'Картинки, флексы и CSS'
+  - time: 01:07:03
+    title: 'Доступность с клавиатуры'
+  - time: 01:16:10
+    title: 'Два волка и инпут'
+
+duration: 01:31:23

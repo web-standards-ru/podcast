@@ -1,0 +1,23 @@
+title: 'Зачем Edge, Safari, Chrome 62, кому нужен CoffeeScript 2, идеи для DevTools'
+
+date: 2017-09-25T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:08
+    title: 'События'
+  - time: 00:11:21
+    title: 'Зачем вообще Edge'
+  - time: 00:24:19
+    title: 'Новинки Safari'
+  - time: 00:43:09
+    title: 'Бета Chrome 62'
+  - time: 00:54:11
+    title: 'Кому нужен CoffeeScript 2'
+  - time: 01:06:59
+    title: 'Идеи для DevTools'
+
+duration: 01:24:00
