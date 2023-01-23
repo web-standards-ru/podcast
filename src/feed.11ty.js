@@ -11,13 +11,13 @@ const getEpisodes = async (data) => {
 				<title>${ episode.data.title }</title>
 				<link>${ data.meta.url }${ episode.fileSlug }/</link>
 				<pubDate>${ episode.date.toUTCString() }</pubDate>
-				<description><![CDATA[<p>${
+				<description><![CDATA[<h2>Ведущие</h2><p>${
 					episode.data.hosts
 						.map(host => host)
 						.join(', ')
 				}</p>${
 					episode.data.chapters ?
-						`<ul>${
+						`<h2>Темы</h2><ul>${
 							episode.data.chapters
 								.map(chapter => `<li>${ chapter.time } ${ chapter.title }</li>`)
 								.join('')
