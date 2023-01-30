@@ -1,0 +1,24 @@
+title: Safari 16.3 и TP, Firefox и новые цвета, буквица, Core Web Vitals, SVG, нормальный CSS-in-JS
+
+date: 2023-01-30T09:00
+
+hosts:
+  - Вадим Макеев
+  - Мария Просвирнина
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:24
+    title: 'Safari 16.3 и TP 162'
+  - time: 00:24:14
+    title: 'Firefox и новые цвета'
+  - time: 00:37:48
+    title: 'Подробности про буквицу'
+  - time: 00:42:27
+    title: 'Core Web Vitals 2023'
+  - time: 01:02:10
+    title: 'Справочник по SVG'
+  - time: 01:07:42
+    title: 'Нормальный CSS-in-JS'
+
+duration: 01:21:35
