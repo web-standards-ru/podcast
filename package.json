@@ -13,8 +13,8 @@
 		"npm": ">=8"
 	},
 	"devDependencies": {
-		"@11ty/eleventy": "^2.0.0-beta.1",
-		"editorconfig-checker": "4.0.0",
+		"@11ty/eleventy": "^2.0.0-beta.3",
+		"editorconfig-checker": "^5.0.1",
 		"html-minifier-terser": "^7.1.0",
 		"js-yaml": "^4.1.0",
 		"minify-xml": "^3.4.0"
