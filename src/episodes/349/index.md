@@ -1,7 +1,7 @@
 ## Safari 16.2
 
 - [WebKit Features in Safari 16.2](https://webkit.org/blog/13591/webkit-features-in-safari-16-2/)
-- [https://codepen.io/pepelsbey/pen/LYBPeQz](https://codepen.io/pepelsbey/pen/LYBPeQz)
+- [First/Last Baseline](https://codepen.io/pepelsbey/pen/LYBPeQz)
 
 ## Safari TP
 
