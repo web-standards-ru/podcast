@@ -1,0 +1,32 @@
+title: Новинки Chrome, релизы и новости Safari, Interop 2023, Stylelint 15, Eleventy 2, Deno и SSR
+
+date: 2023-02-13T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:39
+    title: 'Chrome 110'
+  - time: 00:09:03
+    title: 'Chrome Beta 111'
+  - time: 00:22:33
+    title: 'Safari TP'
+  - time: 00:30:31
+    title: 'Новости Safari'
+  - time: 00:41:59
+    title: 'Ленивый CSS в Safari'
+  - time: 00:49:45
+    title: 'Interop 2023'
+  - time: 01:02:42
+    title: 'Stylelint 15'
+  - time: 01:07:17
+    title: 'Eleventy 2'
+  - time: 01:14:14
+    title: 'Deno и SSR'
+  - time: 01:28:15
+    title: 'Ответы на вопросы'
+
+duration: 01:34:37
