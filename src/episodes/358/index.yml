@@ -1,0 +1,32 @@
+title: Safari, PWA, Chrome Headless, генераторы статики, без сборки, TS Reset, Codux, Vercel Cache API
+
+date: 2023-02-27T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:16
+    title: 'Safari TP'
+  - time: 00:07:47
+    title: 'Apple про PWA'
+  - time: 00:17:46
+    title: 'Chrome Headless'
+  - time: 00:25:50
+    title: 'Статьи и курсы'
+  - time: 00:38:43
+    title: 'Генераторы статики'
+  - time: 00:49:39
+    title: 'Фронтенд без сборки'
+  - time: 00:59:10
+    title: 'TypeScript Reset'
+  - time: 01:05:26
+    title: 'WYSIWYG для React'
+  - time: 01:16:59
+    title: 'Vercel Cache API'
+  - time: 01:27:26
+    title: 'Ответы на вопросы'
+
+duration: 01:39:34
