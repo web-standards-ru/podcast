@@ -1,0 +1,77 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671 355">
+    <defs>
+        <style>
+            .back {
+                fill: #fff;
+            }
+
+            .line {
+                stroke: #000;
+            }
+
+            .text {
+                fill: #000;
+                font-family: sans-serif;
+                font-size: 12px;
+            }
+
+            .name {
+                text-anchor: end;
+            }
+
+            .year {
+                text-anchor: start;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                .back {
+                    fill: #222;
+                }
+
+                .line {
+                    stroke: #fff;
+                }
+
+                .text {
+                    fill: #fff;
+                }
+            }
+        </style>
+    </defs>
+
+    <rect class="back" x="0" y="0" width="671" height="355"/>
+
+    <g class="line">
+        <path stroke-opacity="0.1" d="M151.5 0v355m60-355v355m60-355v355m60-355v355m60-355v355m60-355v355m60-355v355m60-355v355"/>
+        <path stroke-opacity="0.2" stroke-dasharray="2 2" d="M151 165.5h520m-520-41h520m-520 80h520m-520 40h520m-520 40h520"/>
+    </g>
+
+    <path fill="#FFC5D5" d="M151 35h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h100v20H571z"/>
+    <path fill="#FFCAB2" d="M151 75h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h100v20H571z"/>
+    <path fill="#F1D589" d="M151 115h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h45v20h-45z"/>
+    <path fill="#BBE7A4" d="M276 155h55v20h-55zm55 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h10v20h-10z"/>
+    <path fill="#88EDDA" d="M391 195h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h100v20H571z"/>
+    <path fill="#9DE3FF" d="M451 235h60v20h-60zm60 0h60v20h-60zm60 0h100v20H571z"/>
+    <path fill="#EDC7FF" d="M511 275h60v20h-60zm60 0h100v20H571z"/>
+
+    <g class="text name">
+        <text x="140" y="50">Вадим Макеев</text>
+        <text x="140" y="89">Алексей Симоненко</text>
+        <text x="140" y="132">Ольга Алексашенко</text>
+        <text x="140" y="169">Мария Просвирнина</text>
+        <text x="140" y="209">Никита Дубко</text>
+        <text x="140" y="249">Андрей Мелихов</text>
+        <text x="140" y="289">Юля Миоцен</text>
+    </g>
+
+    <g class="text year">
+        <text x="162" y="317">2016</text>
+        <text x="222" y="317">2017</text>
+        <text x="282" y="317">2018</text>
+        <text x="342" y="317">2019</text>
+        <text x="402" y="317">2020</text>
+        <text x="462" y="317">2021</text>
+        <text x="522" y="317">2022</text>
+        <text x="582" y="317">2023</text>
+    </g>
+</svg>
