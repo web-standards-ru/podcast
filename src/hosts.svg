@@ -1,77 +1,194 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671 355">
-    <defs>
-        <style>
-            .back {
-                fill: #fff;
-            }
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 576">
+	<defs>
+		<style>
+			:root {
+				--color-red: #ffc5d5;
+				--color-orange: #ffcab2;
+				--color-yellow: #f1d589;
+				--color-green: #bbe7a4;
+				--color-cyan: #88edda;
+				--color-blue: #9de3ff;
+				--color-violet: #edc7ff;
 
-            .line {
-                stroke: #000;
-            }
+				--line-color: #000;
+				--back-color: #fff;
+				--text-color: #333;
 
-            .text {
-                fill: #000;
-                font-family: sans-serif;
-                font-size: 12px;
-            }
+				fill: var(--text-color);
+				background-color: var(--back-color);
+				font-family: 'Inter', sans-serif;
+				font-size: 18px;
+			}
 
-            .name {
-                text-anchor: end;
-            }
+			@media (prefers-color-scheme: dark) {
+				:root {
+					--color-red: #bd8796;
+					--color-orange: #bd8b75;
+					--color-yellow: #b0954a;
+					--color-green: #7da667;
+					--color-cyan: #44ac9b;
+					--color-blue: #5ea3bd;
+					--color-violet: #ac88bd;
 
-            .year {
-                text-anchor: start;
-            }
+					--line-color: #fff;
+					--back-color: #333;
+					--text-color: #fff;
+				}
+			}
 
-            @media (prefers-color-scheme: dark) {
-                .back {
-                    fill: #222;
-                }
+			.line {
+				stroke: var(--line-color);
+				stroke-width: 1px;
+			}
 
-                .line {
-                    stroke: #fff;
-                }
+			.vertical {
+				stroke-opacity: 0.1;
+			}
 
-                .text {
-                    fill: #fff;
-                }
-            }
-        </style>
-    </defs>
+			.horizontal {
+				stroke-opacity: 0.2;
+				stroke-dasharray: 4 4;
+			}
 
-    <rect class="back" x="0" y="0" width="671" height="355"/>
+			.name {
+				dominant-baseline: middle;
+				text-anchor: end;
+			}
 
-    <g class="line">
-        <path stroke-opacity="0.1" d="M151.5 0v355m60-355v355m60-355v355m60-355v355m60-355v355m60-355v355m60-355v355m60-355v355"/>
-        <path stroke-opacity="0.2" stroke-dasharray="2 2" d="M151 165.5h520m-520-41h520m-520 80h520m-520 40h520m-520 40h520"/>
-    </g>
+			.path {
+				x: calc(
+					var(--start-years, 0) * 96px +
+					var(--start-months, 0) * 8px
+				);
+				width: calc(
+					var(--path-years, 0) * 96px +
+					var(--path-months, 0) * 8px +
+					var(--current, 0) * 100%
+				);
+				height: 32px;
+				translate: 208px -16px;
+			}
+		</style>
 
-    <path fill="#FFC5D5" d="M151 35h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h100v20H571z"/>
-    <path fill="#FFCAB2" d="M151 75h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h100v20H571z"/>
-    <path fill="#F1D589" d="M151 115h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h45v20h-45z"/>
-    <path fill="#BBE7A4" d="M276 155h55v20h-55zm55 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h10v20h-10z"/>
-    <path fill="#88EDDA" d="M391 195h60v20h-60zm60 0h60v20h-60zm60 0h60v20h-60zm60 0h100v20H571z"/>
-    <path fill="#9DE3FF" d="M451 235h60v20h-60zm60 0h60v20h-60zm60 0h100v20H571z"/>
-    <path fill="#EDC7FF" d="M511 275h60v20h-60zm60 0h100v20H571z"/>
+		<line
+			id="vertical"
+			class="line vertical"
+			x1="0" y1="0"
+			x2="0" y2="576"
+		/>
+		<line
+			id="horizontal"
+			class="line horizontal"
+			x1="208" y1="0"
+			x2="1024" y2="0"
+		/>
+	</defs>
 
-    <g class="text name">
-        <text x="140" y="50">Вадим Макеев</text>
-        <text x="140" y="89">Алексей Симоненко</text>
-        <text x="140" y="132">Ольга Алексашенко</text>
-        <text x="140" y="169">Мария Просвирнина</text>
-        <text x="140" y="209">Никита Дубко</text>
-        <text x="140" y="249">Андрей Мелихов</text>
-        <text x="140" y="289">Юля Миоцен</text>
-    </g>
+	<use href="#vertical" x="208"/>
+	<use href="#vertical" x="304"/>
+	<use href="#vertical" x="400"/>
+	<use href="#vertical" x="496"/>
+	<use href="#vertical" x="592"/>
+	<use href="#vertical" x="688"/>
+	<use href="#vertical" x="784"/>
+	<use href="#vertical" x="880"/>
 
-    <g class="text year">
-        <text x="162" y="317">2016</text>
-        <text x="222" y="317">2017</text>
-        <text x="282" y="317">2018</text>
-        <text x="342" y="317">2019</text>
-        <text x="402" y="317">2020</text>
-        <text x="462" y="317">2021</text>
-        <text x="522" y="317">2022</text>
-        <text x="582" y="317">2023</text>
-    </g>
+	<use href="#horizontal" y="80"/>
+	<use href="#horizontal" y="144"/>
+	<use href="#horizontal" y="208"/>
+	<use href="#horizontal" y="272"/>
+	<use href="#horizontal" y="336"/>
+	<use href="#horizontal" y="400"/>
+	<use href="#horizontal" y="464"/>
+
+	<g transform="translate(16 528)">
+		<text x="208">2016</text>
+		<text x="304">2017</text>
+		<text x="400">2018</text>
+		<text x="496">2019</text>
+		<text x="592">2020</text>
+		<text x="688">2021</text>
+		<text x="784">2022</text>
+		<text x="880">2023</text>
+	</g>
+
+	<g transform="translate(0 80)">
+		<text class="name" x="192">
+			Вадим Макеев
+		</text>
+		<rect class="path" style="
+			fill: var(--color-red);
+			--start-years: 0;
+			--current: 1;
+		"/>
+	</g>
+
+	<g transform="translate(0 144)">
+		<text class="name" x="192">
+			Алексей Симоненко
+		</text>
+		<rect class="path" style="
+			fill: var(--color-orange);
+			--start-years: 0;
+			--current: 1;
+		"/>
+	</g>
+
+	<g transform="translate(0 208)">
+		<text class="name" x="192">
+			Ольга Алексашенко
+		</text>
+		<rect class="path" style="
+			fill: var(--color-yellow);
+			--start-years: 0;
+			--path-years: 5;
+			--path-months: 9;
+		"/>
+	</g>
+
+	<g transform="translate(0 272)">
+		<text class="name" x="192">
+			Мария Просвирнина
+		</text>
+		<rect class="path" style="
+			fill: var(--color-green);
+			--start-years: 2;
+			--start-months: 1;
+			--path-years: 5;
+			--path-months: 1;
+		"/>
+	</g>
+
+	<g transform="translate(0 336)">
+		<text class="name" x="192">
+			Никита Дубко
+		</text>
+		<rect class="path" style="
+			fill: var(--color-cyan);
+			--start-years: 4;
+			--current: 1;
+		"/>
+	</g>
+
+	<g transform="translate(0 400)">
+		<text class="name" x="192">
+			Андрей Мелихов
+		</text>
+		<rect class="path" style="
+			fill: var(--color-blue);
+			--start-years: 5;
+			--current: 1;
+		"/>
+	</g>
+
+	<g transform="translate(0 464)">
+		<text class="name" x="192">
+			Юля Миоцен
+		</text>
+		<rect class="path" style="
+			fill: var(--color-violet);
+			--start-years: 6;
+			--current: 1;
+		"/>
+	</g>
 </svg>
