@@ -16,7 +16,7 @@
 
 				fill: var(--text-color);
 				background-color: var(--back-color);
-				font-family: 'Inter', sans-serif;
+				font-family: sans-serif;
 				font-size: 18px;
 			}
 
