@@ -1,0 +1,33 @@
+title: Chrome 111/112, Safari TP, Chrome на iOS, CSS Nesting, Inert и доступность, TS на ES-модулях
+
+date: 2023-03-13T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Андрей Мелихов
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:02:10
+    title: 'Chrome 111'
+  - time: 00:06:49
+    title: 'Бета Chrome 112'
+  - time: 00:18:24
+    title: 'Safari TP'
+  - time: 00:30:53
+    title: 'Chrome на iOS'
+  - time: 00:38:33
+    title: 'Тригонометрия в CSS'
+  - time: 00:46:48
+    title: 'CSS Nesting'
+  - time: 01:00:20
+    title: 'Ускорение таблиц'
+  - time: 01:12:30
+    title: 'Inert и доступность'
+  - time: 01:22:00
+    title: 'TS 5.0 на ES-модулях'
+  - time: 01:33:26
+    title: 'Ответы на вопросы'
+
+duration: 01:46:10
