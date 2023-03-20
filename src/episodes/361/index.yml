@@ -1,0 +1,30 @@
+title: Firefox 111, анимация display, TS 5.x, CQ, Anchor Positioning, Electron 10 лет, React-ошибки
+
+date: 2023-03-20T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:54
+    title: 'Firefox 111'
+  - time: 00:13:45
+    title: 'Анимация display'
+  - time: 00:21:03
+    title: 'TypeScript 5.x'
+  - time: 00:34:40
+    title: 'Container Queries'
+  - time: 00:49:37
+    title: 'Anchor Positioning'
+  - time: 01:07:19
+    title: 'Electron 10 лет'
+  - time: 01:15:49
+    title: 'React.dev'
+  - time: 01:23:33
+    title: 'Ошибки на React'
+  - time: 01:35:26
+    title: 'Ответы на вопросы'
+
+duration: 01:42:44
