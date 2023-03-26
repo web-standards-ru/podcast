@@ -1,0 +1,30 @@
+title: Safari TP, новый тег search, focus-visible, AI в дизайне и разработке, печать на CSS, Vite 5
+
+date: 2023-03-27T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Юля Миоцен
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:08
+    title: 'Safari TP 166'
+  - time: 00:09:33
+    title: 'HTML-элемент search'
+  - time: 00:23:05
+    title: 'Focus-visible'
+  - time: 00:31:20
+    title: 'GitHub Copilot X'
+  - time: 00:47:34
+    title: 'AI в дизайне'
+  - time: 01:05:32
+    title: 'AI в разработке'
+  - time: 01:23:39
+    title: 'Печать на CSS'
+  - time: 01:33:23
+    title: 'Планы на Vite 5'
+  - time: 01:36:07
+    title: 'Ответы на вопросы'
+
+duration: 01:39:30
