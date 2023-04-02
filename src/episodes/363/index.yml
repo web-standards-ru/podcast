@@ -1,0 +1,28 @@
+title: Mozilla 25, Figma, Safari, Sass и CSS, React, @media scripting, Playwright, CSS Zen Garden жив!
+
+date: 2023-04-03T09:00
+
+hosts:
+  - Юля Миоцен
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:16
+    title: '25 лет Mozilla'
+  - time: 00:12:33
+    title: 'Новинки Figma'
+  - time: 00:25:39
+    title: 'Safari 16.4'
+  - time: 00:49:20
+    title: 'Sass и CSS-нестинг'
+  - time: 00:59:50
+    title: 'Новости React Labs'
+  - time: 01:09:59
+    title: 'media scripting'
+  - time: 01:16:00
+    title: 'Playwright UI'
+  - time: 01:20:47
+    title: 'CSS Zen Garden жив!'
+
+duration: 01:25:49
