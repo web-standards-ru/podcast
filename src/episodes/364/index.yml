@@ -1,0 +1,25 @@
+title: Chrome, Safari TP, hr внутри select, релизы Safari, Babel на ESM, история JSON, веб на WASM
+
+date: 2023-04-10T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:08
+    title: 'Chrome 112/113'
+  - time: 00:18:49
+    title: 'Safari TP'
+  - time: 00:25:37
+    title: 'Hr внутри select'
+  - time: 00:31:41
+    title: 'Релизы Safari'
+  - time: 00:48:25
+    title: 'Babel на ESM'
+  - time: 00:52:05
+    title: 'История JSON'
+  - time: 01:05:11
+    title: 'Веб на WASM'
+
+duration: 01:22:35
