@@ -1,0 +1,29 @@
+title: Zoom, text-wrap, Cascade Layers, reading-order, перфоманс, Node.js, WordPress, нейронки
+
+date: 2023-04-17T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:39
+    title: 'Zoom уходит из CSS'
+  - time: 00:07:57
+    title: 'Text-wrap: balance'
+  - time: 00:17:24
+    title: 'Зачем Cascade Layers'
+  - time: 00:30:05
+    title: 'Reading-order'
+  - time: 00:44:07
+    title: 'Правило перфоманса'
+  - time: 00:57:41
+    title: 'Тест-раннер в Node.js'
+  - time: 01:11:57
+    title: 'WordPress в браузере'
+  - time: 01:21:54
+    title: 'Нейронки в браузере'
+
+duration: 01:41:30
