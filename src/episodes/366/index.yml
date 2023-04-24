@@ -1,0 +1,30 @@
+title: Safari, Chrome DevTools, ES2023, CSS-модули, письма без таблиц, HDR-градиенты, Node.js 20, Deno
+
+date: 2023-04-24T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:39
+    title: 'Safari TP'
+  - time: 00:08:05
+    title: 'Chrome DevTools'
+  - time: 00:14:55
+    title: 'Новинки ES2023'
+  - time: 00:24:09
+    title: 'Экспорты в CSS-модулях'
+  - time: 00:41:41
+    title: 'Письма без таблиц'
+  - time: 01:05:13
+    title: 'HDR-градиенты'
+  - time: 01:14:03
+    title: 'Node.js 20'
+  - time: 01:21:45
+    title: 'Зачем Deno?'
+  - time: 01:34:55
+    title: 'Ответы на вопросы'
+
+duration: 01:47:20
