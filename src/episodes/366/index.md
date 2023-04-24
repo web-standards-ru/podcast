@@ -24,7 +24,7 @@
 
 ## HDR-градиенты
 
-- [CSS HD Gradients](gradient.style)
+- [CSS HD Gradients](https://gradient.style)
 - [A modern CSS gradient and color picking tool](https://twitter.com/argyleink/status/1649124742463623169)
 
 ## Node.js 20
