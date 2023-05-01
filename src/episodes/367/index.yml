@@ -1,0 +1,30 @@
+title: Инклюзивный ананас, Scroll animation, Badging, Opera, CSS Scope, дизайн-система WP, ES-модули
+
+date: 2023-05-01T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Юля Миоцен
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:32
+    title: 'Инклюзивный ананас'
+  - time: 00:04:38
+    title: 'Scroll animations'
+  - time: 00:19:16
+    title: 'Badging API'
+  - time: 00:29:16
+    title: 'Opera One'
+  - time: 00:38:08
+    title: 'Scope в CSS'
+  - time: 00:52:43
+    title: 'Дизайн-система WP'
+  - time: 01:00:45
+    title: 'ES-модули'
+  - time: 01:19:16
+    title: 'Ответы на вопросы'
+
+duration: 01:26:00
