@@ -1,0 +1,32 @@
+title: Safari TP и WebKit, единицы QC, Chrome 113 и 114, SupportsCSS, Event Loop, Deno, Vercel Ship
+
+date: 2023-05-08T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:38
+    title: 'Safari TP 169'
+  - time: 00:09:19
+    title: 'WebContainer в Safari'
+  - time: 00:25:06
+    title: 'Ошибка в единицах QC'
+  - time: 00:29:40
+    title: 'Chrome 113'
+  - time: 00:40:58
+    title: 'Бета Chrome 114'
+  - time: 00:58:06
+    title: 'SupportsCSS'
+  - time: 01:10:29
+    title: 'Event Loop'
+  - time: 01:15:37
+    title: 'Deno 1.33'
+  - time: 01:24:41
+    title: 'Vercel Ship'
+  - time: 01:35:02
+    title: 'Ответы на вопросы'
+
+duration: 01:41:33
