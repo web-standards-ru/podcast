@@ -1,0 +1,30 @@
+title: Исходники WebKit, Baseline, INP, linear, Kotlin и WASM на Google I/O, цвета GitHub, JS как PHP
+
+date: 2023-05-15T09:00
+
+hosts:
+  - Юля Миоцен
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:31
+    title: 'Исходники WebKit'
+  - time: 00:07:18
+    title: 'UI вместо AI'
+  - time: 00:22:27
+    title: 'Baseline'
+  - time: 00:42:53
+    title: 'INP в CWV'
+  - time: 00:51:56
+    title: 'Linear в CSS'
+  - time: 00:59:41
+    title: 'Kotlin и WASM'
+  - time: 01:07:21
+    title: 'Цвета GitHub'
+  - time: 01:14:15
+    title: 'JS как PHP'
+  - time: 01:38:12
+    title: 'Ответы на вопросы'
+
+duration: 01:41:06
