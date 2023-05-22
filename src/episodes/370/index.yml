@@ -1,0 +1,26 @@
+title: Поддержка и чат, Safari, Baseline, Firefox 113, TS 5.1 RC, семантика popover, перфоманс DOM
+
+date: 2023-05-22T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:23
+    title: 'Поддержка и чат'
+  - time: 00:05:23
+    title: 'Новости Safari'
+  - time: 00:17:55
+    title: 'Снова про Baseline'
+  - time: 00:38:20
+    title: 'Firefox 113'
+  - time: 00:52:13
+    title: 'TypeScript 5.1 RC'
+  - time: 01:05:52
+    title: 'Семантика popover'
+  - time: 01:13:32
+    title: 'Перфоманс DOM'
+
+duration: 01:26:23
