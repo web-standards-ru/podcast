@@ -1,0 +1,30 @@
+title: Chrome 114-115, WWDC, Safari, пароли, вертикальный ритм, Scroll Animations, CSS Scoping, Web3
+
+date: 2023-06-05T09:00
+
+hosts:
+  - Вадим Макеев
+  - Юля Миоцен
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:47
+    title: 'Chrome 114-115'
+  - time: 00:18:42
+    title: 'Чего ждать от WWDC'
+  - time: 00:28:40
+    title: 'Safari TP'
+  - time: 00:35:43
+    title: 'Требования к паролям'
+  - time: 00:45:34
+    title: 'Вертикальный ритм'
+  - time: 00:56:23
+    title: 'Scroll Driven Animations'
+  - time: 01:07:31
+    title: 'CSS Scoping'
+  - time: 01:17:29
+    title: '404 и Web3'
+  - time: 01:31:00
+    title: 'Ответы на вопросы'
+
+duration: 01:42:58
