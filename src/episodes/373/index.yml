@@ -1,0 +1,28 @@
+title: Chrome DevTools, Firefox 114, Apple Web Apps, Safari 17, Figma, ESM или CJS, Sass в браузере
+
+date: 2023-06-12T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:46
+    title: 'Chrome DevTools'
+  - time: 00:19:54
+    title: 'Firefox 114'
+  - time: 00:28:27
+    title: 'Apple Web Apps'
+  - time: 00:53:22
+    title: 'Новинки Safari 17'
+  - time: 01:11:44
+    title: 'Apple в Figma'
+  - time: 01:18:00
+    title: 'ESM или CJS'
+  - time: 01:28:58
+    title: 'Sass в браузере'
+  - time: 01:35:07
+    title: 'Ответы на вопросы'
+
+duration: 01:39:06
