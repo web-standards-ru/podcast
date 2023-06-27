@@ -1,0 +1,29 @@
+title: State of CSS, новинки Figma, NestJS, веб на Vision Pro, MDN Playground, using в JS, стили в RSS
+
+date: 2023-06-27T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Андрей Мелихов
+  - Юля Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:02:10
+    title: 'State of CSS'
+  - time: 00:10:59
+    title: 'Новинки Figma'
+  - time: 00:49:22
+    title: 'NestJS 10'
+  - time: 00:52:42
+    title: 'Веб на Vision Pro'
+  - time: 01:07:21
+    title: 'MDN Playground'
+  - time: 01:13:50
+    title: 'Using в TS/JS'
+  - time: 01:23:36
+    title: 'Стили для RSS'
+  - time: 01:33:07
+    title: 'Ответы на вопросы'
+
+duration: 01:36:17
