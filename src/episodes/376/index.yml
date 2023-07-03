@@ -1,0 +1,31 @@
+title: Safari, CSS-нестинг, DevTools, @property, бета TS 5.2, Navigation API, Topics API, ошибка MDN
+
+date: 2023-07-03T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:02:02
+    title: 'Safari TP'
+  - time: 00:05:51
+    title: 'Глубина CSS-нестинга'
+  - time: 00:15:46
+    title: 'Chrome DevTools'
+  - time: 00:25:19
+    title: '@property в Firefox'
+  - time: 00:27:29
+    title: 'Бета TypeScript 5.2'
+  - time: 00:40:58
+    title: 'Navigation API'
+  - time: 00:54:55
+    title: 'Реклама и Topics API'
+  - time: 01:14:40
+    title: 'AI-ошибка MDN'
+  - time: 01:27:48
+    title: 'Ответы на вопросы'
+
+duration: 01:34:16
