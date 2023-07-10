@@ -1,0 +1,25 @@
+title: Firefox 115, эмоджи, контейнеры, DOM­Content­Loaded, SVG-in-JS, бесполезные слэши в тегах
+
+date: 2023-07-10T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:02:02
+    title: 'Firefox 115'
+  - time: 00:10:01
+    title: 'Юникод и эмоджи'
+  - time: 00:17:17
+    title: 'Контейнеры вместо медиа'
+  - time: 00:32:49
+    title: 'DOM­Content­Loaded'
+  - time: 00:42:55
+    title: 'Избавляемся от SVG-in-JS'
+  - time: 00:58:16
+    title: 'Бесполезные слэши в тегах'
+  - time: 01:21:11
+    title: 'Ответы на вопросы'
+
+duration: 01:28:14
