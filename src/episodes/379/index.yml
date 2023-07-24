@@ -1,0 +1,28 @@
+title: Бета Chrome 116, linear(), PNG v3, Firefox ESR, перфоманс, альтернатива GitHub, эмоджи в вебе
+
+date: 2023-07-24T09:00
+
+hosts:
+  - Никита Дубко
+  - Юля Миоцен
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:39
+    title: 'Бета Chrome 116'
+  - time: 00:15:49
+    title: 'Функция linear()'
+  - time: 00:33:37
+    title: 'PNG v3'
+  - time: 00:43:16
+    title: 'Firefox ESR'
+  - time: 00:44:54
+    title: 'Перфоманс'
+  - time: 00:56:52
+    title: 'Альтернатива GitHub'
+  - time: 01:10:57
+    title: 'Эмоджи в вебе'
+  - time: 01:23:52
+    title: 'Ответы на вопросы'
+
+duration: 01:30:48
