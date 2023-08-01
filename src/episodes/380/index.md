@@ -39,6 +39,4 @@
 
 ## Ответы на вопросы
 
-- [HTMLDialogElement: cancel event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement#events)
-
 [podcast@web-standards.ru](mailto:podcast@web-standards.ru)
