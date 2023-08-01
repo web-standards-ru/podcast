@@ -1,0 +1,29 @@
+title: Arc 1.0, State of HTML, HTTP-теги, Web Integrity, Observable, ESM в Vite, Jamstack, OverflowAI
+
+date: 2023-08-01T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:23
+    title: 'Arc для всех'
+  - time: 00:12:23
+    title: 'State of HTML'
+  - time: 00:23:22
+    title: 'HTTP-теги'
+  - time: 00:37:20
+    title: 'Web Integrity'
+  - time: 01:01:04
+    title: 'Observable в JS'
+  - time: 01:06:26
+    title: 'ESM в Vite'
+  - time: 01:13:28
+    title: 'Jamstack жив?'
+  - time: 01:21:24
+    title: 'OverflowAI'
+  - time: 01:27:10
+    title: 'Ответы на вопросы'
+
+duration: 01:33:15
