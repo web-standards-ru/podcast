@@ -1,0 +1,30 @@
+title: Firefox, CSS Math, Service Workers, WCAG 3, P3 Figma, SQ, Astro, View Transitions, PostCSS всё
+
+date: 2023-08-07T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Ситник
+  - Никита Дубко
+
+chapters:
+  - time: 00:02:18
+    title: 'Firefox 116'
+  - time: 00:10:49
+    title: 'Ещё Math в CSS'
+  - time: 00:19:08
+    title: 'Ускорение Service Workers'
+  - time: 00:25:25
+    title: 'WCAG 3 пока рано'
+  - time: 00:45:22
+    title: 'P3 в Figma'
+  - time: 00:53:58
+    title: 'Style Queries'
+  - time: 01:07:44
+    title: 'Astro и View Transitions'
+  - time: 01:17:39
+    title: 'PostCSS всё'
+  - time: 01:42:29
+    title: 'Ответы на вопросы'
+
+duration: 01:47:13
