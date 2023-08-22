@@ -1,0 +1,24 @@
+title: Chrome 116 и бета 117, CSS Podcast, Chrome DevTools, валидация форм и боль миграции на ESM
+
+date: 2023-08-22T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:08
+    title: 'Chrome 116'
+  - time: 00:12:57
+    title: 'Бета Chrome 117'
+  - time: 00:37:10
+    title: 'CSS Podcast'
+  - time: 00:50:54
+    title: 'Chrome DevTools'
+  - time: 01:04:56
+    title: 'Валидация форм'
+  - time: 01:18:31
+    title: 'Боль миграции на ESM'
+
+duration: 01:36:18
