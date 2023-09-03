@@ -1,0 +1,24 @@
+title: Firefox 117, form-sizing и релизы Chrome, State of CSS 2023, велосипеды Dropbox, Astro 3.0
+
+date: 2023-09-04T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:23
+    title: 'Firefox 117'
+  - time: 00:08:29
+    title: 'Прототип form-sizing'
+  - time: 00:20:25
+    title: 'State of CSS 2023'
+  - time: 00:58:20
+    title: 'Велосипеды Dropbox'
+  - time: 01:20:00
+    title: 'Astro 3.0'
+  - time: 01:36:00
+    title: 'Ответы на вопросы'
+
+duration: 01:39:23
