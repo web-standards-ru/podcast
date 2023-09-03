@@ -44,6 +44,8 @@ module.exports = (config) => {
 		return content;
 	});
 
+	config.ignores.add('src/template');
+
 	return {
 		dir: {
 			input: 'src',

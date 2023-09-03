@@ -20,12 +20,9 @@
 ## Велосипеды Dropbox
 
 - [How we reduced the size of our JS bundles by 33%](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
-
-## Astro 3.0
-
 - [How Edison is helping us build a faster, more powerful Dropbox on the web](https://dropbox.tech/frontend/edison-webserver-a-faster-more-powerful-dropbox-on-the-web)
 
-## Ответы на вопросы
+## Astro 3.0
 
 - [Astro 3.0](https://astro.build/blog/astro-3/)
 - [Astro View Transitions](https://developer.chrome.com/blog/astro-view-transitions/)
