@@ -1,0 +1,31 @@
+title: Chrome 117 и бета 118, DevTools, экологичный веб, миксины и функции в CSS, Interop 2024, Figma
+
+date: 2023-09-18T09:00
+
+hosts:
+  - Андрей Симоненко
+  - Никита Дубко
+  - Юля Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:46
+    title: 'Chrome 117'
+  - time: 00:12:20
+    title: 'Бета Chrome 118'
+  - time: 00:42:21
+    title: 'Chrome DevTools'
+  - time: 00:48:49
+    title: 'Экологичный веб'
+  - time: 00:58:19
+    title: 'Миксины и функции в CSS'
+  - time: 01:25:54
+    title: 'Interop 2024'
+  - time: 01:29:59
+    title: 'Новости Figma'
+  - time: 01:36:19
+    title: 'CSS в Figma'
+  - time: 01:49:16
+    title: 'Ответы на вопросы'
+
+duration: 01:54:20
