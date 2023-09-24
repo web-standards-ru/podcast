@@ -1,0 +1,26 @@
+title: Safari 17 и TP 179, :has в Firefox, State of HTML, Scroll-Driven Animations, TS иногда мешает
+
+date: 2023-09-25T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:08
+    title: 'Релиз Safari 17'
+  - time: 00:24:39
+    title: 'Safari TP 179'
+  - time: 00:28:07
+    title: ':has в Firefox'
+  - time: 00:30:07
+    title: 'State of HTML 2023'
+  - time: 00:41:25
+    title: 'Scroll-Driven Animations'
+  - time: 00:52:31
+    title: 'TypeScript иногда мешает'
+  - time: 01:15:48
+    title: 'Ответы на вопросы'
+
+duration: 01:22:16
