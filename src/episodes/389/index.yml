@@ -1,0 +1,30 @@
+title: Firefox, CSS-нестинг, HTML-заголовки, text-wrap, Фотошоп в вебе, Google Fonts, LCP, Tailwind
+
+date: 2023-10-02T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:02:02
+    title: 'Firefox 118'
+  - time: 00:11:51
+    title: 'Тюнинг CSS-нестинга'
+  - time: 00:31:50
+    title: 'HTML-заголовки'
+  - time: 00:55:38
+    title: 'Порядок в text-wrap'
+  - time: 01:02:52
+    title: 'Фотошоп в вебе'
+  - time: 01:19:59
+    title: 'Google Fonts через Cloudflare'
+  - time: 01:29:53
+    title: 'Картинки и LCP'
+  - time: 01:43:31
+    title: 'Tailwind тоже прав'
+  - time: 02:02:22
+    title: 'Ответы на вопросы'
+
+duration: 02:10:26
