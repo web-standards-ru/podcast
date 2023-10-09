@@ -1,0 +1,24 @@
+title: Safari, бета Chrome 119, Divtober, пересмотр Baseline, новинки WCAG 2.2, Closure Compiler
+
+date: 2023-10-10T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Юля Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:01:08
+    title: 'Новинки Safari'
+  - time: 00:22:26
+    title: 'Бета Chrome 119'
+  - time: 00:50:01
+    title: 'Divtober'
+  - time: 00:56:29
+    title: 'Пересмотр Baseline'
+  - time: 01:08:03
+    title: 'Новинки WCAG 2.2'
+  - time: 01:15:01
+    title: 'Closure Compiler'
+
+duration: 01:25:00
