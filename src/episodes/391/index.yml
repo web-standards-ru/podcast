@@ -1,0 +1,30 @@
+title: Chrome 118 и куки, Arc Max и AI, CSS-темы, адаптивное видео, Source Maps, ESM в Node.js, OKLCH
+
+date: 2023-10-16T09:00
+
+hosts:
+  - Никита Дубко
+  - Алексей Симоненко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:39
+    title: 'Релиз Chrome 118'
+  - time: 00:09:59
+    title: 'Сторонние куки в Chrome'
+  - time: 00:22:17
+    title: 'Arc Max и AI'
+  - time: 00:36:38
+    title: 'Тёмные темы в CSS'
+  - time: 00:46:17
+    title: 'Адаптивное видео'
+  - time: 00:55:39
+    title: 'Стандарт Source Maps'
+  - time: 01:02:45
+    title: 'Включение ESM в Node.js'
+  - time: 01:19:59
+    title: 'OKLCH немного сломан'
+  - time: 01:31:34
+    title: 'Ответы на вопросы'
+
+duration: 01:34:27
