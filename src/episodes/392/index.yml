@@ -1,0 +1,32 @@
+title: DevTools Chrome и Firefox, скролбары, скрытие IP, text-indent, Safari TP, Node.js, Eleventy 3.0
+
+date: 2023-10-24T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:01:24
+    title: 'Chrome DevTools'
+  - time: 00:13:09
+    title: 'Стилизация скролбаров'
+  - time: 00:26:42
+    title: 'Скрытие IP в Chrome'
+  - time: 00:37:47
+    title: 'Firefox DevTools'
+  - time: 00:49:55
+    title: 'Развитие text-indent'
+  - time: 00:58:54
+    title: 'Safari TP'
+  - time: 01:12:41
+    title: 'Node.js 21'
+  - time: 01:20:06
+    title: 'Маскот Node.js'
+  - time: 01:23:52
+    title: 'Eleventy 3.0'
+  - time: 01:29:17
+    title: 'Ответы на вопросы'
+
+duration: 01:34:54
