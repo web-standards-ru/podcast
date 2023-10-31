@@ -1,0 +1,31 @@
+title: Firefox и Safari, Passkey, Figma и Adobe, State of React, Node.js, Next.js, Tailwind и пельмени
+
+date: 2023-10-31T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Вадим Макеев
+  - Юля Миоцен
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:54
+    title: 'Firefox 119'
+  - time: 00:14:42
+    title: 'Safari 17.1 и бета'
+  - time: 00:28:10
+    title: 'Код-лаб для Passkey'
+  - time: 00:40:29
+    title: 'Figma и Adobe'
+  - time: 00:53:33
+    title: 'State of React'
+  - time: 00:58:25
+    title: 'Node.js Buffer'
+  - time: 01:02:56
+    title: 'Шум вокруг Next.js 14'
+  - time: 01:12:27
+    title: 'Опять Tailwind'
+  - time: 01:29:32
+    title: 'Эмоджи пельменя'
+
+duration: 01:38:46
