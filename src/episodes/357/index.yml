@@ -10,7 +10,7 @@ hosts:
 
 chapters:
   - time: 00:01:39
-    title: 'Firefox 110 и Contaier Queries'
+    title: 'Firefox 110 и Container Queries'
   - time: 00:19:50
     title: 'Chrome DevTools 110/111'
   - time: 00:33:48

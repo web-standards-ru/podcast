@@ -1,4 +1,4 @@
-## Firefox 110 и Contaier Queries
+## Firefox 110 и Container Queries
 
 - [Firefox 110 for developers](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/110)
 - [Container queries land in stable browsers](https://web.dev/cq-stable/)
