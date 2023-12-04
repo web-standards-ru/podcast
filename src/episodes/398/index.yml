@@ -1,0 +1,32 @@
+title: Servo, селекты, State of JS, адвенты, OTMT, Math в CSS, @scope, видео, дизайн и разработка
+
+date: 2023-12-04T09:00
+
+hosts:
+  - Юля Миоцен
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:02:40
+    title: 'Движок Servo'
+  - time: 00:09:07
+    title: 'Линейки в селектах'
+  - time: 00:15:16
+    title: 'Дэшборд с браузерами'
+  - time: 00:19:42
+    title: 'State of JS 2023'
+  - time: 00:23:38
+    title: 'Адвенты для всех'
+  - time: 00:36:55
+    title: 'Подкаст OTMT'
+  - time: 00:42:17
+    title: 'Math-функции в CSS'
+  - time: 00:49:55
+    title: 'Особенности @scope'
+  - time: 00:57:42
+    title: 'Адаптивное видео'
+  - time: 01:08:41
+    title: 'Дизайнеры и разработчики'
+
+duration: 01:24:58
