@@ -1,0 +1,29 @@
+title: Safari TP, Chrome 120, CSS 2023, Николь Салливан, Chrome и стандарты, V8 JIT, Baseline, StyleX
+
+date: 2023-12-11T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:02:33
+    title: 'Safari TP'
+  - time: 00:09:21
+    title: 'Chrome 120'
+  - time: 00:16:59
+    title: '2023 год для CSS'
+  - time: 00:24:04
+    title: 'Николь Салливан'
+  - time: 00:27:17
+    title: 'Chrome и стандарты'
+  - time: 00:34:53
+    title: 'JIT-левитация V8'
+  - time: 00:44:45
+    title: 'Обновление Baseline'
+  - time: 01:09:02
+    title: 'StyleX и CSS-in-JS'
+  - time: 01:38:11
+    title: 'Ответы на вопросы'
+
+duration: 01:41:56
