@@ -1,0 +1,31 @@
+title: Safari, нестинг в DevTools, интенты, WebDriver BiDi, Shadow DOM, Design Tools, a11y, ООП в JS
+
+date: 2023-12-19T09:00
+
+hosts:
+  - Вадим Макеев
+  - Юля Миоцен
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:03:04
+    title: 'Safari 17.2'
+  - time: 00:37:09
+    title: 'Нестинг в DevTools'
+  - time: 00:48:41
+    title: 'Интенты Chrome'
+  - time: 01:03:02
+    title: 'WebDriver BiDi'
+  - time: 01:13:31
+    title: 'Декларативный Shadow DOM'
+  - time: 01:18:55
+    title: 'Design Tools Survey'
+  - time: 01:34:13
+    title: 'Исследование доступности'
+  - time: 01:48:15
+    title: 'ООП в JS'
+  - time: 02:00:14
+    title: 'Ответы на вопросы'
+
+duration: 02:08:29
