@@ -1,0 +1,24 @@
+title: Переход на Firefox, как сломать npm, веб-компоненты, React Server Components, нет/да Next.js
+
+date: 2024-01-08T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Андрей Мелихов
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:53
+    title: 'Переход на Firefox'
+  - time: 00:29:15
+    title: 'Как сломать npm'
+  - time: 00:39:59
+    title: 'Веб-компоненты'
+  - time: 00:57:07
+    title: 'React Server Components'
+  - time: 01:15:56
+    title: 'Нет/да Next.js'
+  - time: 01:32:52
+    title: 'Ответы на вопросы'
+
+duration: 01:42:36
