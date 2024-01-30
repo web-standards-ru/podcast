@@ -1,0 +1,26 @@
+title: Chrome 121, Firefox 122, Safari 17.3 и бета 17.4 и альтернативные движки браузеров на iOS
+
+date: 2024-01-30T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:24
+    title: 'Chrome 121'
+  - time: 00:16:03
+    title: 'Chrome DevTools'
+  - time: 00:22:31
+    title: 'Firefox 122'
+  - time: 00:40:34
+    title: 'Firefox DevTools'
+  - time: 00:44:36
+    title: 'Safari 17.3 и бета 17.4'
+  - time: 00:53:10
+    title: 'Альтернативные движки на iOS'
+  - time: 01:37:17
+    title: 'Ответы на вопросы'
+
+duration: 01:45:21
