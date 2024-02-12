@@ -1,0 +1,28 @@
+title: Интенты, Safari, сайты в панели, PWA в Европе, JS-рантайм в AWS, JS Rising Stars, монополия npm
+
+date: 2024-02-12T09:00
+
+hosts:
+  - Никита Дубко
+  - Алексей Симоненко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:01:07
+    title: 'Интенты Blink'
+  - time: 00:19:19
+    title: 'Safari TP 188'
+  - time: 00:34:35
+    title: 'Сайты в панели'
+  - time: 00:41:50
+    title: 'Никаких PWA в Европе'
+  - time: 00:52:19
+    title: 'JS-рантайм в AWS'
+  - time: 01:00:47
+    title: 'JS Rising Stars'
+  - time: 01:25:36
+    title: 'Монополия npm'
+  - time: 01:40:13
+    title: 'Ответы на вопросы'
+
+duration: 01:44:58
