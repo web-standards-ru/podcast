@@ -28,7 +28,7 @@
 ## Кастомные свойства
 
 - [Practical Use Cases For CSS Variables](https://ishadeed.com/article/practical-css-variables/)
-- [CSS Battle](TODO)
+- [CSS Battle](https://cssbattle.dev/)
 
 ## Мониторинг фронтенда
 
