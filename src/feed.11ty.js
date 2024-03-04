@@ -8,7 +8,7 @@ const getEpisodes = async (data) => {
 	const result = await Promise.all(episode.map(
 		async episode => `
 			<item>
-				<title>${ episode.data.title }</title>
+				<title>${ episode.fileSlug }. ${ episode.data.title }</title>
 				<link>${ data.meta.url }${ episode.fileSlug }/</link>
 				<pubDate>${ episode.date.toUTCString() }</pubDate>
 				<description><![CDATA[<h2>Ведущие</h2><p>${
