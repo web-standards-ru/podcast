@@ -1,0 +1,29 @@
+title: Switch, PWA на iOS, MDN Curriculum, Figma, полифилы, :has, микропакеты, пет-проекты и корпорат
+
+date: 2024-03-04T09:00
+
+hosts:
+  - Юля Миоцен
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:01:15
+    title: 'Опять switch в Safari'
+  - time: 00:07:08
+    title: 'PWA вернулись на iOS'
+  - time: 00:19:09
+    title: 'Запуск MDN Curriculum'
+  - time: 00:33:25
+    title: 'Figma купила конструктор'
+  - time: 00:47:03
+    title: 'Опасные полифилы с CDN'
+  - time: 00:57:34
+    title: 'Интерактивные примеры :has'
+  - time: 01:14:57
+    title: 'Микропакеты вроде is-number'
+  - time: 01:27:31
+    title: 'Пет-проекты и корпорат'
+
+duration: 01:48:53
