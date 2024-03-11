@@ -8,6 +8,8 @@ hosts:
   - Андрей Мелихов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:02:41
     title: 'Бета TypeScript 5'
   - time: 00:17:14

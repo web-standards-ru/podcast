@@ -9,6 +9,8 @@ hosts:
   - Андрей Мелихов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:03:04
     title: 'Safari 17.2'
   - time: 00:37:09

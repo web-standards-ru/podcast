@@ -8,6 +8,8 @@ hosts:
   - Илья Климов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:02:02
     title: 'События'
   - time: 00:09:06

@@ -8,6 +8,8 @@ hosts:
   - Никита Дубко
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:23
     title: 'Fleet для всех'
   - time: 00:15:54

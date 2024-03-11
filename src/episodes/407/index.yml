@@ -8,6 +8,8 @@ hosts:
   - Алексей Симоненко
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:24
     title: 'Chrome 121'
   - time: 00:16:03

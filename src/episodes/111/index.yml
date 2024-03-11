@@ -9,6 +9,8 @@ hosts:
   - Артур Столяр
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:00:42
     title: 'События'
   - time: 00:03:20

@@ -9,6 +9,8 @@ hosts:
   - Саша Шинкевич
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:56
     title: 'События'
   - time: 00:11:24

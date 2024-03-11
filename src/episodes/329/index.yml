@@ -8,6 +8,8 @@ hosts:
   - Никита Дубко
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:00:52
     title: 'State of CSS'
   - time: 00:11:50

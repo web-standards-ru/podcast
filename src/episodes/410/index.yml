@@ -8,6 +8,8 @@ hosts:
   - Вадим Макеев
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:46
     title: 'Apple и веб'
   - time: 00:50:44

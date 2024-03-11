@@ -9,6 +9,8 @@ hosts:
   - Дэн Абрамов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:19
     title: 'Safari TP 118'
   - time: 00:11:59

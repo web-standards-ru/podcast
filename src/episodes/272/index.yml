@@ -9,6 +9,8 @@ hosts:
   - Юля Миоцен
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:26
     title: 'События'
   - time: 00:02:52

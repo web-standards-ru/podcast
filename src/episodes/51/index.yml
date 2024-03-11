@@ -8,6 +8,8 @@ hosts:
   - Слава Шебанов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:00:24
     title: 'События'
   - time: 00:10:06

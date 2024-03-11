@@ -7,6 +7,8 @@ hosts:
   - Вадим Макеев
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:32
     title: 'Firefox 106'
   - time: 00:07:14

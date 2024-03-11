@@ -7,6 +7,8 @@ hosts:
   - Андрей Мелихов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:46
     title: 'Firefox 120'
   - time: 00:22:08

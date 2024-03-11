@@ -8,6 +8,8 @@ hosts:
   - Дмитрий Пацура
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:10:20
     title: 'Доступ к адресной книге в Chrome'
   - time: 00:16:46

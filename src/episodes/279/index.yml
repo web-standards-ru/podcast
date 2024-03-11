@@ -8,6 +8,8 @@ hosts:
   - Александр Мышов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:10:42
     title: 'Firefox 88'
   - time: 00:18:37

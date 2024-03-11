@@ -8,6 +8,8 @@ hosts:
   - Алексей Симоненко
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:39
     title: 'Бета Chrome 116'
   - time: 00:15:49

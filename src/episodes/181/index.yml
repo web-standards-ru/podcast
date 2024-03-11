@@ -8,6 +8,8 @@ hosts:
   - Анатолий Кукаев
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:40
     title: 'События и Panda Meetup'
   - time: 00:16:45

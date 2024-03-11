@@ -9,6 +9,8 @@ hosts:
   - Олег Акинин
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:04:25
     title: 'Автор JS-курсов'
   - time: 00:17:33

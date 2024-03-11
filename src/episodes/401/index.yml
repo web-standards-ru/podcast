@@ -7,6 +7,8 @@ hosts:
   - Никита Дубко
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:31
     title: 'Figma без Adobe'
   - time: 00:15:48
