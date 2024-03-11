@@ -7,6 +7,8 @@ hosts:
   - Diego Gonzalez
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:02:01
     title: 'Why Samsung needs a browser?'
   - time: 00:08:00

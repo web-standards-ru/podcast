@@ -8,6 +8,8 @@ hosts:
   - Артём Захарченко
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:07
     title: 'События'
   - time: 00:03:15

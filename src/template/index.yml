@@ -6,6 +6,7 @@ hosts:
   - TODO
 
 chapters:
-  - TODO
+  - time: 00:00:00
+    title: 'Интро'
 
 duration: TODO

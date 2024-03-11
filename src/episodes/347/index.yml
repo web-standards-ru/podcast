@@ -8,6 +8,8 @@ hosts:
   - Вадим Макеев
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:24
     title: 'Safari TP 159'
   - time: 00:12:20

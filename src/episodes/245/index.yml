@@ -8,6 +8,8 @@ hosts:
   - Андрей Ситник
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:34
     title: 'Firefox 80'
   - time: 00:07:44

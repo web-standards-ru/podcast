@@ -10,6 +10,8 @@ hosts:
   - Anna Migas
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:00:34
     title: 'Bram Stein'
   - time: 00:17:07

@@ -8,6 +8,8 @@ hosts:
   - Ian Pouncey
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:00:19
     title: 'Eva Ferreira'
   - time: 00:22:36

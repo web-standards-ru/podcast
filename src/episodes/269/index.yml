@@ -9,6 +9,8 @@ hosts:
   - Сергей Иванов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:02:04
     title: 'Событие ЯЛФ'
   - time: 00:09:37

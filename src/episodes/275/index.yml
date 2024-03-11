@@ -9,6 +9,8 @@ hosts:
   - Марианна Минич
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:34
     title: 'События'
   - time: 00:03:54

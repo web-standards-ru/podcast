@@ -8,6 +8,8 @@ hosts:
   - Андрей Яманов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:22
     title: 'События и MoscowJS'
   - time: 00:04:53

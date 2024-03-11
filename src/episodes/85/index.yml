@@ -11,6 +11,8 @@ hosts:
   - Kitty Giraudel
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:00:27
     title: 'Aga Naplocha'
   - time: 00:13:18

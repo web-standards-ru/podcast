@@ -8,6 +8,8 @@ hosts:
   - Алексей Симоненко
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:16
     title: '25 лет Mozilla'
   - time: 00:12:33

@@ -8,6 +8,8 @@ hosts:
   - Андрей Мелихов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:00:58
     title: 'Safari TP 128'
   - time: 00:07:25

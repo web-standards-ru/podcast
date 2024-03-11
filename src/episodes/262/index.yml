@@ -8,6 +8,8 @@ hosts:
   - Андрей Мелихов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:03:24
     title: 'JS-андерхуд'
   - time: 00:07:28

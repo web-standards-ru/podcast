@@ -7,6 +7,8 @@ hosts:
   - Greg Whitworth
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:00:35
     title: 'Google I/O'
   - time: 00:02:37

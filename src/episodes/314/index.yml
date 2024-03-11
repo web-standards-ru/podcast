@@ -9,6 +9,8 @@ hosts:
   - Валентин Фондаратов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:02:33
     title: 'Safari TP 137'
   - time: 00:06:34

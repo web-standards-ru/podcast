@@ -8,6 +8,8 @@ hosts:
   - Ольга Алексашенко
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:45
     title: 'Бета Chrome 86'
   - time: 00:17:15

@@ -8,6 +8,8 @@ hosts:
   - Сергей Рубанов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:17
     title: 'События'
   - time: 00:11:25

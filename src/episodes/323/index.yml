@@ -8,6 +8,8 @@ hosts:
   - Андрей Мелихов
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:05:00
     title: 'Понятные Media Queries'
   - time: 00:10:17

@@ -7,6 +7,8 @@ hosts:
   - Николай Птущук
 
 chapters:
+  - time: 00:00:00
+    title: 'Интро'
   - time: 00:01:20
     title: 'События'
   - time: 00:07:07
