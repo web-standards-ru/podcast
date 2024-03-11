@@ -1,0 +1,28 @@
+title: Safari 17.4 и TP, стейджи в WHATWG, бесконечность в CSS, Нильсен, AI и доступность, Deno JSR
+
+date: 2024-03-11T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:31
+    title: 'Safari 17.4'
+  - time: 00:33:22
+    title: 'Safari TP'
+  - time: 00:42:13
+    title: 'Стейджи в WHATWG'
+  - time: 00:49:38
+    title: 'Бесконечность в CSS'
+  - time: 00:58:23
+    title: 'Нильсен, AI и доступность'
+  - time: 01:11:22
+    title: 'Deno JSR'
+  - time: 01:24:47
+    title: 'Ответы на вопросы'
+
+duration: 01:30:41
