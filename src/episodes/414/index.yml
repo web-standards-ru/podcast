@@ -1,0 +1,32 @@
+title: Speedometer 3.0, SVG, AI уходи, writingsuggestions, альты, TS 5.4, Node.js, стриминг HTML
+
+date: 2024-03-19T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:02:17
+    title: 'Speedometer 3.0'
+  - time: 00:21:36
+    title: 'Новинки SVG'
+  - time: 00:26:58
+    title: 'AI уходи, или NoML'
+  - time: 00:39:53
+    title: 'Writingsuggestions'
+  - time: 00:47:23
+    title: 'Зашитый alt'
+  - time: 01:02:22
+    title: 'TypeScript 5.4'
+  - time: 01:11:11
+    title: 'Раскраска Node.js'
+  - time: 01:15:41
+    title: 'Стриминг HTML'
+  - time: 01:31:21
+    title: 'Ответы на вопросы'
+
+duration: 01:37:37
