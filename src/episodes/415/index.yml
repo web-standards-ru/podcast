@@ -1,0 +1,35 @@
+title: Firefox 124, Chrome 123, JSPI в WASM, Config и Hackfest, Popover, JS-рантаймы, автогриды
+
+date: 2024-03-26T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Юля Миоцен
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:02:09
+    title: 'Firefox 124'
+  - time: 00:13:06
+    title: 'Chrome 123'
+  - time: 00:40:13
+    title: 'Chrome DevTools'
+  - time: 00:49:20
+    title: 'JSPI в WASM'
+  - time: 00:53:11
+    title: 'Config и Hackfest'
+  - time: 00:55:26
+    title: 'Доступность Popover'
+  - time: 01:10:55
+    title: 'Все JS-рантаймы'
+  - time: 01:24:40
+    title: 'Где открывать ссылки'
+  - time: 01:40:22
+    title: 'Надёжные автогриды'
+  - time: 01:50:33
+    title: 'Ответы на вопросы'
+
+duration: 01:59:39
