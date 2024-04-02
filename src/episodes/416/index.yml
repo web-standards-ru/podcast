@@ -1,0 +1,34 @@
+title: Safari, CSS JIT, FigJam, бета Chrome 124, V8, сетки, View Transitions, Color Mix, Gulp 5
+
+date: 2024-04-02T09:00
+
+hosts:
+  - Вадим Макеев
+  - Юля Миоцен
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:54
+    title: 'Safari TP'
+  - time: 00:11:15
+    title: 'CSS JIT'
+  - time: 00:15:25
+    title: 'Apple Developer на YouTube'
+  - time: 00:23:21
+    title: 'AI в FigJam'
+  - time: 00:29:36
+    title: 'Бета Chrome 124'
+  - time: 00:46:16
+    title: 'Iterator helpers в V8'
+  - time: 00:53:49
+    title: 'Новые и старые сетки'
+  - time: 01:00:54
+    title: 'View Transitions'
+  - time: 01:20:52
+    title: 'Color Mix'
+  - time: 01:30:13
+    title: 'Gulp 5'
+
+duration: 01:32:40
