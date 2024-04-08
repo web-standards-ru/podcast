@@ -1,0 +1,33 @@
+title: Бета Safari 17.5, Learn JS, CSS, сигналы в JS, Container Queries, WebAIM, HTML-санитайзер, Bun
+
+date: 2024-04-08T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:03:27
+    title: 'Бета Safari 17.5'
+  - time: 00:12:50
+    title: 'Learn JS'
+  - time: 00:16:16
+    title: 'Как помочь CSS'
+  - time: 00:30:51
+    title: 'Сигналы в JS'
+  - time: 00:48:52
+    title: 'Container Queries'
+  - time: 01:05:41
+    title: 'WebAIM Million'
+  - time: 01:29:25
+    title: 'HTML-санитайзер'
+  - time: 01:35:36
+    title: 'Bun 1.1'
+  - time: 01:51:23
+    title: 'Ответы на вопросы'
+
+duration: 02:01:55
