@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1088 576">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1088 640">
 	<defs>
 		<style>
 			:root {
@@ -9,6 +9,7 @@
 				--color-cyan: #88edda;
 				--color-blue: #9de3ff;
 				--color-violet: #edc7ff;
+				--color-indigo: #b2b2ff;
 
 				--line-color: #000;
 				--back-color: #fff;
@@ -22,14 +23,6 @@
 
 			@media (prefers-color-scheme: dark) {
 				:root {
-					--color-red: #bd8796;
-					--color-orange: #bd8b75;
-					--color-yellow: #b0954a;
-					--color-green: #7da667;
-					--color-cyan: #44ac9b;
-					--color-blue: #5ea3bd;
-					--color-violet: #ac88bd;
-
 					--line-color: #fff;
 					--back-color: #333;
 					--text-color: #fff;
@@ -68,6 +61,12 @@
 				height: 32px;
 				translate: 208px -16px;
 			}
+
+			@media (prefers-color-scheme: dark) {
+				.path {
+					filter: brightness(0.75) saturate(1.1)
+				}
+			}
 		</style>
 
 		<line
@@ -101,8 +100,9 @@
 	<use href="#horizontal" y="336"/>
 	<use href="#horizontal" y="400"/>
 	<use href="#horizontal" y="464"/>
+	<use href="#horizontal" y="528"/>
 
-	<g transform="translate(16 528)">
+	<g transform="translate(16 592)">
 		<text x="208">2016</text>
 		<text x="304">2017</text>
 		<text x="400">2018</text>
@@ -190,6 +190,18 @@
 		<rect class="path" style="
 			fill: var(--color-violet);
 			--start-years: 6;
+			--current: 1;
+		"/>
+	</g>
+
+	<g transform="translate(0 528)">
+		<text class="name" x="192">
+			Полина Гуртовая
+		</text>
+		<rect class="path" style="
+			fill: var(--color-indigo);
+			--start-years: 8;
+			--start-months: 4;
 			--current: 1;
 		"/>
 	</g>
