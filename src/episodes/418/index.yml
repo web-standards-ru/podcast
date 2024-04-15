@@ -1,0 +1,35 @@
+title: DMA, Safari, заголовки, select, темы, JS в PDF, HTML, песочница в V8, CSS-миксины, Figma
+
+date: 2024-04-15T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Полина Гуртовая
+  - Никита Дубко
+  - Юля Миоцен
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:05:00
+    title: 'Как DMA помог браузерам'
+  - time: 00:13:26
+    title: 'Safari TP 192'
+  - time: 00:21:46
+    title: 'Уровни заголовков'
+  - time: 00:39:38
+    title: 'Select на стероидах'
+  - time: 00:45:40
+    title: 'Переключатель темы в браузере'
+  - time: 00:59:11
+    title: 'JS в PDF'
+  - time: 01:05:13
+    title: 'Svelte узнал HTML'
+  - time: 01:14:31
+    title: 'Песочница в V8'
+  - time: 01:21:39
+    title: 'CSS-миксины на слоях'
+  - time: 01:33:26
+    title: 'Figma развлекается'
+duration: 01:39:22
