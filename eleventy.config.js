@@ -1,10 +1,12 @@
-const fs = require('node:fs');
-const yaml = require('js-yaml');
-const htmlmin = require('html-minifier-terser');
-const markdown = require('markdown-it')({ html: true });
-const xml = require('minify-xml');
+import fs from 'node:fs';
+import yaml from 'js-yaml';
+import htmlmin from 'html-minifier-terser';
+import markdownIt from 'markdown-it';
+import xml from 'minify-xml';
 
-module.exports = (config) => {
+const markdown = markdownIt({ html: true });
+
+export default (config) => {
 	config.addDataExtension('yml', (contents) => {
 		return yaml.load(contents);
 	});
