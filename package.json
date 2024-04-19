@@ -1,4 +1,5 @@
 {
+	"name": "podcast",
 	"private": true,
 	"type": "module",
 	"scripts": {
