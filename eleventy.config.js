@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import yaml from 'js-yaml';
 import htmlmin from 'html-minifier-terser';
 import markdownIt from 'markdown-it';
-import xml from 'minify-xml';
+import minifyXml from 'minify-xml';
 
 const markdown = markdownIt({ html: true });
 
@@ -38,7 +38,7 @@ export default (config) => {
 
 	config.addTransform('xmlmin', (content, outputPath) => {
 		if (outputPath && outputPath.endsWith('.xml')) {
-			return xml.minify(content, {
+			return minifyXml(content, {
 				shortenNamespaces: false,
 			});
 		}
