@@ -20,6 +20,6 @@
 		"editorconfig-checker": "^5.1.1",
 		"html-minifier-terser": "^7.1.0",
 		"js-yaml": "^4.1.0",
-		"minify-xml": "3.5.0"
+		"minify-xml": "^4.4.1"
 	}
 }
