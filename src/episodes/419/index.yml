@@ -1,0 +1,35 @@
+title: Naked CSS/JS Day, новинки Firefox, Chrome и Edge, редактор Zed, Llama, JSON, будущее Node.js
+
+date: 2024-04-22T09:00
+
+hosts:
+  - Вадим Макеев
+  - Полина Гуртовая
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:31
+    title: 'Naked CSS/JS Day'
+  - time: 00:06:55
+    title: 'Firefox 125'
+  - time: 00:18:16
+    title: 'Chrome 124'
+  - time: 00:31:24
+    title: 'Chrome Beta 125'
+  - time: 00:36:52
+    title: 'Edge Dashboard'
+  - time: 00:49:17
+    title: 'Редактор Zed'
+  - time: 01:01:33
+    title: 'Локальная Llama'
+  - time: 01:08:23
+    title: 'JSON с комментами'
+  - time: 01:16:20
+    title: 'Будущее Node.js'
+  - time: 01:37:23
+    title: 'Новинки Node.js 22'
+
+duration: 01:44:00
