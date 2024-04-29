@@ -1,0 +1,30 @@
+title: Google I/O и Config, Translation API, Figma, Invokers, альты, атрибуты/свойства, бета React 19
+
+date: 2024-04-29T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Юля Миоцен
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:02:09
+    title: 'Google I/O и Config'
+  - time: 00:09:32
+    title: 'Translation API'
+  - time: 00:19:57
+    title: 'Новости Figma'
+  - time: 00:30:01
+    title: 'Invokers'
+  - time: 00:47:31
+    title: 'Длинные альты'
+  - time: 00:56:48
+    title: 'Атрибуты и свойства'
+  - time: 01:06:37
+    title: 'Бета React 19'
+  - time: 01:23:59
+    title: 'Ответы на вопросы'
+
+duration: 01:29:58
