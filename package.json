@@ -10,7 +10,7 @@
 		"feed": "cd dist && rsync --archive --compress index.xml wst@web-standards.ru:/var/www/web-standards.ru/podcast/feed/",
 		"deploy": "npm run mp3 && npm run cover && npm run feed",
 		"new": "cp -r src/template src/episodes/$npm_config_episode",
-		"file-size": "node src/scripts/file-size.js"
+		"file-size": "node scripts/file-size.js"
 	},
 	"engines": {
 		"node": ">=16",
