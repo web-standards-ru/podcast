@@ -27,7 +27,7 @@ export default (config) => {
 		return markdown.renderInline(value);
 	});
 
-	config.addFilter('htmlmin', async (value) => {
+	config.addFilter('htmlmin', async value => {
 		return await htmlmin.minify(
 			value, {
 				collapseWhitespace: true,
@@ -53,6 +53,6 @@ export default (config) => {
 			input: 'src',
 			output: 'dist',
 			data: 'data',
-		}
+		},
 	};
 };

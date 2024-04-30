@@ -1,4 +1,4 @@
-name: EditorConfig
+name: ESLint
 
 on:
   pull_request:
@@ -15,4 +15,4 @@ jobs:
         with:
           node-version: 20
       - run: npm ci
-      - run: npx editorconfig-checker
+      - run: npx eslint
