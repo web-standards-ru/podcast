@@ -16,13 +16,13 @@ const folderMediaPath = path.join('src', 'mp3');
 
 const dir = fs.opendirSync(folderDataPath, {
 	encoding: 'utf-8',
-	withFileTypes: true
+	withFileTypes: true,
 });
 
 try {
 	let item = null;
 
-	while (item = dir.readSync()) {
+	while ((item = dir.readSync())) {
 		if (!item.isDirectory()) {
 			continue;
 		}
