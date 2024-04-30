@@ -4,7 +4,7 @@ const episode = Number(process.env.npm_config_episode);
 
 if (!episode) {
 	console.error(
-		"Please, set the episode variable. For example, `npm run new --episode=417`"
+		"Нужен номер эпизода, например: npm run new --episode=417"
 	);
 	process.exit(1);
 }
