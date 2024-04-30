@@ -12,8 +12,8 @@
 		"new": "node scripts/new.js"
 	},
 	"engines": {
-		"node": ">=16",
-		"npm": ">=8"
+		"node": ">=20",
+		"npm": ">=10"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^3.0.0-alpha.6",
