@@ -9,11 +9,11 @@
 		"cover": "cd src && rsync --archive --compress cover.png wst@web-standards.ru:/var/www/web-standards.ru/podcast/",
 		"feed": "cd dist && rsync --archive --compress index.xml wst@web-standards.ru:/var/www/web-standards.ru/podcast/feed/",
 		"deploy": "npm run mp3 && npm run cover && npm run feed",
-		"new": "cp -r src/template src/episodes/$npm_config_episode"
+		"new": "node scripts/new.js"
 	},
 	"engines": {
-		"node": ">=16",
-		"npm": ">=8"
+		"node": ">=20",
+		"npm": ">=10"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^3.0.0-alpha.6",
