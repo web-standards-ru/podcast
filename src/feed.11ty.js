@@ -11,32 +11,32 @@ export default {
 				const hosts = episode.data.hosts.join(', ');
 				return `
 					<item>
-						<title>${ episode.fileSlug }. ${ episode.data.title }</title>
-						<link>${ data.meta.url }${ episode.fileSlug }/</link>
-						<pubDate>${ episode.date.toUTCString() }</pubDate>
+						<title>${episode.fileSlug}. ${episode.data.title}</title>
+						<link>${data.meta.url}${episode.fileSlug}/</link>
+						<pubDate>${episode.date.toUTCString()}</pubDate>
 						<description><![CDATA[<h2>Ведущие</h2><p>${
 							hosts
 						}</p>${
 							episode.data.chapters ?
 								`<h2>Темы</h2><ul>${
 									episode.data.chapters
-										.map(chapter => `<li>${ chapter.time } ${ chapter.title }</li>`)
+										.map(chapter => `<li>${chapter.time} ${chapter.title}</li>`)
 										.join('')
 								}</ul>`
 							: ''
 						}${
 							await this.htmlmin(episode.content)
 						}]]></description>
-						<guid isPermaLink="true">${ data.meta.url }episodes/${ episode.fileSlug }.mp3</guid>
+						<guid isPermaLink="true">${data.meta.url}episodes/${episode.fileSlug}.mp3</guid>
 						<enclosure
 							type="audio/mpeg"
-							url="${ data.meta.url }episodes/${ episode.fileSlug }.mp3"
-							length="${ this.length(`src/mp3/${ episode.fileSlug }.mp3`) }"
+							url="${data.meta.url}episodes/${episode.fileSlug}.mp3"
+							length="${this.length(`src/mp3/${episode.fileSlug}.mp3`)}"
 						/>
-						<itunes:episode>${ episode.fileSlug }</itunes:episode>
-						<itunes:duration>${ this.duration(episode.data.duration) }</itunes:duration>
-						<itunes:author>${ hosts }</itunes:author>
-						<itunes:explicit>${ data.meta.explicit }</itunes:explicit>
+						<itunes:episode>${episode.fileSlug}</itunes:episode>
+						<itunes:duration>${this.duration(episode.data.duration)}</itunes:duration>
+						<itunes:author>${hosts}</itunes:author>
+						<itunes:explicit>${data.meta.explicit}</itunes:explicit>
 						<itunes:summary>${
 							episode.date.toLocaleString('ru', {
 								year: 'numeric',
@@ -48,9 +48,9 @@ export default {
 						}. ${
 							hosts
 						}</itunes:summary>
-						<itunes:image href="${ data.meta.url }cover.png"/>
+						<itunes:image href="${data.meta.url}cover.png"/>
 					</item>
-				`
+				`;
 			}
 		));
 
@@ -67,39 +67,39 @@ export default {
 				xmlns:content="http://purl.org/rss/1.0/modules/content/"
 			>
 				<channel>
-					<title>${ data.meta.title }</title>
+					<title>${data.meta.title}</title>
 					<description><![CDATA[${
 						this.markdown(data.meta.description)
 					}]]></description>
-					<copyright>${ data.meta.copyright }</copyright>
-					<language>${ data.meta.language }</language>
-					<link>${ data.meta.url }</link>
+					<copyright>${data.meta.copyright}</copyright>
+					<language>${data.meta.language}</language>
+					<link>${data.meta.url}</link>
 
-					<atom:link href="${ data.meta.url }feed/" rel="self" type="application/rss+xml"/>
+					<atom:link href="${data.meta.url}feed/" rel="self" type="application/rss+xml"/>
 
-					<itunes:subtitle>${ data.meta.subtitle }</itunes:subtitle>
-					<itunes:type>${ data.meta.type }</itunes:type>
-					<itunes:author>${ data.meta.author }</itunes:author>
-					<itunes:explicit>${ data.meta.explicit }</itunes:explicit>
+					<itunes:subtitle>${data.meta.subtitle}</itunes:subtitle>
+					<itunes:type>${data.meta.type}</itunes:type>
+					<itunes:author>${data.meta.author}</itunes:author>
+					<itunes:explicit>${data.meta.explicit}</itunes:explicit>
 					<itunes:owner>
-						<itunes:name>${ data.meta.owner.name }</itunes:name>
-						<itunes:email>${ data.meta.owner.email }</itunes:email>
+						<itunes:name>${data.meta.owner.name}</itunes:name>
+						<itunes:email>${data.meta.owner.email}</itunes:email>
 					</itunes:owner>
-					<itunes:image href="${ data.meta.url }cover.png"/>
+					<itunes:image href="${data.meta.url}cover.png"/>
 
 					${
 						data.meta.categories
-							.map(category => `<itunes:category text="${ category.title }">${
+							.map(category => `<itunes:category text="${category.title}">${
 								category.items ? category.items.map(
-									category => `<itunes:category text="${ category }"/>`
+									category => `<itunes:category text="${category}"/>`
 								).join('') : ''
 							}</itunes:category>`)
 							.join('')
 					}
 
-					${ await this.getEpisodes(data) }
+					${await this.getEpisodes(data)}
 				</channel>
 			</rss>
 		`;
-	}
+	},
 };

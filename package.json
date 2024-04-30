@@ -3,23 +3,26 @@
 	"private": true,
 	"type": "module",
 	"scripts": {
-		"test": "editorconfig-checker",
+		"test": "editorconfig-checker && eslint",
 		"build": "eleventy",
 		"mp3": "cd src/mp3 && rsync --progress --archive --compress --delete --delete-excluded --exclude .DS_Store . wst@web-standards.ru:/var/www/web-standards.ru/podcast/episodes/",
 		"cover": "cd src && rsync --archive --compress cover.png wst@web-standards.ru:/var/www/web-standards.ru/podcast/",
 		"feed": "cd dist && rsync --archive --compress index.xml wst@web-standards.ru:/var/www/web-standards.ru/podcast/feed/",
 		"deploy": "npm run mp3 && npm run cover && npm run feed",
-		"new": "cp -r src/template src/episodes/$npm_config_episode",
+		"new": "node scripts/new.js",
 		"file-size": "node scripts/file-size.js"
 	},
 	"engines": {
-		"node": ">=16",
-		"npm": ">=8"
+		"node": "20",
+		"npm": "10"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^3.0.0-alpha.6",
+		"@eslint/js": "^9.1.1",
+		"@stylistic/eslint-plugin-js": "^1.8.0",
 		"editorconfig-checker": "^5.1.1",
 		"get-mp3-duration": "^1.0.0",
+		"globals": "^15.1.0",
 		"html-minifier-terser": "^7.1.0",
 		"js-yaml": "^4.1.0",
 		"minify-xml": "^4.4.1"
