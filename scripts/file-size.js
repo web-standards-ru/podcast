@@ -37,7 +37,7 @@ try {
 		const mediaFilePath = path.join(folderMediaPath, item.name + '.mp3');
 
 		if (!isFileExist(mediaFilePath)) {
-			console.log(`В папке '${folderMediaPath}' не найден mp3-файл`);
+			console.log(`Файл '${mediaFilePath}' не найден`);
 			continue;
 		}
 
