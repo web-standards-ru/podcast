@@ -1,0 +1,3 @@
+npm run test && \
+npm run file-size && \
+git add .
