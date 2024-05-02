@@ -45,7 +45,7 @@ try {
 		const fileSize = fileBuffer.byteLength;
 		const duration = getMP3Duration(fileBuffer);
 
-		const dataToSave = JSON.stringify({ fileSize, duration }, null, '\t');
+		const dataToSave = JSON.stringify({ fileSize, duration }, null, '\t') + '\n';
 		fs.writeFileSync(dataFilePath, dataToSave, 'utf-8');
 	}
 } finally {
