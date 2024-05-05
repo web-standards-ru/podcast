@@ -18,6 +18,10 @@ export default (config) => {
 	});
 
 	config.addFilter('duration', (time) => {
+		if (typeof time === 'number') {
+			return Math.round(time / 1000);
+		}
+
 		return time.split(':').reduceRight((acc, item, index, items) => {
 			return acc += parseFloat(item) * Math.pow(60, items.length - 1 - index);
 		}, 0);
