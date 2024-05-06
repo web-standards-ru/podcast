@@ -1,0 +1,32 @@
+title: PWA с табами, Гугл и куки, Masonry, Arc на Windows, iPad виноват, Deno, Copilot, local-first
+
+date: 2024-05-06T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Полина Гуртовая
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:46
+    title: 'PWA с табами'
+  - time: 00:06:48
+    title: 'Гугл и куки'
+  - time: 00:16:38
+    title: 'Выборы Masonry'
+  - time: 00:39:49
+    title: 'Arc на Windows'
+  - time: 00:42:06
+    title: 'iPad тоже виноват'
+  - time: 00:46:41
+    title: 'Новости Deno'
+  - time: 00:53:18
+    title: 'Copilot Workspace'
+  - time: 01:23:53
+    title: 'Local-first'
+  - time: 01:40:02
+    title: 'Ответы на вопросы'
+
+duration: 01:44:31
