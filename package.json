@@ -18,9 +18,9 @@
 		"npm": "10"
 	},
 	"devDependencies": {
-		"@11ty/eleventy": "^3.0.0-alpha.6",
+		"@11ty/eleventy": "^3.0.0-alpha.10",
 		"@eslint/js": "^9.1.1",
-		"@stylistic/eslint-plugin-js": "^1.8.0",
+		"@stylistic/eslint-plugin-js": "^2.1.0",
 		"editorconfig-checker": "^5.1.1",
 		"get-mp3-duration": "^1.0.0",
 		"globals": "^15.1.0",
