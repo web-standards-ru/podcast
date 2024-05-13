@@ -1,0 +1,31 @@
+title: Поиск по странице, Safari, Scroll-Driven Animations, фигуры, серверные компоненты и CSS, Wasm
+
+date: 2024-05-13T09:00
+
+hosts:
+  - Полина Гуртовая
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:02:56
+    title: 'CSS для поиска по странице'
+  - time: 00:10:58
+    title: 'Safari TP'
+  - time: 00:19:37
+    title: 'Scroll-Driven Animations'
+  - time: 00:31:37
+    title: 'Современные CSS-фигуры'
+  - time: 00:39:31
+    title: 'Серверные компоненты и CSS'
+  - time: 00:55:33
+    title: 'Всё новое в цветах'
+  - time: 00:59:26
+    title: 'Wasm vs. Docker'
+  - time: 01:09:21
+    title: 'Wasm для VS Code'
+
+duration: 01:15:54
