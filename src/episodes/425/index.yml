@@ -1,0 +1,29 @@
+title: Font-smoothing, @property, LLM в Firefox, details, Edge без React, HTML, SVG-заброшка, ESLint 9
+
+date: 2024-06-03T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:54
+    title: 'Font-smoothing в Firefox'
+  - time: 00:09:49
+    title: 'Firefox внедряет @property'
+  - time: 00:22:22
+    title: 'LLM для альтов в Firefox'
+  - time: 00:35:30
+    title: 'Стилизация details'
+  - time: 00:41:56
+    title: 'Edge без React'
+  - time: 00:53:53
+    title: 'HTML для разработчиков'
+  - time: 00:59:15
+    title: 'SVG-заброшка'
+  - time: 01:19:24
+    title: 'Миграция на ESLint 9'
+
+duration: 01:27:24
