@@ -1,0 +1,26 @@
+title: Нативная карусель, WebAssembly JSPI, стили popover/dialog, просто htmx, gap и cap в CSS
+
+date: 2024-06-10T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Полина Гуртовая
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:07
+    title: 'Нативная карусель'
+  - time: 00:16:43
+    title: 'WebAssembly JSPI'
+  - time: 00:28:39
+    title: 'Стили popover/dialog'
+  - time: 00:43:05
+    title: 'Просто htmx'
+  - time: 01:04:17
+    title: 'Gap и cap в CSS'
+  - time: 01:16:53
+    title: 'Ответы на вопросы'
+
+duration: 01:29:27
