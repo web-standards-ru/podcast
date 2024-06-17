@@ -1,0 +1,26 @@
+title: Chrome 126, элемент permission, Firefox 127, бета Safari 18, CSS-эксплейнеры, Node.js 22
+
+date: 2024-06-17T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:38
+    title: 'Chrome 126'
+  - time: 00:20:51
+    title: 'Элемент permission'
+  - time: 00:37:23
+    title: 'Firefox 127'
+  - time: 00:56:52
+    title: 'Бета Safari 18'
+  - time: 01:26:13
+    title: 'CSS-эксплейнеры'
+  - time: 01:41:46
+    title: 'Node.js 22'
+
+duration: 01:47:20
