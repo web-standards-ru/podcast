@@ -1,0 +1,32 @@
+title: Safari TP, LoAF, Ladybird, MDN HTTP Observatory, SVGWG, Prompt API, планы ESLint, хорошие формы
+
+date: 2024-07-08T09:00
+
+hosts:
+  - Полина Гуртовая
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:16
+    title: 'Где нас слушать'
+  - time: 00:02:42
+    title: 'Safari TP'
+  - time: 00:08:06
+    title: 'LoAF в Chrome'
+  - time: 00:24:51
+    title: 'Браузер Ladybird'
+  - time: 00:45:24
+    title: 'MDN HTTP Observatory'
+  - time: 00:58:43
+    title: 'SVG Working Group'
+  - time: 01:04:34
+    title: 'Prompt API'
+  - time: 01:25:17
+    title: 'Планы ESLint'
+  - time: 01:36:19
+    title: 'Хорошие формы'
+
+duration: 01:50:57
