@@ -1,0 +1,27 @@
+title: Firefox 128, особенный доступ Chromium, Interop 2024, Zed на Linux, View Transition и GitHub
+
+date: 2024-07-15T09:00
+
+hosts:
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:50
+    title: 'Firefox 128'
+  - time: 00:25:53
+    title: 'Особенный доступ Chromium'
+  - time: 00:45:03
+    title: 'Как дела у Interop 2024'
+  - time: 01:05:23
+    title: 'Редактор Zed на Linux'
+  - time: 01:14:19
+    title: 'Непонятки View Transition'
+  - time: 01:37:59
+    title: 'Усталость от GitHub'
+  - time: 01:52:50
+    title: 'Ответы на вопросы'
+
+duration: 02:01:08
