@@ -1,0 +1,32 @@
+title: Доклады и лайвы, приватный Safari, анимация auto, SVG, ускорение Notion, Node.js, шрифты, React
+
+date: 2024-07-22T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Полина Гуртовая
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:02:17
+    title: 'Доклады и лайвы'
+  - time: 00:08:22
+    title: 'Такой приватный Safari'
+  - time: 00:45:37
+    title: 'Анимация height: auto'
+  - time: 00:55:00
+    title: 'Копирование SVG'
+  - time: 01:00:20
+    title: 'Ускорение Notion'
+  - time: 01:16:03
+    title: 'Node.js 22'
+  - time: 01:23:46
+    title: 'Инкрементальные шрифты'
+  - time: 01:44:28
+    title: 'State of React 2023'
+  - time: 01:55:32
+    title: 'Ответы на вопросы'
+
+duration: 02:03:10
