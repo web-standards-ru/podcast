@@ -1,0 +1,30 @@
+title: Chrome 127, reading-flow, Google и куки, Invoker Commands, Слёт TC39, TS в Node.js, Zed норм
+
+date: 2024-07-28T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:38
+    title: 'Chrome 127 и DevTools'
+  - time: 00:20:53
+    title: 'Reading-flow'
+  - time: 00:34:16
+    title: 'Google не отдаст куки'
+  - time: 00:49:20
+    title: 'Invoker Commands'
+  - time: 01:00:38
+    title: 'Слёт TC39'
+  - time: 01:14:20
+    title: 'TypeScript в Node.js'
+  - time: 01:28:52
+    title: 'Zed стал норм'
+  - time: 01:33:01
+    title: 'Ответы на вопросы'
+
+duration: 01:39:43
