@@ -1,0 +1,29 @@
+title: Safari, Astro, бета TS 5.6, CSS-нестинг, handwriting, Google и SPA, Deno неправ, выход из веба
+
+date: 2024-08-06T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:46
+    title: 'Safari 17.6 и TP'
+  - time: 00:06:33
+    title: 'Astro Server Islands'
+  - time: 00:15:55
+    title: 'Бета TypeScript 5.6'
+  - time: 00:29:23
+    title: 'Фикс для CSS-нестинга'
+  - time: 00:41:21
+    title: 'Атрибут handwriting'
+  - time: 00:45:17
+    title: 'Google индексирует SPA'
+  - time: 01:06:59
+    title: 'Deno был неправ'
+  - time: 01:19:29
+    title: 'Как выйти из веба'
+
+duration: 01:36:30
