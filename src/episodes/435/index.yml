@@ -1,0 +1,29 @@
+title: Firefox 129 и WebDriver BiDi, бета Chrome 128, import maps, JS-рантаймы, Chrome на iOS и ваниль
+
+date: 2024-08-12T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Андрей Мелихов
+  - Полина Гуртовая
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:15
+    title: 'Избавились от Gulp'
+  - time: 00:03:19
+    title: 'Firefox 129 и WebDriver BiDi'
+  - time: 00:29:02
+    title: 'Бета Chrome 128'
+  - time: 00:49:19
+    title: 'Dynamic import maps'
+  - time: 01:04:17
+    title: 'Какой JS-рантайм быстрее'
+  - time: 01:16:34
+    title: 'Нативный Chrome на iOS'
+  - time: 01:24:40
+    title: 'Ванильный дауншифтинг'
+
+duration: 01:48:10
