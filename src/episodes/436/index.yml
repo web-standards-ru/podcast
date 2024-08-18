@@ -1,0 +1,29 @@
+title: Safari, View Transitions, Chrome AI, Override, blocking=render, веб умирает, шрифт с подсветкой
+
+date: 2024-08-19T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:31
+    title: 'Safari TP 201'
+  - time: 00:05:40
+    title: 'Работа над View Transitions'
+  - time: 00:09:04
+    title: 'AI в Chrome'
+  - time: 00:22:16
+    title: 'Resource Override'
+  - time: 00:35:05
+    title: 'Зачем blocking=render'
+  - time: 00:57:10
+    title: 'Веб умирает'
+  - time: 01:20:28
+    title: 'Шрифт с подсветкой кода'
+  - time: 01:33:35
+    title: 'Ответы на вопросы'
+
+duration: 01:37:04
