@@ -1,0 +1,33 @@
+title: State of CSS, Chrome 128, выбор браузеров iOS, тёмные темы, Corepack, JPEG XL, прозрачное видео
+
+date: 2024-08-26T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:53
+    title: 'State of CSS 2024'
+  - time: 00:05:03
+    title: 'Новинки Chrome 128'
+  - time: 00:18:21
+    title: 'DevTools в Chrome'
+  - time: 00:29:04
+    title: 'Выбор браузеров на iOS'
+  - time: 00:40:39
+    title: 'Тёмные темы и компоненты'
+  - time: 00:56:11
+    title: 'Corepack уходит из Node.js'
+  - time: 01:07:49
+    title: 'JPEG XL в iPhone 16'
+  - time: 01:19:32
+    title: 'Прозрачность в видео'
+  - time: 01:31:58
+    title: 'Ответы на вопросы'
+
+duration: 01:35:45
