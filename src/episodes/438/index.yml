@@ -1,0 +1,24 @@
+title: Safari TP 202, доступность в интеропе, autocorrect, чего не хватает в CSS, что нужно RSS
+
+date: 2024-09-02T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Полина Гуртовая
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:15
+    title: 'Новинки Safari TP 202'
+  - time: 00:26:17
+    title: 'Доступность в интеропе'
+  - time: 00:42:10
+    title: 'Атрибут autocorrect'
+  - time: 00:53:44
+    title: 'Чего не хватает в CSS'
+  - time: 01:32:58
+    title: 'Что нужно RSS'
+
+duration: 01:52:20
