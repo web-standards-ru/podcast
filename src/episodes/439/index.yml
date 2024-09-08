@@ -1,0 +1,29 @@
+title: Firefox 130, JPEG XL, бета Chrome 129, Google Fonts, темы и схемы, как убрать SVG из JS
+
+date: 2024-09-09T09:00
+
+hosts:
+  - Вадим Макеев
+  - Полина Гуртовая
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:15
+    title: 'Firefox 130'
+  - time: 00:19:25
+    title: 'Безопасный JPEG XL'
+  - time: 00:32:38
+    title: 'Бета Chrome 129'
+  - time: 00:46:30
+    title: 'С Google Fonts или без'
+  - time: 01:04:12
+    title: 'Темы и схемы'
+  - time: 01:23:52
+    title: 'Как убрать SVG из JS'
+  - time: 01:50:23
+    title: 'Ответы на вопросы'
+
+duration: 01:54:34
