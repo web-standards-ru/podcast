@@ -1,0 +1,36 @@
+title: State of HTML, Safari, iPadOS, FID, селект, будущее CSS, ES, Interest Invokers, Express 5, SSR
+
+date: 2024-09-17T09:00
+
+hosts:
+  - Никита Дубко
+  - Алексей Симоненко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:22
+    title: 'State of HTML'
+  - time: 00:04:39
+    title: 'Safari TP 203'
+  - time: 00:20:12
+    title: 'iPadOS 18 в Европе'
+  - time: 00:29:57
+    title: 'FID уходит'
+  - time: 00:36:58
+    title: 'Стилизуемый селект'
+  - time: 00:50:24
+    title: 'CSS Values and Units L5'
+  - time: 01:16:30
+    title: 'Stage 2.7 в ES'
+  - time: 01:28:44
+    title: 'Interest Invokers'
+  - time: 01:38:32
+    title: 'Express 5.0'
+  - time: 01:56:46
+    title: 'Самый быстрый SSR'
+  - time: 02:09:47
+    title: 'Ответы на вопросы'
+
+duration: 02:17:23
