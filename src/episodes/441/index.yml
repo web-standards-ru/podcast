@@ -1,0 +1,26 @@
+title: Дырявый Arc, Chrome 129, Safari 18, новости Baseline, Deno 2.0 RC
+
+date: 2024-09-23T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:38
+    title: 'Дырявый Arc'
+  - time: 00:14:50
+    title: 'Chrome 129'
+  - time: 00:24:40
+    title: 'Safari 18'
+  - time: 01:07:59
+    title: 'Новости Baseline'
+  - time: 01:18:22
+    title: 'Deno 2.0 RC'
+  - time: 01:33:59
+    title: 'Ответы на вопросы'
+
+duration: 01:40:40
