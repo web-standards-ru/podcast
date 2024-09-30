@@ -1,0 +1,24 @@
+title: CSS masonry, Express 5.0, Speed Brain CloudFlare, новый дэшборд BCD Watch, очень сложный блог
+
+date: 2024-09-30T09:00
+
+hosts:
+  - Никита Дубко
+  - Алексей Симоненко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:23
+    title: 'Выбираем CSS masonry'
+  - time: 00:27:34
+    title: 'Подробности про Express 5.0'
+  - time: 00:42:20
+    title: 'Speed Brain от CloudFlare'
+  - time: 01:00:14
+    title: 'Новый дэшборд BCD Watch'
+  - time: 01:07:44
+    title: 'Очень сложный блог'
+
+duration: 01:28:14
