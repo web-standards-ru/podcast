@@ -1,0 +1,33 @@
+title: Safari TP, select, Style Queries, Deno, Figma, CSS-демки, скринридеры, перфоманс CSS-селекторов
+
+date: 2024-10-14T09:00
+
+hosts:
+  - Вадим Макеев
+  - Никита Дубко
+  - Юлия Миоцен
+  - Алексей Симоненко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:15
+    title: 'Safari TP'
+  - time: 00:10:28
+    title: 'Стилизуемый select'
+  - time: 00:30:12
+    title: 'Кейс для Style Queries'
+  - time: 00:43:24
+    title: 'Маркетинг Deno'
+  - time: 01:03:17
+    title: 'Переобувание Figma'
+  - time: 01:13:26
+    title: 'Свежие CSS-демки'
+  - time: 01:19:30
+    title: 'Совместимость скринридеров'
+  - time: 01:27:04
+    title: 'Перфоманс CSS-селекторов'
+  - time: 01:36:07
+    title: 'Ответы на вопросы'
+duration: 01:43:42
