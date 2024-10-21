@@ -1,0 +1,27 @@
+title: State of CSS, флексы на лице, Chrome 130, Node.js 22 и 23, JS0 и JSSugar, гиперреализм
+
+date: 2024-10-21T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Юлия Миоцен
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:08
+    title: 'Результаты State of CSS'
+  - time: 00:25:17
+    title: 'Флексы на лице'
+  - time: 00:27:40
+    title: 'Chrome 130'
+  - time: 00:41:37
+    title: 'Node.js 22 и 23'
+  - time: 01:00:31
+    title: 'JS0 и JSSugar'
+  - time: 01:26:03
+    title: 'Гиперреализм'
+
+duration: 01:36:11
