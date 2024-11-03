@@ -1,0 +1,30 @@
+title: Safari, опять masonry, Svelte 5, Next.js 15, тулинг на чужих языках, Zed и GitHub Universe
+
+date: 2024-11-04T09:00
+
+hosts:
+  - Полина Гуртовая
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:14
+    title: 'Короче'
+  - time: 00:01:57
+    title: 'Safari 18.1 и 18.2'
+  - time: 00:14:20
+    title: 'Опять masonry'
+  - time: 00:29:06
+    title: 'Svelte 5'
+  - time: 00:39:18
+    title: 'Next.js 15'
+  - time: 00:52:14
+    title: 'Тулинг на чужих языках'
+  - time: 01:11:52
+    title: 'Новинки редактора Zed'
+  - time: 01:21:18
+    title: 'GitHub Universe'
+
+duration: 01:40:24
