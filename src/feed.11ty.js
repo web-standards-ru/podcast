@@ -18,11 +18,11 @@ export default {
 							hosts
 						}</p>${
 							episode.data.chapters ?
-								`<p>Темы</p><p>${
+								`<p>Темы</p><ul>${
 									episode.data.chapters
-										.map(chapter => `${chapter.time} ${chapter.title}`)
-										.join('<br>')
-								}</p>`
+										.map(chapter => `<li>${chapter.time} ${chapter.title}</li>`)
+										.join('')
+								}</ul>`
 							: ''
 						}${
 							await this.htmlmin(episode.content)
