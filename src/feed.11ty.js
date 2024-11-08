@@ -14,15 +14,15 @@ export default {
 						<title>${episode.fileSlug}. ${episode.data.title}</title>
 						<link>${data.meta.url}${episode.fileSlug}/</link>
 						<pubDate>${episode.date.toUTCString()}</pubDate>
-						<description><![CDATA[<h2>Ведущие</h2><p>${
+						<description><![CDATA[<p>Ведущие: ${
 							hosts
 						}</p>${
 							episode.data.chapters ?
-								`<h2>Темы</h2><ul>${
+								`<p>Темы</p><p>${
 									episode.data.chapters
-										.map(chapter => `<li>${chapter.time} ${chapter.title}</li>`)
-										.join('')
-								}</ul>`
+										.map(chapter => `${chapter.time} ${chapter.title}`)
+										.join('<br>')
+								}</p>`
 							: ''
 						}${
 							await this.htmlmin(episode.content)

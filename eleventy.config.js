@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import yaml from 'js-yaml';
 import htmlmin from 'html-minifier-terser';
 import markdownIt from 'markdown-it';
+import { stripHeadings, stripLists } from './scripts/strip-tags.js';
 import minifyXml from 'minify-xml';
 
 const markdown = markdownIt({ html: true });
@@ -51,6 +52,12 @@ export default (config) => {
 	});
 
 	config.ignores.add('src/template');
+
+	config.amendLibrary('md', (markdown) => {
+		markdown
+			.use(stripHeadings)
+			.use(stripLists);
+	});
 
 	return {
 		dir: {
