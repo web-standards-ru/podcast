@@ -1,0 +1,25 @@
+title: 'Safari TP 207, мгновенная навигация, опасный npm, безголовые компоненты, width: stretch'
+
+date: 2024-11-11T09:00
+
+hosts:
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:15
+    title: 'Safari TP 207'
+  - time: 00:10:01
+    title: 'Мгновенная навигация'
+  - time: 00:36:03
+    title: 'Опасный npm'
+  - time: 00:51:28
+    title: 'Безголовые компоненты'
+  - time: 01:12:41
+    title: 'Width: stretch'
+  - time: 01:18:45
+    title: 'Ответы на вопросы'
+
+duration: 01:27:15
