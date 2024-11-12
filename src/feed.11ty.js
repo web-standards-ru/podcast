@@ -20,7 +20,7 @@ export default {
 							episode.data.chapters ?
 								`<p>Темы</p><p>${
 									episode.data.chapters
-										.map(chapter => `${chapter.time} ${chapter.title}<br/>`)
+										.map(chapter => `${chapter.time} ${chapter.title}<br>`)
 										.join('')
 								}</p>`
 							: ''

@@ -48,7 +48,7 @@ function stripLists(md) {
 				token.children.unshift(bulletToken);
 
 				const breakToken = new state.Token('html_inline', '', 0);
-				breakToken.content = '<br/>';
+				breakToken.content = '<br>';
 				token.children.push(breakToken);
 			}
 
