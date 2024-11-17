@@ -1,0 +1,25 @@
+title: Chrome 131 и DevTools, HDR в EXIF, результаты State of HTML, куки из Web Almanac
+
+date: 2024-11-18T09:00
+
+hosts:
+  - Никита Дубко
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:23
+    title: 'Chrome 131'
+  - time: 00:20:06
+    title: 'Chrome DevTools'
+  - time: 00:33:12
+    title: 'HDR в EXIF'
+  - time: 00:49:54
+    title: 'Результаты State of HTML'
+  - time: 01:27:22
+    title: 'Куки из Web Almanac'
+  - time: 01:53:28
+    title: 'Ответы на вопросы'
+
+duration: 01:58:18
