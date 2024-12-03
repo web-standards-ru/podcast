@@ -1,0 +1,25 @@
+title: Адвент-календари, Firefox, сложности Interop, новые фичи, Zed, как отобрать JavaScript у Oracle
+
+date: 2024-12-03T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:15
+    title: 'Адвент-календари'
+  - time: 00:04:44
+    title: 'Firefox 132 и 133'
+  - time: 00:34:05
+    title: 'Сложности Interop'
+  - time: 00:55:04
+    title: 'Когда радоваться новым фичам'
+  - time: 01:11:14
+    title: 'Zed и внешние контексты'
+  - time: 01:27:55
+    title: 'Отобрать JavaScript у Oracle'
+
+duration: 01:37:24
