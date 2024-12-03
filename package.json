@@ -14,8 +14,7 @@
 		"prepare": "husky || true"
 	},
 	"engines": {
-		"node": "20",
-		"npm": "10"
+		"node": "20"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^3.0.0",
