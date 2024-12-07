@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1088 640">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1184 640">
 	<defs>
 		<style>
 			:root {
@@ -73,13 +73,13 @@
 			id="vertical"
 			class="line vertical"
 			x1="0" y1="0"
-			x2="0" y2="576"
+			x2="0" y2="640"
 		/>
 		<line
 			id="horizontal"
 			class="line horizontal"
 			x1="208" y1="0"
-			x2="1088" y2="0"
+			x2="1184" y2="0"
 		/>
 	</defs>
 
@@ -92,6 +92,7 @@
 	<use href="#vertical" x="784"/>
 	<use href="#vertical" x="880"/>
 	<use href="#vertical" x="976"/>
+	<use href="#vertical" x="1072"/>
 
 	<use href="#horizontal" y="80"/>
 	<use href="#horizontal" y="144"/>
@@ -112,6 +113,7 @@
 		<text x="784">2022</text>
 		<text x="880">2023</text>
 		<text x="976">2024</text>
+		<text x="1072">2025</text>
 	</g>
 
 	<g transform="translate(0 80)">
