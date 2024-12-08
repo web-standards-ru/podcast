@@ -1,0 +1,23 @@
+title: Новинки CSS 2024, require ES-модулей, TypeScript 5.7, слоистая спекуляция, усталость от React
+
+date: 2024-12-09T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:07
+    title: 'Новинки CSS 2024'
+  - time: 00:33:51
+    title: 'Require ES-модулей'
+  - time: 00:48:44
+    title: 'TypeScript 5.7'
+  - time: 01:02:31
+    title: 'Слоистая спекуляция'
+  - time: 01:17:55
+    title: 'Усталость от React'
+
+duration: 01:28:30
