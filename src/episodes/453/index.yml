@@ -1,0 +1,26 @@
+title: Safari 18.2, Firefox без DNT, Baseline 2024, JS-движок Boa, Container Queries на Netflix
+
+date: 2024-12-16T09:00
+
+hosts:
+  - Алексей Симоненко
+  - Андрей Мелихов
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:23
+    title: 'Новинки Safari 18.2'
+  - time: 00:34:08
+    title: 'Firefox без DNT'
+  - time: 00:43:22
+    title: 'Baseline 2024'
+  - time: 01:06:34
+    title: 'Релиз JS-движка Boa'
+  - time: 01:13:10
+    title: 'Container Queries на Netflix'
+  - time: 01:22:35
+    title: 'Ответы на вопросы'
+
+duration: 01:26:56
