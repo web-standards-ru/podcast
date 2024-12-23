@@ -1,0 +1,22 @@
+title: CSS-вишлист, Custom Ident в CSS, наконец-то text-box-trim и State of JS 2024
+
+date: 2024-12-23T09:00
+
+hosts:
+  - Никита Дубко
+  - Алексей Симоненко
+  - Полина Гуртовая
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:53
+    title: 'CSS-вишлист'
+  - time: 00:33:44
+    title: 'Custom Ident в CSS'
+  - time: 00:48:57
+    title: 'Наконец-то text-box-trim'
+  - time: 01:02:53
+    title: 'State of JS 2024'
+
+duration: 02:02:52
