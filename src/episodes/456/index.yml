@@ -1,0 +1,26 @@
+title: Source maps, React 19, @keyframes, Веб-альманах, 3D кот на CSS, анимация неанимируемого
+
+date: 2025-01-06T09:00
+
+hosts:
+  - Никита Дубко
+  - Вадим Макеев
+  - Юлия Миоцен
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:23
+    title: 'Стандарт source maps'
+  - time: 00:08:05
+    title: 'Новинки React 19'
+  - time: 00:38:01
+    title: 'Гибкость @keyframes'
+  - time: 00:52:10
+    title: 'Разметка в Веб-альманахе'
+  - time: 01:34:26
+    title: '3D кот на CSS'
+  - time: 01:43:35
+    title: 'Анимация неанимируемого'
+
+duration: 01:49:57
