@@ -1,0 +1,29 @@
+title: Firefox 134, Node.js и TS, WinterTC, баланс текста, атрибуты импортов, JS Rising Stars
+
+date: 2025-01-13T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Алексей Симоненко
+  - Полина Гуртовая
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:18
+    title: 'Firefox 134'
+  - time: 00:11:48
+    title: 'Новости Node.js'
+  - time: 00:17:37
+    title: 'Нативный TS в Node.js'
+  - time: 00:33:43
+    title: 'WinterTC'
+  - time: 00:46:36
+    title: 'Баланс текста'
+  - time: 01:03:42
+    title: 'Атрибуты импортов'
+  - time: 01:14:55
+    title: 'JS Rising Stars'
+
+duration: 01:54:55
