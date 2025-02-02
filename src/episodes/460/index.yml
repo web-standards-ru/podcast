@@ -1,0 +1,24 @@
+title: Create React App точно всё, системные шрифты, сервер на Node.js, сжать весь npm, Electron
+
+date: 2025-02-03T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Алексей Симоненко
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:23
+    title: 'Create React App точно всё'
+  - time: 00:18:54
+    title: 'Системные шрифты'
+  - time: 00:33:30
+    title: 'Правильный сервер на Node.js'
+  - time: 00:49:13
+    title: 'Как сжать весь npm'
+  - time: 01:06:31
+    title: 'Вы не поняли Electron'
+
+duration: 01:25:46
