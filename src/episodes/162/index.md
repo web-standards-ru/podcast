@@ -24,10 +24,6 @@
 - [Third Party Web](https://github.com/patrickhulce/third-party-web)
 - [65% of all script execution on the web](https://twitter.com/patrickhulce/status/1093961183562997760)
 
-## JS прямо в CSS
-
-- [Houdini: JS in CSS](https://css-houdini.rocks/js-in-css/)
-
 ## Доступный TodoMVC
 
 - [Инклюзивные компоненты: список дел](https://medium.com/p/40a324436b3e)

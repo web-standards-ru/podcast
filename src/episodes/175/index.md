@@ -35,5 +35,4 @@
 
 ## New CSS via Houdini
 
-- [CSS Houdini Experiments](https://css-houdini.rocks/)
 - [W3C: CSS Houdini Wiki](https://github.com/w3c/css-houdini-drafts/wiki)
