@@ -5,9 +5,9 @@
 	"scripts": {
 		"test": "editorconfig-checker && eslint",
 		"build": "eleventy",
-		"mp3": "cd src/mp3 && rsync --progress --archive --compress --delete --delete-excluded --exclude .DS_Store . wst@web-standards.ru:/var/www/web-standards.ru/podcast/episodes/",
-		"cover": "cd src && rsync --archive --compress cover.png wst@web-standards.ru:/var/www/web-standards.ru/podcast/",
-		"feed": "cd dist && rsync --archive --compress index.xml wst@web-standards.ru:/var/www/web-standards.ru/podcast/feed/",
+		"mp3": "gsutil rsync -r -d -x .DS_Store src/mp3/ gs://web-standards.ru/podcast/episodes/",
+		"cover": "gsutil cp src/cover.png gs://web-standards.ru/podcast/",
+		"feed": "gsutil cp dist/index.xml gs://web-standards.ru/podcast/feed/",
 		"deploy": "npm run mp3 && npm run cover && npm run feed",
 		"new": "node scripts/new.js",
 		"file-size": "node scripts/file-size.js",
