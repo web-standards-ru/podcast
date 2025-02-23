@@ -1,0 +1,19 @@
+title: Проблемы ARIA в Shadow DOM, грядущий European Accessibility Act и State of React 2024
+
+date: 2025-02-24T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:00:59
+    title: 'Проблемы ARIA в Shadow DOM'
+  - time: 00:15:41
+    title: 'European Accessibility Act'
+  - time: 00:36:34
+    title: 'State of React 2024'
+
+duration: 01:29:55
