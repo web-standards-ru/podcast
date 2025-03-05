@@ -16,6 +16,9 @@
 ## Иммерсивный кодек Eclipsa
 
 - [Introducing Eclipsa Audio: immersive audio for everyone](https://opensource.googleblog.com/2025/01/introducing-eclipsa-audio-immersive-audio-for-everyone.html)
+
+## Observable API
+
 - [Blink intent to ship: Observable API](https://groups.google.com/a/chromium.org/g/blink-dev/c/stxSgTgMHog/m/Iger6AByAgAJ)
 - [Observable](https://wicg.github.io/observable/)
 
