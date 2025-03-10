@@ -1,0 +1,29 @@
+title: Firefox 136, Chrome 134, DevTools, HTTP 3 и QUIC в Node.js, стилизация форм, ненужные стили h1
+
+date: 2025-03-10T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Вадим Макеев
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:46
+    title: 'Firefox 136'
+  - time: 00:28:48
+    title: 'Chrome 134'
+  - time: 00:45:29
+    title: 'Chrome DevTools'
+  - time: 00:58:12
+    title: 'HTTP 3 и QUIC в Node.js'
+  - time: 01:13:04
+    title: 'Стилизация форм'
+  - time: 01:31:55
+    title: 'Ненужные стили для h1'
+  - time: 01:37:06
+    title: 'Ответы на вопросы'
+
+duration: 01:45:23
