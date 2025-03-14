@@ -1,7 +1,7 @@
 # Подкаст «Веб-стандарты»
 
-[![Статус тестов EditorConfig](https://github.com/web-standards-ru/podcast/workflows/EditorConfig/badge.svg)](https://github.com/web-standards-ru/podcast/actions/workflows/editorconfig.yml)
-[![Статус тестов ESLint](https://github.com/web-standards-ru/podcast/workflows/ESLint/badge.svg)](https://github.com/web-standards-ru/podcast/actions/workflows/eslint.yml)
+[![Статус тестов EditorConfig](https://github.com/web-standards-ru/podcast/workflows/editorconfig/badge.svg)](https://github.com/web-standards-ru/podcast/actions/workflows/editorconfig.yml)
+[![Статус тестов ESLint](https://github.com/web-standards-ru/podcast/workflows/eslint/badge.svg)](https://github.com/web-standards-ru/podcast/actions/workflows/eslint.yml)
 
 Новости фронтенда в еженедельном подкасте сообщества «[Веб-стандарты](https://web-standards.ru/)»
 

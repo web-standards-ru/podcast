@@ -1,4 +1,4 @@
-name: ESLint
+name: eslint
 
 on:
   pull_request:
