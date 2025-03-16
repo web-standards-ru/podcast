@@ -1,0 +1,26 @@
+title: Относительные цвета, TypeScript на Go, UI Git в Zed, Baseline для CSS в ESLint, усталость от JS
+
+date: 2025-03-17T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Алексей Симоненко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:23
+    title: 'Относительные цвета'
+  - time: 00:37:33
+    title: 'TypeScript на Go'
+  - time: 00:55:59
+    title: 'UI для Git в Zed'
+  - time: 01:05:38
+    title: 'Baseline для CSS в ESLint'
+  - time: 01:19:45
+    title: 'Усталость от JS'
+  - time: 01:32:13
+    title: 'Ответы на вопросы'
+
+duration: 01:42:16
