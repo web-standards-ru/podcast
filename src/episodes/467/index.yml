@@ -1,0 +1,29 @@
+title: Веб-платформа, require(esm) в Node 20, рамки сеток, 14 SVG-фильтров, styled-components, ссылки
+
+date: 2025-03-24T09:00
+
+hosts:
+  - Юлия Миоцен
+  - Никита Дубко
+  - Алексей Симоненко
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:00
+    title: 'Дэшборд веб-платформы'
+  - time: 00:11:54
+    title: 'Бэкпорт require(esm) в Node.js 20'
+  - time: 00:31:26
+    title: 'Рамки в сетках'
+  - time: 00:55:47
+    title: 'Всего 14 SVG-фильтров'
+  - time: 01:17:33
+    title: 'Styled-components всё'
+  - time: 01:37:31
+    title: 'Подчёркивание ссылок'
+  - time: 01:58:40
+    title: 'Ответы на вопросы'
+
+duration: 02:03:08
