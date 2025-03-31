@@ -1,0 +1,36 @@
+title: Chrome 48, Firefox 44, PhantomJS, Sass, PostCSS, шрифты, SVG, picture, HTTPS, коты и фреймворки
+
+date: 2025-04-01T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Ольга Алексашенко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:02:01
+    title: 'Chrome 48'
+  - time: 00:08:42
+    title: 'Firefox 44'
+  - time: 00:19:11
+    title: 'PhantomJS 2.1'
+  - time: 00:26:44
+    title: 'Переменные в Sass'
+  - time: 00:39:22
+    title: 'PostCSS для Sass'
+  - time: 00:49:01
+    title: 'Минимальные шрифты'
+  - time: 00:56:19
+    title: 'Gulp и SVG-спрайты'
+  - time: 01:03:57
+    title: 'Генератор picture'
+  - time: 01:11:26
+    title: 'Что мешает HTTPS'
+  - time: 01:18:11
+    title: 'WTF, HTML и CSS?'
+  - time: 01:24:56
+    title: 'Коты и фреймворки'
+
+duration: 01:29:27
