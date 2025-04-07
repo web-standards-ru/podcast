@@ -1,0 +1,27 @@
+title: Firefox 137, Chrome 135, Safari 18.4, V8 и Sea of Nodes, item-flow вместо Masonry
+
+date: 2025-04-07T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Полина Гуртовая
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:07
+    title: 'Firefox 137'
+  - time: 00:09:17
+    title: 'Chrome 135'
+  - time: 00:41:15
+    title: 'Safari 18.4'
+  - time: 01:22:56
+    title: 'V8 и Sea of Nodes'
+  - time: 01:34:38
+    title: 'Item-flow вместо Masonry'
+  - time: 02:00:10
+    title: 'Ответы на вопросы'
+
+duration: 02:04:03
