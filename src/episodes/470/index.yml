@@ -1,0 +1,31 @@
+title: 'Опасный :visited, красивый text-wrap, TypeSpec, логические свойства, Express 5.1, ресет UA+'
+
+date: 2025-04-14T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:23
+    title: 'Новости платформы'
+  - time: 00:09:13
+    title: 'Опасный :visited'
+  - time: 00:23:03
+    title: 'Красивый text-wrap'
+  - time: 00:45:19
+    title: 'TypeSpec'
+  - time: 00:55:39
+    title: 'Логические свойства'
+  - time: 01:12:03
+    title: 'Express 5.1'
+  - time: 01:22:38
+    title: 'Новый ресет UA+'
+  - time: 01:41:31
+    title: 'Ответы на вопросы'
+
+duration: 01:47:14
