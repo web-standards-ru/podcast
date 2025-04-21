@@ -1,0 +1,26 @@
+title: State of Devs, новости TC39, небесячий логин, z-index и бесконечность, Biome и HTML, Git 20 лет
+
+date: 2025-04-21T09:00
+
+hosts:
+  - Полина Гуртовая
+  - Вадим Макеев
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:15
+    title: 'State of Devs'
+  - time: 00:03:45
+    title: 'Новости TC39'
+  - time: 00:32:34
+    title: 'Небесячий логин'
+  - time: 00:43:06
+    title: 'Z-index и бесконечность'
+  - time: 00:51:43
+    title: 'Biome и HTML'
+  - time: 00:58:29
+    title: 'Git 20 лет'
+
+duration: 01:14:07
