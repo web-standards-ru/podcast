@@ -1,0 +1,26 @@
+title: Эксперименты React, шрифты IKEA, CSS-карусели, 10 лет SolidJS и как купить Chrome
+
+date: 2025-04-28T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Юлия Миоцен
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:00:52
+    title: 'Эксперименты React'
+  - time: 00:07:56
+    title: 'Шрифты IKEA'
+  - time: 00:26:36
+    title: 'CSS-карусели'
+  - time: 00:35:54
+    title: '10 лет SolidJS'
+  - time: 00:49:52
+    title: 'Как купить Chrome'
+  - time: 01:05:57
+    title: 'Ответы на вопросы'
+
+duration: 01:09:14
