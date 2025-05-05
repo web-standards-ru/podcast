@@ -1,0 +1,22 @@
+title: Firefox 138, невозможные компоненты React, куки Chrome, не забыть как кодить, CSS fit-to-width
+
+date: 2025-05-05T09:00
+
+hosts:
+  - Вадим Макеев
+  - Рома Комаров
+  - Полина Гуртовая
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:02:39
+    title: 'Firefox 138'
+  - time: 00:23:57
+    title: 'Невозможные компоненты React'
+  - time: 00:40:33
+    title: 'Chrome оставляет сторонние куки'
+  - time: 01:08:47
+    title: 'CSS и fit-to-width'
+
+duration: 01:57:10
