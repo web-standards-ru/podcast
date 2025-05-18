@@ -1,0 +1,23 @@
+title: Safari 18.5, CSS contrast-color, await using, быстрый DOM, упадок Deno
+
+date: 2025-05-19T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:07
+    title: 'Safari 18.5'
+  - time: 00:11:02
+    title: 'CSS contrast-color'
+  - time: 00:23:03
+    title: 'Await using'
+  - time: 00:34:04
+    title: 'Быстрый DOM'
+  - time: 00:52:18
+    title: 'Упадок Deno'
+
+duration: 01:13:21
