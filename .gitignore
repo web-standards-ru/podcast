@@ -1,3 +1,5 @@
 node_modules
 dist
 src/mp3
+src/wav
+src/episodes/*/index.txt

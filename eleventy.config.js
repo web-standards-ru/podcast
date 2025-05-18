@@ -51,7 +51,7 @@ export default (config) => {
 		return content;
 	});
 
-	config.ignores.add('src/template');
+	config.ignores.add('src/templates');
 
 	config.amendLibrary('md', (markdown) => {
 		markdown.use(stripHeadings);

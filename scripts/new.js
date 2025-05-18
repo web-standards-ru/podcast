@@ -36,7 +36,7 @@ if (!fs.existsSync(`src/episodes/${episode}`)) {
 	fs.mkdirSync(`src/episodes/${episode}`);
 }
 const episodeTemplateContent = fs
-	.readFileSync('src/template/index.md')
+	.readFileSync('src/templates/index.md')
 	.toString();
 fs.writeFileSync(`src/episodes/${episode}/index.md`, episodeTemplateContent);
 
@@ -48,7 +48,7 @@ monday.setSeconds(0);
 monday.setMilliseconds(0);
 const mondayString = monday.toISOString().slice(0, 16);
 const episodeYmlContent = fs
-	.readFileSync('src/template/index.yml')
+	.readFileSync('src/templates/index.yml')
 	.toString()
 	.replace('date: 3000-01-01T09:00', `date: ${mondayString}`);
 fs.writeFileSync(`src/episodes/${episode}/index.yml`, episodeYmlContent);
