@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Веб-стандарты везде
 
 [Instagram](https://www.instagram.com/webstandards_ru/),

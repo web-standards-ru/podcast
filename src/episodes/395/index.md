@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## GitHub Universe
 
 - [Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)

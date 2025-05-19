@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 [Эпизод на видео](https://youtu.be/LOo7p_oSV0s)
 
 ## Аналитика

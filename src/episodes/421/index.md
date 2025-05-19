@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## PWA с табами
 
 - [Blink Intent to Ship: Tabbed web apps](https://groups.google.com/a/chromium.org/g/blink-dev/c/L6AfXU0-GOc/m/Y4SRkKUPAQAJ)

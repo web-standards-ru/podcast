@@ -1,10 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-- USDT: TDWwqYaDVuXQuoDUxAGc3DtttPaFqLcJ1F
-- TON: UQDtdvstR13TCLsiD-L_LGzkehbPQkpuP5UnOybzutwG0HUg
-
 ## Бета Safari 17.5
 
 - [Safari 17.5 Beta Release Notes](https://developer.apple.com/documentation/safari-release-notes/safari-17_5-release-notes)

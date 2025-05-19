@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Chrome DevTools 130
 
 - [What’s new in Chrome DevTools 130](https://developer.chrome.com/blog/new-in-devtools-130)

@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Firefox 137
 
 - [Firefox 137](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/137)

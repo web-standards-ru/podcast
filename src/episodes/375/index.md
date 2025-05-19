@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## State of CSS
 
 - [State of CSS 2023](https://survey.devographics.com/en-US/survey/state-of-css/2023)

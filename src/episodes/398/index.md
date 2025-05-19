@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Движок Servo
 
 - [This month in Servo: better floats, :has(), color-mix(), and more!](https://servo.org/blog/2023/11/30/embedding-floats-color-mix/)

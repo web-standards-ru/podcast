@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Видео с Web Engines Hackfest
 
 - [The Web Engines Hackfest 2024](https://www.youtube.com/playlist?list=PL4sEzdAGvRgBVK-g6z4-YGt8uv3Dni6ag)

@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 [Живая запись эпизода](https://youtu.be/-QyzkZ0sHRA)
 
 ## Safari 17.2

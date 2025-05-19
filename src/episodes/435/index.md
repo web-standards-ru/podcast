@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Избавились от Gulp
 
 - [Удалили gulp из сборки](https://github.com/web-standards-ru/web-standards.ru/commit/893510af6806779f3c7cf521ede4572407e850d5)

@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Firefox 119
 
 - [Firefox 119 for developers](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/119)

@@ -1,8 +1,3 @@
-## Поддержка и чат
-
-- [Веб-стандарты на Patreon](https://www.patreon.com/webstandards_ru)
-- [Веб-стандарты на Boosty](https://boosty.to/webstandards_ru)
-
 ## Новости Safari
 
 - [WebKit Features in Safari 16.5](https://webkit.org/blog/14154/webkit-features-in-safari-16-5/)

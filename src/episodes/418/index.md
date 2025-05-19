@@ -1,10 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-- USDT: TDWwqYaDVuXQuoDUxAGc3DtttPaFqLcJ1F
-- TON: UQDtdvstR13TCLsiD-L_LGzkehbPQkpuP5UnOybzutwG0HUg
-
 [Ишью для подкаста](https://github.com/web-standards-ru/podcast)
 
 ## Как DMA помог браузерам

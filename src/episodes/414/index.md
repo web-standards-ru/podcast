@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 [Плейлист со всеми эпизодами на Ютубе](https://www.youtube.com/playlist?list=PLMBnwIwFEFHeFmmesCc6SI-5-VKnyrjY6)
 
 ## Speedometer 3.0

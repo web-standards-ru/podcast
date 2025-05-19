@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Новости платформы
 
 - [Introduction of browser namespace for Chromium Extension APIs](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/gK1Sd57p4go/m/ZLsLz7GSAwAJ)

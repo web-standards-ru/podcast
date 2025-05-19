@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Опять switch в Safari
 
 - [An HTML Switch Control](https://webkit.org/blog/15054/an-html-switch-control/)

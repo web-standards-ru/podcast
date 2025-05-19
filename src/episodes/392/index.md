@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Chrome DevTools
 
 - [What’s New in DevTools (Chrome 119)](https://developer.chrome.com/blog/new-in-devtools-119/)

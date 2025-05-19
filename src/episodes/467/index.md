@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Дэшборд веб-платформы
 
 - [Web platform features explorer: March 2025 release notes](https://web-platform-dx.github.io/web-features-explorer/release-notes/march-2025/)

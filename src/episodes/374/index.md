@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Safari TP
 
 - [Safari Technology Preview 172](https://webkit.org/blog/14372/release-notes-for-safari-technology-preview-172/)

@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Интенты Blink
 
 - [CSS line-clamp property](https://groups.google.com/a/chromium.org/g/blink-dev/c/CWP5rb--Gyk/m/cpRngx-BAAAJ)

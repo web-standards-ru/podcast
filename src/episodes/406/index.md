@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Safari заговорил
 
 - [Jen Simmons on Interop, WebKit Releases, and New CSS Features in Safari](https://shoptalkshow.com/598/)

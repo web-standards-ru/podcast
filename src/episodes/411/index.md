@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Chrome 122
 
 - [New in Chrome 122](https://developer.chrome.com/blog/new-in-chrome-122/)

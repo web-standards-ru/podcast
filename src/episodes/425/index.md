@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Font-smoothing в Firefox
 
 - [Gecko: Intent to prototype and ship: -webkit-font-smoothing property](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zQ4bhw78uac/m/gM2GOY7kBQAJ)

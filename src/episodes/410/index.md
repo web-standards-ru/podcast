@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Apple и веб
 
 - [Update on apps distributed in the European Union](https://developer.apple.com/support/dma-and-apps-in-the-eu/)

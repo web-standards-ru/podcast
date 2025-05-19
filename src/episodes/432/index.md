@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Доклады и лайвы
 
 - [CSS Day 2024](https://www.youtube.com/playlist?list=PLjnstNlepBvO0-I7iwqpkOY_fwAop6Pl-)

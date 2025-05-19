@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## State of Devs
 
 - [Launching the first ever State of Devs survey](https://dev.to/sachagreif/launching-the-first-ever-state-of-devs-survey-23il)

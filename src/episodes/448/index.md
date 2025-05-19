@@ -1,10 +1,3 @@
-## Поддержите нас
-
-Простой способ сказать «спасибо» и попасть в закрытый чат.
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Safari TP 207
 
 - [Safari Technology Preview 207](https://webkit.org/blog/16205/release-notes-for-safari-technology-preview-207/)

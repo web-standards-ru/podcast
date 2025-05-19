@@ -1,8 +1,3 @@
-## Поддержите нас
-
-- [Патреон](https://www.patreon.com/webstandards_ru)
-- [Бусти](https://boosty.to/webstandards_ru)
-
 ## Arc для всех
 
 - [The excellent Arc browser is now available for anyone to download](https://www.theverge.com/2023/7/25/23802843/arc-browser-mac-ios-waitlist-availability)
