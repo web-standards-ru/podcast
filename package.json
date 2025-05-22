@@ -11,7 +11,8 @@
 		"deploy": "npm run mp3 && npm run cover && npm run feed",
 		"new": "node scripts/new.js",
 		"file-size": "node scripts/file-size.js",
-		"prepare": "husky || true"
+		"prepare": "husky || true",
+		"info": "node scripts/info.js"
 	},
 	"engines": {
 		"node": "22"

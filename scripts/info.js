@@ -1,45 +1,88 @@
-import { argv, exit } from 'node:process';
 import fs from 'node:fs';
+import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 
-if (!argv[2]) {
+function runCommandSync(bin, args) {
+	return execFileSync(bin, args, {
+		encoding: 'utf-8',
+	});
+}
+
+function buildMp3(episodeNumber, inputFolder, outputFolder) {
+	return runCommandSync('ffmpeg', [
+		'-i', path.join(inputFolder, `${episodeNumber}.wav`),
+		'-nostats',
+		'-loglevel', '0',
+		'-hide_banner',
+		'-codec:a', 'libmp3lame',
+		'-b:a', '128k',
+		path.join(outputFolder, `${episodeNumber}.mp3`),
+	]);
+}
+
+function buildChapters(inputFile) {
+	return runCommandSync('ffprobe', [
+		'-i', inputFile,
+		'-loglevel', '0',
+		'-hide_banner',
+		'-print_format', 'json',
+		'-show_chapters',
+		'-pretty',
+	]);
+}
+
+function writeChaptersIntoFile(chapters, filePath) {
+	const fileStream = fs.createWriteStream(filePath);
+
+	function parseTime(str) {
+		return `0${str}`.split('.')[0];
+	}
+
+	const newArr = chapters.map(chapter => {
+		const startTime = parseTime(chapter.start_time);
+		const title = chapter.tags.title;
+		return `${startTime} ${title}`;
+	});
+
+	newArr.forEach(line => {
+		fileStream.write(line);
+		fileStream.write('\n');
+	});
+
+	fileStream.close();
+}
+
+const episodeNumber = process.argv[2];
+
+if (!episodeNumber) {
 	console.log('No input number');
 	process.exit(1);
 }
 
-const number = argv[2];
+const baseDirectory = 'src';
 
-let parsedJson;
+fs.mkdirSync(
+	path.join(baseDirectory, 'mp3'),
+	{ recursive: true }
+);
 
-try {
-	const jsonString = fs.readFileSync(`${number}.json`, 'utf8');
-	parsedJson = JSON.parse(jsonString);
-} catch (err) {
-	console.log('File read failed:', err);
-	exit(1);
-}
+buildMp3(episodeNumber, path.join(baseDirectory, 'wav'), path.join(baseDirectory, 'mp3'));
+
+const json = buildChapters(path.join(baseDirectory, 'mp3', `${episodeNumber}.mp3`));
+
+const parsedJson = JSON.parse(json);
 
 if (!parsedJson.chapters) {
 	console.log('No chapters in input file');
-	exit(1);
+	process.exit(1);
 }
 
-const newArr = parsedJson.chapters.map(chapter => {
-	const startTime = parseTime(chapter.start_time);
-	const title = chapter.tags.title;
-	return `${startTime} ${title}`;
-});
+fs.mkdirSync(
+	path.join(baseDirectory, 'episodes', episodeNumber),
+	{ recursive: true }
+);
 
-const out = fs.createWriteStream(`./${number}.txt`);
-
-newArr.forEach(line => {
-	out.write(line);
-	out.write('\n');
-});
-
-out.end(() => {
-	exit(0);
-});
-
-function parseTime(str) {
-	return `0${str}`.split('.')[0];
-}
+writeChaptersIntoFile(
+	parsedJson.chapters,
+	path.join(baseDirectory, 'episodes', episodeNumber, 'index.txt')
+);
