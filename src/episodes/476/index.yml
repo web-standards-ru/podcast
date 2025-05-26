@@ -1,0 +1,29 @@
+title: Google I/O, Baseline, доступность, TypeScript на Go, вайб-тестинг, MCP на GraphQL
+
+date: 2025-05-26T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Никита Дубко
+  - Вадим Макеев
+  - Полина Гуртовая
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:22
+    title: 'Поправочка'
+  - time: 00:02:41
+    title: 'Google I/O'
+  - time: 00:33:08
+    title: 'Новинки Baseline'
+  - time: 00:58:09
+    title: 'Google и доступность'
+  - time: 01:18:29
+    title: 'TypeScript на Go'
+  - time: 01:30:49
+    title: 'Вайб-тестинг'
+  - time: 01:49:52
+    title: 'MCP на GraphQL'
+
+duration: 02:04:26
