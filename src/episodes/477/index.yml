@@ -1,0 +1,27 @@
+title: Chrome 137, Firefox 139, пробуждение Remix, дырявый MCP, эксплейнеры, Deno вполне жив
+
+date: 2025-06-02T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:00:59
+    title: 'Chrome 137'
+  - time: 00:20:40
+    title: 'Firefox 139'
+  - time: 00:38:13
+    title: 'Просыпайся, Remix'
+  - time: 00:54:39
+    title: 'Дырявый MCP'
+  - time: 01:01:12
+    title: 'Эксплейнеры'
+  - time: 01:16:53
+    title: 'Deno вполне жив'
+  - time: 01:27:26
+    title: 'Ответы на вопросы'
+
+duration: 01:35:14
