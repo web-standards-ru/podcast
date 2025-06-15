@@ -1,0 +1,21 @@
+title: Бета Safari 26, Rolldown-Vite, Chrome IP Protection, PHP в Node.js
+
+date: 2025-06-16T09:00
+
+hosts:
+  - Никита Дубко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:39
+    title: 'Бета Safari 26'
+  - time: 00:44:05
+    title: 'Rolldown-Vite'
+  - time: 00:57:41
+    title: 'Chrome IP Protection'
+  - time: 01:05:58
+    title: 'PHP в Node.js'
+
+duration: 01:14:40
