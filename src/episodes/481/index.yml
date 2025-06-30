@@ -1,0 +1,23 @@
+title: Firefox 140, Chrome 138, история JavaScript, Deno и Fresh 2, возвращение PNG
+
+date: 2025-06-30T09:00
+
+hosts:
+  - Андрей Мелихов
+  - Вадим Макеев
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:00
+    title: 'Firefox 140'
+  - time: 00:12:15
+    title: 'Chrome 138'
+  - time: 00:24:42
+    title: 'История JavaScript'
+  - time: 00:39:30
+    title: 'Deno и Fresh 2'
+  - time: 00:49:29
+    title: 'Возвращение PNG'
+
+duration: 01:02:31
