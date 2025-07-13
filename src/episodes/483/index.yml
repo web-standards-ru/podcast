@@ -1,0 +1,23 @@
+title: State of HTML и другие, бета TypeScript 5.9, clip-path, AI-трафик, React больше не чемпион
+
+date: 2025-07-13T09:00
+
+hosts:
+  - Никита Дубко
+  - Полина Гуртовая
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:18
+    title: 'State of HTML и другие'
+  - time: 00:07:36
+    title: 'Бета TypeScript 5.9'
+  - time: 00:24:34
+    title: 'Clip-path руками'
+  - time: 00:43:08
+    title: 'Cloudflare и AI-трафик'
+  - time: 00:57:37
+    title: 'React больше не чемпион'
+
+duration: 01:16:44
