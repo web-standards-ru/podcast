@@ -23,7 +23,7 @@
 
 - [Request to pick up the CSS nesting proposal](https://github.com/w3c/csswg-drafts/issues/2701)
 - [Майские новинки CSS](http://css-live.ru/vecssti-s-polej/algebra-v-calc-novaya-specifichnost-selektorov-4-urovnya-i-drugie-majskie-novinki-css.html)
-- [CSS is so overpowered it can deanonymize Facebook users](CSS Is So Overpowered It Can Deanonymize Facebook Users)
+- [CSS is so overpowered it can deanonymize Facebook users](https://www.bleepingcomputer.com/news/security/css-is-so-overpowered-it-can-deanonymize-facebook-users/)
 
 ## Как писать код быстро
 

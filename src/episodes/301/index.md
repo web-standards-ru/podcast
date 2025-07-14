@@ -25,5 +25,5 @@
 ## Чистая архитектура
 
 - [Чистая архитектура во фронтенде](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
-- [Client-Side Architecture Basics [Guide]](https://khalilstemmler.com/articles/client-side-architecture/introduction/)
+- [Client-Side Architecture Basics Guide](https://khalilstemmler.com/articles/client-side-architecture/introduction/)
 - [Does DDD Belong on the Frontend?](https://khalilstemmler.com/articles/typescript-domain-driven-design/ddd-frontend/)
