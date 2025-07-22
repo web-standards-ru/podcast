@@ -1,0 +1,24 @@
+title: Igalia и Interop, браузеры без WebKit на iOS, DOM-шаблонизация, 10 лет Wasm, плато перформанса
+
+date: 2025-07-22T09:00
+
+hosts:
+  - Вадим Макеев
+  - Андрей Мелихов
+  - Никита Дубко
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:02:05
+    title: 'Igalia и Interop'
+  - time: 00:18:04
+    title: 'Браузеры без WebKit на iOS'
+  - time: 00:46:14
+    title: 'Нативная DOM-шаблонизация'
+  - time: 01:13:23
+    title: 'Десять лет Wasm'
+  - time: 01:33:49
+    title: 'Плато перформанса'
+
+duration: 01:44:33
