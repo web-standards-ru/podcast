@@ -1,0 +1,26 @@
+title: Анонс State of HTML, MDN 20 лет, Safari TP, animation-ranges, Firefox 141, React Router и RSC
+
+date: 2025-07-28T09:00
+
+hosts:
+  - Вадим Макеев
+  - Алексей Симоненко
+  - Андрей Мелихов
+
+chapters:
+  - time: 00:00:00
+    title: 'Интро'
+  - time: 00:01:15
+    title: 'Анонс State of HTML'
+  - time: 00:04:32
+    title: 'MDN 20 лет'
+  - time: 00:09:27
+    title: 'Safari TP 224'
+  - time: 00:18:40
+    title: 'Animation-ranges'
+  - time: 00:30:16
+    title: 'Firefox 141'
+  - time: 00:52:28
+    title: 'React Router и RSC'
+
+duration: 01:07:40
