@@ -2,9 +2,9 @@
 
 - [HolyJS](http://holyjs.ru/)
 - [Антихайп, Андрей Листочкин](https://youtu.be/xPFRUM_oDKA)
-- [Лог со ScotlandCSS](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-06-01_scotlandcss.md)
-- [Лог со ScotlandJS №1](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-06-02_scotlandjs.md)
-- [Лог со ScotlandJS №2](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-06-03_scotlandjs.md)
+- [Лог со ScotlandCSS](https://github.com/web-standards/web-standards-up/blob/master/2016-06-01_scotlandcss.md)
+- [Лог со ScotlandJS №1](https://github.com/web-standards/web-standards-up/blob/master/2016-06-02_scotlandjs.md)
+- [Лог со ScotlandJS №2](https://github.com/web-standards/web-standards-up/blob/master/2016-06-03_scotlandjs.md)
 - [HTML Special и CSS Day](http://cssday.nl/)
 - [WSD в Екатеринбурге](https://wsd.events/2016/06/25/)
 

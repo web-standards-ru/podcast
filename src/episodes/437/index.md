@@ -18,7 +18,7 @@
 ## Тёмные темы и компоненты
 
 - [Page and Component Adaptive Light/Dark](https://nerdy.dev/page-and-component-light-dark-strategies)
-- [Прототип тёмной темы](https://github.com/web-standards-ru/web-standards.ru/pull/172)
+- [Прототип тёмной темы](https://github.com/web-standards/web-standards.ru/pull/172)
 
 ## Corepack уходит из Node.js
 

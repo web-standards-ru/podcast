@@ -36,8 +36,8 @@
 ## Ответы на вопросы
 
 - [CSS-Tricks: front-end and front end](https://css-tricks.com/poll-results-front-end-front-end/)
-- [Frontend Issue #1](https://github.com/web-standards-ru/dictionary/issues/1)
+- [Frontend Issue #1](https://github.com/web-standards/dictionary/issues/1)
 - [Веб-стандарты в Spotify](https://open.spotify.com/show/3rzAcADjpBpXt73L0epTjV)
-- [Подкаст на Гитхабе](https://github.com/web-standards-ru/podcast)
+- [Подкаст на Гитхабе](https://github.com/web-standards/podcast)
 
 [podcast@web-standards.ru](mailto:podcast@web-standards.ru)

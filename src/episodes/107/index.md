@@ -5,7 +5,7 @@
 - [PiterJS в Питере 15 февраля и 17 марта](https://meetabit.com/communities/piterjs)
 - [NodeSchool в Питере 17 февраля и 24 марта](https://github.com/nodeschool/spb)
 - [SPB Frontend в Питере 21 февраля](https://vk.com/spb_frontend)
-- [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
+- [Календарь событий по фронтенду](https://github.com/web-standards/calendar)
 - [OdessaFrontend](http://odessafrontend.com/)
 
 ## CSS на JS в Chrome

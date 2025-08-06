@@ -1,6 +1,6 @@
 ## Сайт «Веб-стандартов»
 
-- [GitHub: web-standards-ru/new](https://github.com/web-standards-ru/new)
+- [GitHub: web-standards/new](https://github.com/web-standards/new)
 - [Патреон «Веб-стандартов»](https://www.patreon.com/webstandards_ru)
 
 ## События и сообщества

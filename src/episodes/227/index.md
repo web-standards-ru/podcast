@@ -13,7 +13,7 @@
 ## Сайт «Веб-стандартов»
 
 - [Обновлённый сайт Веб-стандартов](https://web-standards.ru/)
-- [Репозиторий на Гитхабе](https://github.com/web-standards-ru/web-standards.ru/)
+- [Репозиторий на Гитхабе](https://github.com/web-standards/web-standards.ru/)
 
 ## Бета Chrome 83
 

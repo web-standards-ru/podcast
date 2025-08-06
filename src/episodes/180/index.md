@@ -11,7 +11,7 @@
 - [Panda Meetup по Node.js в Москве 27 июня](https://panda-meetup.ru/msk-node-js-meetup)
 - [Ok.tech Frontend Meetup в Питере 2 июля](https://oktech.timepad.ru/event/970538/)
 - [WSD в Питере 13 июля](https://wsd.events/2019/07/13/)
-- [Список CityJS](https://github.com/web-standards-ru/cityjs-list)
+- [Список CityJS](https://github.com/web-standards/cityjs-list)
 
 ## Chrome и Safari
 

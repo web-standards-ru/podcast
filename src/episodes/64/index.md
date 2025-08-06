@@ -3,7 +3,7 @@
 - [Первые докладчики pitercss_conf](https://pitercss.com/)
 - [KharkivCSS в Харькове 22 апреля](http://kharkivcss.org/)
 - [Pitercss_meetup №12 в Питере 25 апреля](https://pitercss.timepad.ru/event/457262/)
-- [Текстовая трансляция с React London](https://github.com/web-standards-ru/web-standards-up/blob/master/2017-03-28_react-london.md)
+- [Текстовая трансляция с React London](https://github.com/web-standards/web-standards-up/blob/master/2017-03-28_react-london.md)
 
 ## Edge 15
 

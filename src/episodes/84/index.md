@@ -5,7 +5,7 @@
 - [PiterJS №17 в Петербурге 21 сентября](https://meetabit.com/events/piterjs-17)
 - [Pitercss_meetup №14 в Петербурге 26 сентября](https://pitercss.timepad.ru/event/564590/)
 - [Fronteers в Амстердаме 5—6 октября](https://fronteers.nl/congres/2017/)
-- [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
+- [Календарь событий по фронтенду](https://github.com/web-standards/calendar)
 
 ## Браузеры
 

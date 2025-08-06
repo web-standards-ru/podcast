@@ -3,7 +3,7 @@
 - [День рождения SPB Frontend](https://vk.com/spb_frontend_birthday_150316)
 - [OdessaJS](https://twitter.com/OdessaJS/status/706957901395415040)
 - [Текстовые трансляции с конференций, дополнение к @webstandards_ru](https://twitter.com/webstandards_up)
-- [Логи трансляций](https://github.com/web-standards-ru/web-standards-up)
+- [Логи трансляций](https://github.com/web-standards/web-standards-up)
 
 ## Кризис ожирения сайтов
 

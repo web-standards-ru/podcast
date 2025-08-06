@@ -13,7 +13,7 @@
 - [PiterJS не унывает](https://twitter.com/gopiterjs/status/1237744608844697600)
 - [Krasnodar Backend miniConf](https://krd.dev/events/19)
 - [CodeFest в Новосибирске 28–29 марта](https://2020.codefest.ru/program/frontend)
-- [Календарь «Веб-стандартов»](https://github.com/web-standards-ru/calendar)
+- [Календарь «Веб-стандартов»](https://github.com/web-standards/calendar)
 
 ## Firefox обновит KaiOS
 

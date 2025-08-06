@@ -1,7 +1,7 @@
 ## Интро
 
 - [Smashing Podcast](https://www.smashingmagazine.com/2019/11/smashing-podcast-episode-1/)
-- [Новый сайт «Веб-стандартов»](https://github.com/web-standards-ru/nouvelle/)
+- [Новый сайт «Веб-стандартов»](https://github.com/web-standards/nouvelle/)
 
 ## События
 

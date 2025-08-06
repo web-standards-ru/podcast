@@ -22,7 +22,7 @@
 - [Недоступный веб: как мы развели такой бардак](https://habr.ru/p/309076/)
 - [What is the Business Case for Accessibility?](https://vimeo.com/145138872)
 - [Section 508](https://www.section508.gov/)
-- [Расшифровки подкаста](https://github.com/web-standards-ru/podcast#readme)
+- [Расшифровки подкаста](https://github.com/web-standards/podcast#readme)
 
 ## Меняем порядок
 

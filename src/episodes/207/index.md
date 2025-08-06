@@ -9,8 +9,8 @@
 
 ## 10 лет фронтенда на графике
 
-- [Больше 10 лет фронтенда](https://web-standards-ru.github.io/10-years-of-frontend/)
-- [Репозиторий на Гитхабе](https://github.com/web-standards-ru/10-years-of-frontend)
+- [Больше 10 лет фронтенда](https://web-standards.github.io/10-years-of-frontend/)
+- [Репозиторий на Гитхабе](https://github.com/web-standards/10-years-of-frontend)
 
 ## Новинки Firefox 71
 

@@ -34,4 +34,4 @@
 
 ## О подкасте
 
-- [Эпизоды на Гитхабе](https://github.com/web-standards-ru/podcast)
+- [Эпизоды на Гитхабе](https://github.com/web-standards/podcast)

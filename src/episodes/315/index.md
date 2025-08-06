@@ -7,8 +7,8 @@
 
 - [Чат в Телеграме](https://t.me/webstandards_chat)
 - [Новости на английском](https://twitter.com/webstandards_en)
-- [Календарь](https://github.com/web-standards-ru/calendar)
-- [Словарь](https://github.com/web-standards-ru/dictionary)
+- [Календарь](https://github.com/web-standards/calendar)
+- [Словарь](https://github.com/web-standards/dictionary)
 
 ## Фронтенд
 

@@ -3,7 +3,7 @@
 - [SPB Frontend](https://vk.com/spb_frontend)
 - [Видео с SPB Frontend](https://youtu.be/BVDxZ48poKo)
 - [Я.Субботник по фронтенду](https://events.yandex.ru/events/yasubbotnik/27-feb-2016/)
-- [Лог текстовой трансляции с Яндекс.Субботника](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-02-27_ya-subbotnik.md)
+- [Лог текстовой трансляции с Яндекс.Субботника](https://github.com/web-standards/web-standards-up/blob/master/2016-02-27_ya-subbotnik.md)
 - [PiterCSS №2](https://pitercss.timepad.ru/event/298243/)
 - [CodeFest 2016](http://2016.codefest.ru/)
 - [DUMP 2016](http://dump-conf.ru/)

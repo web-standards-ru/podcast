@@ -1,6 +1,6 @@
 ## События
 
-- [Лог трансляции с CSSConf в Будапеште](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-05-11_cssconfbudapest.md)
+- [Лог трансляции с CSSConf в Будапеште](https://github.com/web-standards/web-standards-up/blob/master/2016-05-11_cssconfbudapest.md)
 - [WSD в Екатеринбурге 25 июня](https://wsd.events/2016/06/25/)
 - [FrontendFellows в Перми 27 мая](https://frontendfellows.timepad.ru/event/299132/)
 - [FrontendFellows в Астане 29 июля](https://frontendfellows.timepad.ru/event/328848/)

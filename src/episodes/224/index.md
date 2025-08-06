@@ -1,7 +1,7 @@
 ## События
 
 - [Я.Субботник онлайн 25 апреля](https://events.yandex.ru/events/yasubbotnik/25-apr-2020)
-- [Генератор событий для календаря Веб-стандартов](https://github.com/web-standards-ru/calendar-generator)
+- [Генератор событий для календаря Веб-стандартов](https://github.com/web-standards/calendar-generator)
 
 ## Safari 13.1 и формы в Chrome
 

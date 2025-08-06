@@ -31,4 +31,4 @@
 
 ## Подкаст, форматы, поддержка
 
-- [Сгенерировать XML-фид из описаний выпуска](https://github.com/web-standards-ru/podcast/issues/182)
+- [Сгенерировать XML-фид из описаний выпуска](https://github.com/web-standards/podcast/issues/182)

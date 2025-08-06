@@ -13,7 +13,7 @@
 - [JSConf Budapest](http://jsconfbp.com/)
 - [PWA Dev Summit](https://events.withgoogle.com/pwa-save-the-date/)
 - [Текстовые трансляции](https://twitter.com/webstandards_up)
-- [Архив трансляций](https://github.com/web-standards-ru/web-standards-up)
+- [Архив трансляций](https://github.com/web-standards/web-standards-up)
 
 ## Новинки Chrome и Opera
 

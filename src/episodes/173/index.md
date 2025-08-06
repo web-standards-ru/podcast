@@ -1,8 +1,8 @@
 ## События в Ростове-на-Дону
 
 - [TradingView A11y Meetup в Ростове-на-Дону 26 апреля](https://vk.com/wall-96504582_353)
-- [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
-- [Список событий, принимающих доклады](https://github.com/web-standards-ru/cfp-list)
+- [Календарь событий по фронтенду](https://github.com/web-standards/calendar)
+- [Список событий, принимающих доклады](https://github.com/web-standards/cfp-list)
 - [Code Hipsters](http://codehipsters.com/)
 - [RND.js](https://vk.com/rndjs)
 

@@ -4,8 +4,8 @@
 - [WSD в Минске 21 октября](https://wsd.events/2017/10/21/)
 - [Moscowcss 5 в Москве 31 октября](https://moscowcss.timepad.ru/event/576236/)
 - [OdessaFrontend в Одессе 27 сентября](http://odessafrontend.com/)
-- [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
-- [Список сообществ CityJS](https://github.com/web-standards-ru/cityjs-list)
+- [Календарь событий по фронтенду](https://github.com/web-standards/calendar)
+- [Список сообществ CityJS](https://github.com/web-standards/cityjs-list)
 - [Front Fest Moscow в Москве 18 ноября](https://2017.frontfest.ru/)
 
 ## Зачем вообще Edge

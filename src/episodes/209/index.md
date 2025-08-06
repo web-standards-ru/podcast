@@ -1,6 +1,6 @@
 ## Отсутствие событий
 
-- [Убирает старые даты Frontendconf](https://github.com/web-standards-ru/calendar/commit/03ae96a9426c6826d64cb7d7d72ae21553142110)
+- [Убирает старые даты Frontendconf](https://github.com/web-standards/calendar/commit/03ae96a9426c6826d64cb7d7d72ae21553142110)
 
 ## Что не так с HTML
 

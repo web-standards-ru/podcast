@@ -12,7 +12,7 @@
 ## Сайт Веб-стандартов
 
 - [Сайт Веб-стандартов](https://web-standards.ru/)
-- [Ишьи в репозитории сайта](https://github.com/web-standards-ru/web-standards.ru/issues)
+- [Ишьи в репозитории сайта](https://github.com/web-standards/web-standards.ru/issues)
 
 ## Выделение текста
 
@@ -22,7 +22,7 @@
 ## Пиксели против ремов
 
 - [Accessible Font Sizing, Explained](https://css-tricks.com/accessible-font-sizing-explained/)
-- [Ишья про единицы измерения](https://github.com/web-standards-ru/web-standards.ru/issues/13)
+- [Ишья про единицы измерения](https://github.com/web-standards/web-standards.ru/issues/13)
 
 ## Атомарный CSS-in-JS
 

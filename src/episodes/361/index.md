@@ -40,6 +40,6 @@
 ## Ответы на вопросы
 
 - [Over 1000 feeds for web developers](https://github.com/simevidas/web-dev-feeds)
-- [Фид подкаста на Гитхабе](https://github.com/web-standards-ru/podcast)
+- [Фид подкаста на Гитхабе](https://github.com/web-standards/podcast)
 
 [podcast@web-standards.ru](mailto:podcast@web-standards.ru)

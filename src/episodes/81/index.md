@@ -2,7 +2,7 @@
 
 - [Frontend Party в Нижнем Новгороде 29 августа](https://events.yandex.ru/events/meetings/29-aug-2017/)
 - [PiterJS №16 пройдёт в Петербурге 29 августа](https://meetabit.com/events/piterjs-16)
-- [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
+- [Календарь событий по фронтенду](https://github.com/web-standards/calendar)
 - [Обидно, что наши звёзды не участвуют](https://web-standards.slack.com/archives/C09TBDY87/p1502881243000171)
 
 ## Chrome

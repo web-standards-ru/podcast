@@ -1,4 +1,4 @@
-[Ишью для подкаста](https://github.com/web-standards-ru/podcast)
+[Ишью для подкаста](https://github.com/web-standards/podcast)
 
 ## Как DMA помог браузерам
 

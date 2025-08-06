@@ -1,6 +1,6 @@
 ## Избавились от Gulp
 
-- [Удалили gulp из сборки](https://github.com/web-standards-ru/web-standards.ru/commit/893510af6806779f3c7cf521ede4572407e850d5)
+- [Удалили gulp из сборки](https://github.com/web-standards/web-standards.ru/commit/893510af6806779f3c7cf521ede4572407e850d5)
 
 ## Firefox 129 и WebDriver BiDi
 

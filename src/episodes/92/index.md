@@ -8,7 +8,7 @@
 ## Доступность
 
 - [Веблайнд](http://weblind.ru/)
-- [Код на Гитхабе](https://github.com/web-standards-ru/weblind.ru)
+- [Код на Гитхабе](https://github.com/web-standards/weblind.ru)
 - [Collapsible Sections](https://inclusive-components.design/collapsible-sections/)
 - [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices-1.1/)
 - [A11ycasts Роба Додсона](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)

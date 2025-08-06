@@ -25,7 +25,7 @@
 - [GitHub Desktop](https://desktop.github.com)
 - [GitBox](http://gitboxapp.com)
 - [GitUp](http://gitup.co)
-- [Термины Гита и Гитхаба](https://github.com/web-standards-ru/dictionary/blob/master/git.md)
+- [Термины Гита и Гитхаба](https://github.com/web-standards/dictionary/blob/master/git.md)
 
 ## JS-модули в Edge!
 

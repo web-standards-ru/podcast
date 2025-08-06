@@ -53,4 +53,4 @@
 
 ## Расшифровки подкаста
 
-- [Выпуск №24](https://github.com/web-standards-ru/podcast/blob/master/episodes/episode-24.md)
+- [Выпуск №24](https://github.com/web-standards/podcast/blob/master/episodes/episode-24.md)

@@ -9,7 +9,7 @@
 ## Новый фид подкаста
 
 - [Новый RSS-фид](https://web-standards.ru/podcast/feed/)
-- [Репозиторий подкаста](https://github.com/web-standards-ru/podcast)
+- [Репозиторий подкаста](https://github.com/web-standards/podcast)
 
 ## Эксперименты и основы вёрстки
 

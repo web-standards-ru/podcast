@@ -5,7 +5,7 @@
 - [JS Hacks & Creativity](http://aem1k.com/)
 - [KharkivJS в начале ноября](http://kharkivjs.org/)
 - [FrontTalks 17—18 сентября в Екатеринбурге](http://fronttalks.ru/)
-- [Лог с JSConf Iceland, день первый](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-08-25_jsconfis.md) и [второй](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-08-26_jsconfis.md)
+- [Лог с JSConf Iceland, день первый](https://github.com/web-standards/web-standards-up/blob/master/2016-08-25_jsconfis.md) и [второй](https://github.com/web-standards/web-standards-up/blob/master/2016-08-26_jsconfis.md)
 
 ## WebKit 15 лет
 
@@ -47,4 +47,4 @@
 - [Dev.Opera на Гитхабе](https://github.com/operasoftware/devopera)
 - [Сайт «Веб-стандартов»](http://web-standards.ru/)
 - [Metalsmith](http://www.metalsmith.io/)
-- [WSD на Гитхабе](https://github.com/web-standards-ru/web-standards-days/)
+- [WSD на Гитхабе](https://github.com/web-standards/web-standards-days/)

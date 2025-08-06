@@ -7,7 +7,7 @@
 ## События
 
 - [Pitercss_meetup](https://beerjssummit.com/)
-- [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
+- [Календарь событий по фронтенду](https://github.com/web-standards/calendar)
 - [Ok.tech Frontend Meetup в Питере 2 июля](https://oktech.timepad.ru/event/970538/)
 - [EPAM JavaScript Meetup в Питере 4 июля](https://events.epam.com/events/js-meetup-2-2019)
 - [Panda Frontend Meetup в Москве 6 июля](http://panda-meetup.ru/msk-frontend-meetup-4)

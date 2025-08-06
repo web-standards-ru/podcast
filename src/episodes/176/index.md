@@ -2,7 +2,7 @@
 
 - [Подкасты наступают](https://teleg.run/podcasts_prevail/129)
 - [Podcasts Repo](https://podcasts-repo.surge.sh/)
-- [Подкасты про веб-разработку](https://github.com/web-standards-ru/podcasts-list)
+- [Подкасты про веб-разработку](https://github.com/web-standards/podcasts-list)
 
 ## События
 

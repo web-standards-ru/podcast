@@ -1,8 +1,8 @@
 ## События
 
 - [HTML Special и CSS Day](http://cssday.nl/2016)
-- [Лог с HTML Special](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-06-16_htmlspecial.md)
-- [Лог с CSS Day](https://github.com/web-standards-ru/web-standards-up/blob/master/2016-06-17_cssday.md)
+- [Лог с HTML Special](https://github.com/web-standards/web-standards-up/blob/master/2016-06-16_htmlspecial.md)
+- [Лог с CSS Day](https://github.com/web-standards/web-standards-up/blob/master/2016-06-17_cssday.md)
 - [Саммит по PWA](https://events.withgoogle.com/progressive-web-app-dev-summit/)
 - [PiterCSS №5](https://pitercss.timepad.ru/event/340787/)
 - [Видео с PiterCSS](https://youtu.be/qFeCi6E3e14)

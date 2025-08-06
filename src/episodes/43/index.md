@@ -26,7 +26,7 @@
 - [Математика CSS-шлюзов на Хабре](https://habr.ru/p/315196/)
 - [Математика CSS-шлюзов на CSS Live](http://css-live.ru/articles/matematika-css-shlyuzov.html)
 - [Shower](https://shwr.me/)
-- [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary)
+- [Словарь терминов по фронтенду](https://github.com/web-standards/dictionary)
 
 ## Расширение инлайновых стилей
 

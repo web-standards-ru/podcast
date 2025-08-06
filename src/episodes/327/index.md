@@ -20,7 +20,7 @@
 
 - [Как и зачем типизировать CSS-переменные?](https://ru.ariarzer.dev/articles/2022/css-variables-typing.html)
 - [Вы уже слышали о вариативных юнитах?](https://ru.ariarzer.dev/articles/2022/css-variable-units.html)
-- [Обсуждение термина variable units в словаре](https://github.com/web-standards-ru/dictionary/pull/457)
+- [Обсуждение термина variable units в словаре](https://github.com/web-standards/dictionary/pull/457)
 
 ## Aspect-ratio
 

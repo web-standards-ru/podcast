@@ -1,6 +1,6 @@
 ## Подкасты
 
-- [Podcast-list](https://github.com/web-standards-ru/podcasts-list)
+- [Podcast-list](https://github.com/web-standards/podcasts-list)
 - [Undefined в Apple Podcasts](https://podcasts.apple.com/podcast/id1499128651)
 - [Undefined в Яндекс.Музыке](https://music.yandex.ru/album/10034426)
 - [Undefined во ВКонтакте](https://vk.com/podcasts-184747164)

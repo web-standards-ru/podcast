@@ -39,7 +39,7 @@
 - [CSS: The Definitive Guide](http://shop.oreilly.com/product/0636920012726.do)
 - [Declining Complexity in CSS, Эрик Мейер](http://meyerweb.com/eric/thoughts/2017/11/14/declining-complexity-in-css/)
 - [Будет издана книга «CSS. Полное руководство»](http://shtonda.blogspot.ru/2017/09/css-definitive-guide-4ed-meyer-weyl.html)
-- [Словари по фронтенду](https://github.com/web-standards-ru/dictionary)
+- [Словари по фронтенду](https://github.com/web-standards/dictionary)
 
 ## Школы при компаниях
 

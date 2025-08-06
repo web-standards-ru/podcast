@@ -5,7 +5,7 @@
 
 ## Инди-сайты
 
-- [Список инди-сайтов по фронтенду](https://github.com/web-standards-ru/indie-list)
+- [Список инди-сайтов по фронтенду](https://github.com/web-standards/indie-list)
 
 ## Подкаст на сайте и RSS
 

@@ -2,7 +2,7 @@
 
 - [Трансляция с Яндекс Субботника в Питере](https://youtu.be/MKrX3Fld-WI)
 - [LvivCSS во Львове 11 ноября](http://www.lvivcss.com.ua/)
-- [Календарь событий по фронтенду](https://github.com/web-standards-ru/calendar)
+- [Календарь событий по фронтенду](https://github.com/web-standards/calendar)
 
 ## Firefox
 

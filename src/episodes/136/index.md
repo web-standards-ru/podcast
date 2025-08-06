@@ -42,4 +42,4 @@
 
 - [Reach UI](https://ui.reach.tech/)
 - [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525)
-- [Выпуск №122 с Алексеем Швайкой](https://github.com/web-standards-ru/podcast/blob/master/episodes/episode-122.md)
+- [Выпуск №122 с Алексеем Швайкой](https://github.com/web-standards/podcast/blob/master/episodes/episode-122.md)

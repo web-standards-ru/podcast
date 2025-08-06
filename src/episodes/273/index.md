@@ -5,7 +5,7 @@
 - [DUMP в Екатеринбурге 14 мая](https://dump-ekb.ru/)
 - [Secon в Пензе 19–20 июня](https://2021.secon.ru/)
 - [404fest X в сентябре](https://2021.404fest.ru/)
-- [Ищем мейнтейнера календаря](https://github.com/web-standards-ru/calendar)
+- [Ищем мейнтейнера календаря](https://github.com/web-standards/calendar)
 
 ## Старый Edge всё
 

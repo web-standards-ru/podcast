@@ -1,7 +1,7 @@
 ## Патреон и подкасты
 
 - [Патреон «Веб-стандартов»](https://www.patreon.com/webstandards_ru)
-- [Подкасты про веб-разработку](https://github.com/web-standards-ru/podcasts-list)
+- [Подкасты про веб-разработку](https://github.com/web-standards/podcasts-list)
 
 ## События
 

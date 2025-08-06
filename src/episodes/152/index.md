@@ -1,6 +1,6 @@
 ## События и сообщество в Казани
 
-- [CFP list Александра Коротаева](https://github.com/web-standards-ru/cfp-list)
+- [CFP list Александра Коротаева](https://github.com/web-standards/cfp-list)
 - [Pitercss_class в Питере 22 декабря](https://vk.com/@pitercss_class-4)
 - [AstanaJS в Астане 22 декабря](https://astanajs.timepad.ru/event/870701/)
 - [KazanJS в Казани 18 декабря](https://twitter.com/kazan_js)
