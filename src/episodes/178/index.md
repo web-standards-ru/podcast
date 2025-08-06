@@ -11,7 +11,6 @@
 - [JSConf в Берлине 1–2 июня](https://2019.jsconf.eu/)
 - [ReactRussia: конкурс на новое название](https://twitter.com/ReactRussia/status/1134141742511513600)
 - [BeerJS Summit в Минске 22 июля](https://beerjssummit.com/)
-- [Календарь «Веб-стандартов» теперь в JSON](https://web-standards.ru/calendar.json)
 
 ## W3C + WHATWG = HTML
 

@@ -1,7 +1,6 @@
 ## Три года в эфире
 
 - [Выпуск №1, 1 февраля 2016](https://medium.com/p/b1f0273fda26)
-- [Страница с подкастом на новом сайте](https://new.web-standards.ru/podcast/)
 - [Задача собрать карту из календаря](https://github.com/web-standards-ru/new/issues/89)
 
 ## События

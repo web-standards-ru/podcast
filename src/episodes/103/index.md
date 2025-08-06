@@ -17,7 +17,6 @@
 
 ## Что-то помню, где искать?
 
-- [Слак](http://slack.web-standards.ru/)
 - [Телеграм](https://telegram.me/webstandards_ru)
 
 ## Точка с запятой в JS

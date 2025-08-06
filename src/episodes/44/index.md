@@ -7,7 +7,6 @@
 - [HolyJS в Москве 11 декабря](http://holyjs.ru/)
 - [hi@pitercss.com](mailto:hi@pitercss.com) для докладов на pitercss
 - [Приём докладов на CodeFest](http://2017.codefest.ru/speakers/ru/call-for-papers.html)
-- [Приём докладов на React Amsterdam](https://docs.google.com/a/web-standards.ru/forms/d/e/1FAIpQLScp2kKZXRhM_n1-gjDHkwe30Vvtf6AbTT54fZ3au4ACIv8FZw/viewform)
 
 ## Новости Firefox
 
